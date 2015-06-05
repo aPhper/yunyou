@@ -31,25 +31,28 @@
 </div>
 <div class="loginbody"> <span class="systemlogo"></span>
   <div class="loginbox">
+  <?php echo form_open(base_url('login'),'post')?>
     <ul>
       <li>
-        <input name="" type="text" class="loginuser" value="admin" onclick="JavaScript:this.value=''"/>
+        <input type="text" class='loginuser' name="username" value="<?php echo set_value('username'); ?>" tautocomplete="off" />
+<?php echo form_error('username'); ?>
       </li>
       <li>
-        <input name="" type="password" class="loginpwd" value="密码" onclick="JavaScript:this.value=''"/>
+        <input type="password" name="password" class='loginpwd' value="<?php echo set_value('password'); ?>" tautocomplete="off"/>
+<?php echo form_error('password'); ?><br/>
       </li>
       <li>
-           <select class="loginform">
-              <option>运维管理</option>
-              <option>运营管理</option>
-              <option>客服管理</option>
+           <select class="loginform" name='user_type'>
+              <option value='tech'>运维管理</option>
+              <option value='admin'>运营管理</option>
+              <option value='cm'>客服管理</option>
             </select>        
       </li>
       <li>
-        <input name="" type="button" class="loginbtn" value="登录"  onclick="javascript:window.location='main_yw.html'"  />
+        <input name="submit" type="submit" class="loginbtn" value="登录"   />
         <label>
-          <input name="" type="checkbox" value="" checked="checked" />
-          记住密码</label>
+          <input name="" type="checkbox" value="" checked="checked" /> 
+          记住密码</label><?php if(isset($error_string)){echo $error_string;}?>
       </li>
     </ul>
   </div>
