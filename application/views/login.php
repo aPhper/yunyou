@@ -34,25 +34,26 @@
   <?php echo form_open(base_url('login'),'post')?>
     <ul>
       <li>
+        <i class="red"><?php if(isset($error_string)){echo $error_string;}?></i>
         <input type="text" class='loginuser' name="username" value="<?php echo set_value('username'); ?>" tautocomplete="off" />
-<?php echo form_error('username'); ?>
+        <i class="yanz_info red"><?php echo form_error('username'); ?></i>
       </li>
       <li>
         <input type="password" name="password" class='loginpwd' value="<?php echo set_value('password'); ?>" tautocomplete="off"/>
-<?php echo form_error('password'); ?><br/>
+        <i class="yanz_info red"><?php echo form_error('password'); ?></i>
       </li>
       <li>
            <select class="loginform" name='user_type'>
-              <option value='tech'>运维管理</option>
-              <option value='admin'>运营管理</option>
-              <option value='cm'>客服管理</option>
+              <option value='tech' <?php echo set_select('user_type','tech',true) ?> >运维管理</option>
+              <option value='admin' <?php echo set_select('user_type','admin') ?>>运营管理</option>
+              <option value='cm' <?php echo set_select('user_type','cm') ?>>客服管理</option>
             </select>        
       </li>
       <li>
         <input name="submit" type="submit" class="loginbtn" value="登录"   />
         <label>
           <input name="" type="checkbox" value="" checked="checked" /> 
-          记住密码</label><?php if(isset($error_string)){echo $error_string;}?>
+                                     记住密码</label>
       </li>
     </ul>
   </div>

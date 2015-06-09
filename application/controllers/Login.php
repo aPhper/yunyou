@@ -82,24 +82,32 @@ class Login extends CI_Controller
     public function index()
     {
         if ($this->auth->hasLogin()) {//判断是否登录
-            echo '您已登录';
-            //$this->common->jump($this->referrer, $this->information['logined']);
+            $left_url = $this->config->item('left_url');
+            $main_url = $this->config->item('main_url');
+            $user = $this->session->userdata('user_info');
+            $this->_data['left_url']= $left_url[$user['col_role']];
+            $this->_data['main_url']= $main_url[$user['col_role']];
+            $this->load->view('main',$this->_data);
         } else {
             if ($this->form_validation->run('user_login') === FALSE) {//判断提交的内容
-                $this->load->view('login', $this->_data);
+                $this->load->view('login');
             } else {
                 $user = $this->user_mdl->validate_user($this->input->post('username', TRUE), $this->input->post('password', TRUE));
                 if (! empty($user)) {
                     if($user['col_role']==$this->input->post('user_type')){
                         if ($this->auth->process_login($user)) {
-                            $this->common->jump(base_url(),'登录成功');
+                                $left_url = $this->config->item('left_url');
+                                $main_url = $this->config->item('main_url');
+                                $this->_data['left_url']= $left_url[$user['col_role']];
+                                $this->_data['main_url']= $main_url[$user['col_role']];
+                                $this->load->view('main',$this->_data);
                         }
                     }else{
-                       $this->_data['error_string'] = '身份验证错误';
+                       $this->_data['error_string'] = $this->information['login_type_error'];
                        $this->load->view('login',$this->_data);
                     }
                 }else {
-                    $this->error_string = $this->information['login_error'];
+                    $this->_data['error_string'] = $this->information['login_error'];
                     $this->load->view('login', $this->_data);
                 }
             }

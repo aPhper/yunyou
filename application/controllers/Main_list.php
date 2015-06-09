@@ -1,7 +1,13 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Main_list extends CI_Controller {
+    
+    public function __construct()
+    {
+        parent::__construct();
+        
+    }    
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +26,27 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		$this->load->view('top');
+	}
+	/**
+	 * 运维管理显示云平台列表
+	 */
+	public function list_cloud()
+	{
+	    $this->load->view('');
+	}
+	/**
+	 * 运营管理显示用户列表
+	 */
+	public function list_user()
+	{
+	    $this->load->view('');
+	}
+	/**
+	 * 客服显示资源列表
+	 */
+	public function list_resource()
+	{
+	    $this->load->view('');
 	}
 }

@@ -8,6 +8,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 $config['user_login_tips'] = array(//登录提示
     'logined' => '您已经登录',
     'login_error' => '用户名或密码错误',
+    'login_type_error' => '身份验证错误',
     'not_login'=>'您还未登录,请先登录'
 );
 $config['web_info'] = array(//网站信息
@@ -54,7 +55,16 @@ $config['farmer_data']=array(//farmer发送数据
         "action"=>"antivirus",
         "jobId"=>"file_name"
 );
-
+$config['left_url']=array(
+    'tech'=>'left_yw',
+    'admin'=>'left_yy',
+    'cm'=>'left_kf'
+);
+$config['main_url']=array(
+    'tech'=>'main_list/list_cloud',
+    'admin'=>'main_list/list_user',
+    'cm'=>'main_list/list_resource'
+);
 
 
 
