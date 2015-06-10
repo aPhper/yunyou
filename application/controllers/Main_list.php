@@ -28,6 +28,27 @@ class Main_list extends CI_Controller {
 		$this->load->view('top');
 	}
 	/**
+	 * 显示运维左列表
+	 */
+	public function left_yw()
+	{
+	    $this->load->view('left_yw');
+	}
+	/**
+	 * 显示运营左列表
+	 */
+	public function left_yy()
+	{
+	    $this->load->view('left_yy');
+	}
+	/**
+	 * 显示客服左列表
+	 */
+	public function left_kf()
+	{
+	    $this->load->view('left_kf');
+	}
+	/**
 	 * 运维管理显示云平台列表
 	 */
 	public function list_cloud()
@@ -48,4 +69,5 @@ class Main_list extends CI_Controller {
 	{
 	    $this->load->view('');
 	}
+	
 }

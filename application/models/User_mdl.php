@@ -158,9 +158,9 @@ class User_mdl extends CI_Model {
 	        $this->db->limit(1);
 	        $query=$this->db->get(self::TABLE);
 	        if($query->num_rows()==1){
-	            $res=$this->update_user($user_id,array('col_passwd'=>$newpasswd));
-	            return $res;
+	            $data=$this->update_user($user_id,array('col_passwd'=>$newpasswd));
 	        } 
+	        return $data;    
 	    }
 	}
 }

@@ -58,17 +58,17 @@ $config=array(
     'resetpasswd'=>array(
         array(
             'field' => 'oldpasswd',
-            'label' => '密码',
+            'label' => '旧密码',
             'rules' => 'trim|required|min_length[5]|max_length[32]'
         ),
         array(
             'field' => 'newpasswd',
-            'label' => '密码',
-            'rules' => 'trim|required|min_length[5]|max_length[32]'
+            'label' => '新密码',
+            'rules' => 'trim|required|min_length[5]|max_length[32]|matches[passwdconf]|callback_newpasswd_check'
         ),
         array(
             'field' => 'passwdconf',
-            'label' => '密码',
+            'label' => '确认密码',
             'rules' => 'trim|required|min_length[5]|max_length[32]'
         )
     ),

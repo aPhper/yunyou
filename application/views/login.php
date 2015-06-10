@@ -3,9 +3,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>欢迎登录后台管理系统</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script language="JavaScript" src="js/jquery.js"></script>
-<script src="js/cloud.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo base_url('css/style.css') ?>"/>
+<script language="JavaScript" src="<?php echo base_url('js/jquery.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('js/cloud.js') ?>"></script>
 
 <script language="javascript">
 	$(function(){
