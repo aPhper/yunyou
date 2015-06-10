@@ -63,7 +63,7 @@ class Login extends CI_Controller
      * 错误消息
      * @var string
      */
-    public $error_string;
+//     public $error_string;
 
     /**
      * 检查referrer

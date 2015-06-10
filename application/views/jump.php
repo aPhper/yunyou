@@ -13,6 +13,5 @@
  */
 ?>
 <div class='col-md-12'>
-<?php echo $message?>
-<a href='<?php echo $url;?>'>点此跳转</a>
+<span><?php echo $message?></span>
 </div>

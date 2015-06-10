@@ -8,8 +8,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 $config['user_login_tips'] = array(//登录提示
     'logined' => '您已经登录',
     'login_error' => '用户名或密码错误',
-    'login_type_error' => '身份验证错误',
-    'not_login'=>'您还未登录,请先登录'
+    'login_type_error' => '用户角色错误',
+    'not_login'=>'您还未登录,请先登录',
+    'password_error'=>'旧密码错误',
+    'update_passwd_success'=>'密码修改成功'
 );
 $config['web_info'] = array(//网站信息
     'web_name'=>'大圣云游',
@@ -56,9 +58,9 @@ $config['farmer_data']=array(//farmer发送数据
         "jobId"=>"file_name"
 );
 $config['left_url']=array(
-    'tech'=>'left_yw',
-    'admin'=>'left_yy',
-    'cm'=>'left_kf'
+    'tech'=>'main_list/left_yw',
+    'admin'=>'main_list/left_yy',
+    'cm'=>'main_list/left_kf'
 );
 $config['main_url']=array(
     'tech'=>'main_list/list_cloud',
