@@ -60,7 +60,7 @@ class Main_list extends CI_Controller {
 	 */
 	public function list_user()
 	{
-	    $this->load->view('');
+	    $this->load->view('user_list');
 	}
 	/**
 	 * 客服显示资源列表

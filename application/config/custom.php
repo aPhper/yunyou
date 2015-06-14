@@ -67,6 +67,10 @@ $config['main_url']=array(
     'admin'=>'main_list/list_user',
     'cm'=>'main_list/list_resource'
 );
+$config['limit']=array(
+    'user_list'=>15
+);
+
 
 
 

@@ -38,14 +38,14 @@ class User_mdl extends CI_Model {
 	 * @param $limit 查找条数
 	 * @return: boolean
 	 */
-	public  function get_user_list($uid,$where=array(),$limit='100',$res_type='array') {
+	public  function get_user_list($where=array(),$limit='100',$offset) {
 		$this->db->select('*');
 		$this->db->from(self::TABLE);
 		if(is_array($where)){
 			foreach ($where as $key=> $value) {
 				$this->db->where($key,$value);
 			}
-		$this->db->limit(intval($limit));
+		$this->db->limit(intval($limit),$offset);
 		$query=$this->db->get();
 		return $query->result_array();
 		}else{
@@ -162,5 +162,23 @@ class User_mdl extends CI_Model {
 	        } 
 	        return $data;    
 	    }
+	}
+	public function get_user_num($where=array()){
+	    $this->db->select('*');
+	    $this->db->from(self::TABLE);
+	    if(is_array($where)){
+	        foreach ($where as $key=> $value) {
+	            $this->db->where($key,$value);
+	        }
+	        $query=$this->db->get();
+	        if($query){
+	            return $this->db->last_query();
+	        }else{
+	            return false;
+	        }
+	        
+	   }else{
+	       return false;
+	   }
 	}
 }

@@ -89,6 +89,39 @@ $config=array(
             'rules' => 'trim|required'
         )
         
+    ),
+    'create_user'=>array(
+        array(
+            'field' => 'name',
+            'label' => '姓名',
+            'rules' => 'trim|required'
+        ),
+        array(
+            'field' => 'username',
+            'label' => '用户名',
+            'rules' => 'trim|required|min_length[5]|max_length[16]|alpha_dash'
+        ),
+        array(
+            'field' => 'mail',
+            'label' => '邮箱',
+            'rules' => 'trim|required|min_length[6]|max_length[64]|valid_email'
+        ),
+        array(
+            'field' => 'sex',
+            'label' => '性别',
+            'rules' => ''
+        ),
+        array(
+            'field' => 'call',
+            'label' => '电话',
+            'rules' => 'trim|numeric|exact_length[11]'
+        ),
+         array(
+            'field' => 'passwd',
+            'label' => '密码',
+            'rules' => 'trim|required|min_length[5]|max_length[32]|matches[passwdconf]|callback_newpasswd_check'
+        )
+        
     )
     
 );
