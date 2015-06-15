@@ -79,7 +79,9 @@ $(document).ready(function(e) {
         <td><?php echo $value['col_role']?></td>
         <td><?php echo $value['col_mail']?></td>
         <td><?php echo $value['col_qq']?></td>
-        <td><a href='<?php echo base_url("manage_user/view_user/".$value['col_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp; <a href='yh_xg.html' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; <a href='#' class='tablelink'> 删除 </a></td>
+        <td><a href='<?php echo base_url("manage_user/view_user/".$value['col_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
+         <a href='<?php echo base_url("manage_user/update_user/".$value['col_id'])?>' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; 
+         <a href='<?php echo base_url("manage_user/delete_user/".$value['col_id'])?>' class='tablelink'> 删除 </a></td>
       </tr>
       <?php }}?>
     </tbody>

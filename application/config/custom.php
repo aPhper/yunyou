@@ -44,6 +44,13 @@ $config['script_config']=array(//脚本上传配置
     'max_filename'=>'1024',
     'encrypt_name'=>TRUE
 );
+$config['image_config']=array(
+    'upload_path'=>'../upload_image',
+    'allowed_types'=>'gif|jpg|png|jpeg',
+    'max_size'=>'2048',
+    'max_filename'=>'1024',
+    'encrypt_name'=>TRUE
+);
 $config['farmer']=array(//安全检测配置
     'url'=>'192.168.1.112',
     'username'=>'admin',

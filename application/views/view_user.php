@@ -22,11 +22,11 @@
       <span class='form_infor'><?php echo $user['col_name']?></span></li>
     <li>
       <label>用户权限</label>
-      <span class='form_infor'><?php $user['col_role']?></span></li>
+      <span class='form_infor'><?php echo $user['col_role']?></span></li>
     <li>
       <label>用户名</label>
       
-      <span class='form_infor'><?php $user['col_nickname']?></span></li>
+      <span class='form_infor'><?php echo $user['col_nickname']?></span></li>
       
     <li>
       <label>邮箱</label>
@@ -41,7 +41,7 @@
     <li>
     
       <label>&nbsp;</label>
-      <input name='' type='button' class='btn' value='修改' onclick='javascript:window.location.href='<?php echo base_url('manage_user/update_user/'.$user['col_id'])?>'/>
+     <a href='<?php echo base_url("manage_user/update_user/".$user['col_id'])?>' target='rightFrame'><input name='' type='button' class='btn' value='修改' /></a> 
     </li>
   </ul>
 </div>

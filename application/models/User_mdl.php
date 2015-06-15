@@ -26,7 +26,7 @@ class User_mdl extends CI_Model {
 			return false;
 		}
 		$query=$this->db->insert(self::TABLE,$data);
-		return $this->db->insert_id();
+		return $this->db->last_query();
 	}
 	/**
 	 * 

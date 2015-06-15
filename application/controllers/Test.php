@@ -21,11 +21,7 @@ class Test extends CI_Controller
 {
 
   public function index(){
-      $this->load->database();
-      $this->db->select('*');
-      $this->db->where('col_role !=','user');
-      $this->db->where('col_role !=','author');
-      $query=$this->db->get('user');
-      echo $this->db->last_query();
+      $this->load->library('common');
+     echo  $this->common->page_config(2,1,base_url('test'));
   }
 }

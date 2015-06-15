@@ -3,10 +3,10 @@
 <head>
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>无标题文档</title>
-<link href='../css/style.css' rel='stylesheet' type='text/css' />
-<link href='../css/select.css' rel='stylesheet' type='text/css' />
-<script type='text/javascript' src='../js/jquery.js'></script>
-<script type='text/javascript' src='../js/select-ui.min.js'></script>
+<link href='<?php echo base_url("css/style.css");?>' rel='stylesheet' type='text/css' />
+<link href='<?php echo base_url("css/select.css");?>' rel='stylesheet' type='text/css' />
+<script type='text/javascript' src='<?php echo base_url("css/select.css")?>'></script>
+<script type='text/javascript' src='<?php echo base_url("js/select-ui.min.js");?>'></script>
 <script type='text/javascript'>
 $(document).ready(function(e) {
     $('.select1').uedSelect({
@@ -32,11 +32,12 @@ $(document).ready(function(e) {
 </div>
 <div class='formbody'>
   <div class='formtitle'><span>增加用户</span></div>
-  <?php echo form_open('manage_user/create_user','post')?>
+  <?php echo form_open('manage_user/update_user','post')?>
+  <?php echo form_hidden('user_id',$user_id)?>
   <ul class='forminfo'>
     <li>
       <label>用户名称</label>
-      <input name='username' type='text' class='dfinput' value="<?php echo set_value('username'); ?>" /><?php echo form_error('username'); ?>
+      <input name='username' type='text' class='dfinput' value="<?php echo $user['col_nickname']; ?>" />
       
     </li>
     <li>
@@ -47,38 +48,36 @@ $(document).ready(function(e) {
           <option value='admin'>运营管理</option>
           <option value='cm'>客服管理</option>
         </select>
-      </div>
+      </div> 
     </li>
     <li><label>性别</label>男<input type="radio" value='男' name='sex'/>女<input name='sex' type="radio" value='女' /></li>
     <li>
       <label>真实姓名</label>
-      <input name='name' type='text'value='' class='dfinput' value="<?php echo set_value('name'); ?>"  /><?php echo form_error('name'); ?>
+      <input name='name' type='text' class='dfinput' value="<?php echo $user['col_name']; ?>" />
       
     </li>
     <li>
       <label>邮箱</label>
-      <input name='mail' type='text' class='dfinput' value="<?php echo set_value('mail'); ?>" /><?php echo form_error('mail'); ?>
+      <input name='mail' type='text' class='dfinput' value="<?php echo $user['col_mail']; ?>" />
       
     </li>
    <li>
       <label>电话</label>
-      <input name='call' type='text' class='dfinput'  value="<?php echo set_value('call'); ?>"/><?php echo form_error('call'); ?>
+      <input name='call' type='text' class='dfinput'  value="<?php echo $user['col_call']; ?>"/>
       
     </li>
     <li>
       <label>QQ</label>
-      <input name='qq' type='text' class='dfinput' value="<?php echo set_value('qq'); ?>" /><?php echo form_error('qq'); ?>
+      <input name='qq' type='text' class='dfinput' value="<?php echo $user['col_qq']; ?>" />
       
     </li>
     <li>
       <label>密码</label>
-      <input name='passwd' type='text' class='dfinput' value="<?php echo set_value('qq'); ?>" /><?php echo form_error('passwd'); ?>
-      
+      <input name='passwd' type='text' class='dfinput' value="" />
     </li>
-    
     <li>
       <label>&nbsp;</label>
-      <input name='submit' type='submit' class='btn' value='增加'/><?php if(isset($post_info)){echo $post_info;}?>
+      <input name='submit' type='submit' class='btn' value='修改'/>
     </li>
   </ul>
 </div>

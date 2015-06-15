@@ -17,10 +17,40 @@ class Manage_user extends CI_Controller {
     * 添加用户
     */
    public function create_user(){
-       if($this->form_validation->run('create_user') == FALSE){
+       if($this->form_validation->run('create_user') === FALSE){
+           $data=array(
+               'col_nickname'=>$this->input->post('username'),
+               'col_name'=>$this->input->post('name'),
+               'col_sex'=>$this->input->post('sex'),
+               'col_mail'=>$this->input->post('mail'),
+               'col_call'=>$this->input->post('call'),
+               'col_qq'=>$this->input->post('qq'),
+               'col_role'=>$this->input->post('role'),
+               'col_passwd'=>sha1($this->input->post('passwd'))
+           );
            $this->load->view('create_user',$this->_data);
        }else{
-           $this->load->view('create_user');
+           $data=array(
+               'col_nickname'=>$this->input->post('username'),
+               'col_name'=>$this->input->post('name'),
+               'col_sex'=>$this->input->post('sex'),
+               'col_mail'=>$this->input->post('mail'),
+               'col_call'=>$this->input->post('call'),
+               'col_qq'=>$this->input->post('qq'),
+               'col_role'=>$this->input->post('role'),
+               'col_passwd'=>sha1($this->input->post('passwd'))
+           );
+           
+           $this->load->model('user_mdl');
+           if($this->user_mdl->check_exist('col_nickname',$this->input->post('username'))){
+               $this->_data['post_info']='用户名已存在';
+               $this->load->view('create_user',$this->_data);
+           }else{
+                $this->user_mdl->create_user($data);
+                $this->_data['post_info']='用户创建成功';
+                $this->load->view('create_user',$this->_data);
+           }
+           
        }
    }
    /**
@@ -44,13 +74,58 @@ class Manage_user extends CI_Controller {
      * 删除用户     注:删除用户为将用户置为无效
      */
    public function delete_user(){
-        
+       if($this->uri->segment(3)){
+           $this->_data['user_id']=$this->uri->segment(3);
+           $this->load->model('user_mdl'); 
+           if($this->user_mdl->update_user($this->_data['user_id'],array('col_valid'=>'N'))){
+               $this->common->jump(base_url('manage_user/list_user'),'删除成功');
+           }else{
+               $this->common->jump(base_url('manage_user/list_user'),'删除失败');
+           }
+           
+       }else{
+          show_404(); 
+       }
    }
    /**
     * 修改用户信息
     */
    public function update_user(){
-       
+       if($this->uri->segment(3)){
+           $this->_data['user_id']=$this->uri->segment(3);
+           $this->load->model('user_mdl');
+           $user=$this->user_mdl->get_user_by_id($this->uri->segment(3));
+           
+           if($user){
+               $this->_data['user']=$user;
+               $this->load->view('update_user',$this->_data);
+           }else{
+               $this->common->jump(base_url('manage_user/list_user'),'找不到该用户');
+           }
+       }else{
+           $user_id=$this->input->post('user_id');
+           $this->_data['user_id']=$user_id;
+           if($user_id){
+               $data=array(
+               'col_nickname'=>$this->input->post('username'),
+               'col_name'=>$this->input->post('name'),
+               'col_sex'=>$this->input->post('sex'),
+               'col_mail'=>$this->input->post('mail'),
+               'col_call'=>$this->input->post('call'),
+               'col_qq'=>$this->input->post('qq'),
+               'col_role'=>$this->input->post('role'),
+               'col_passwd'=>$this->input->post('passwd')
+           );
+               if($this->user_mdl->update_user($user_id,$data)){
+                   $this->common->jump(base_url('manage_user/list_user'),'修改成功');
+               }else{
+                   $this->common->jump(base_url('manage_user/list_user'),'修改失败,重新修改');
+               }
+           }else{
+                show_404();
+           }
+           
+       }
    }
    /**
     * 根据条件列出用户
