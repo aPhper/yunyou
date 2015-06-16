@@ -63,6 +63,24 @@ class Manage_script extends CI_Controller {
        $this->load->view('list_script',$this->_data);
 }
    public function check_script(){
-       
+       if($this->uri->segment(3)&&$this->uri->segment(4)){
+           $this->_data['script_id']=$this->uri->segment(3);
+           $this->load->model('game_script_mdl');
+           if($this->uri->segment(4)=='yes'){
+               $res=1;
+           }elseif($this->uri->segment(4)=='no'){
+               $res=2;
+           }else{
+               $res=0;
+           }
+           if($this->game_script_mdl->update_script($this->_data['script_id'],array('col_check'=>$res))){
+               $this->common->jump(base_url('manage_script/list_script'),'操作成功');
+           }else{
+               $this->common->jump(base_url('manage_script/list_script'),'操作失败');
+           }
+            
+       }else{
+           show_404();
+       }
    }
 }

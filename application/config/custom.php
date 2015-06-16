@@ -77,7 +77,8 @@ $config['main_url']=array(
 $config['limit']=array(
     'user_list'=>15,
     'game_list'=>15,
-    'script_list'=>15
+    'script_list'=>15,
+    'template_list'=>15
 );
 
 

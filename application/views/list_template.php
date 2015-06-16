@@ -47,7 +47,7 @@ $(document).ready(function(e) {
   <ul class='placeul'>
     <li> <a href='#'> 首页 </a> </li>
     <li> <a href='#'> 运营管理 </a> </li>
-    <li> <a href='#'> 用户管理 </a> </li>
+    <li> <a href='#'> 模板管理 </a> </li>
   </ul>
 </div>
 <div class='rightinfo'>
@@ -56,7 +56,6 @@ $(document).ready(function(e) {
     <thead>
       <tr>
         <th width='60'>序号<i class='sort'><img src='<?php echo base_url();?>images/px.gif' /></i></th>
-        <th>游戏名称</th>
         <th>脚本名称</th>
         <th>作者</th>
         <th width='440'>制作日期</th>
@@ -70,14 +69,13 @@ $(document).ready(function(e) {
     ?>
       <tr>
         <td><?php echo $key?></td>
-        <td><?php echo $value['col_nickname']?></td>
-        <td><?php echo $value['col_name']?></td>
-        <td><?php echo $value['col_role']?></td>
-        <td><?php echo $value['col_mail']?></td>
-        <td><?php echo $value['col_qq']?></td>
-        <td><a href='<?php echo base_url("manage_template/view_template/".$value['col_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
-         <a href='<?php echo base_url("manage_template/update_template/".$value['col_id'])?>' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; 
-         <a href='<?php echo base_url("manage_template/delete_template/".$value['col_id'])?>' class='tablelink'> 删除 </a></td>
+        <td><?php echo $value['script_name']?></td>
+        <td><?php echo $value['user_name']?></td>
+        <td><?php echo $value['time']?></td>
+        <td><?php echo $value['status']?></td>
+        <td><a href='<?php echo base_url("manage_template/view_template/".$value['template_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
+         <a href='<?php echo base_url("manage_template/update_template/".$value['template_id'])?>' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; 
+         <a href='<?php echo base_url("manage_template/delete_template/".$value['template_id'])?>' class='tablelink'> 删除 </a></td>
       </tr>
       <?php }}?>
     </tbody>

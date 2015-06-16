@@ -60,6 +60,7 @@ $(document).ready(function(e) {
         <th>标题</th>
         <th>作者</th>
         <th>状态</th>
+        <th>审核结果</th>
         <th>上传日期</th>
         <th>操作</th>
       </tr>
@@ -74,6 +75,7 @@ $(document).ready(function(e) {
         <td><?php echo $value['script_name']?></td>
         <td><?php echo $value['col_nickname']?></td>
         <td><?php echo $value['col_status']?></td>
+        <td><?php echo $value['col_check']?></td>
         <td><?php echo $value['col_date']?></td>
         <td><a href='<?php echo base_url("manage_script/view_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
          <a href='<?php echo base_url("manage_script/check_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'> 审核 </a> &nbsp;&nbsp;&nbsp; 

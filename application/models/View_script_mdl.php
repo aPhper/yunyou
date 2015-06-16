@@ -23,7 +23,7 @@ class View_script_mdl extends CI_Model {
      */
     public function list_script($where=array(),$limit='5',$offset='0',$order_by_type='desc',$order_by_title='gs.col_id') {
        $mess = array ();
-       $this->db->select('ct.col_id as template_id,gs.col_id as script_id,gs.col_date,gs.col_status,gs.col_name as script_name,gs.col_desc as script_info,u.col_nickname,u.col_qq,g.col_name as game_name,g.col_pic,g.col_gtype,(SELECT COUNT(*) FROM vm where col_template_id =st.col_template) as num');
+       $this->db->select('ct.col_id as template_id,gs.col_check,gs.col_id as script_id,gs.col_date,gs.col_status,gs.col_name as script_name,gs.col_desc as script_info,u.col_nickname,u.col_qq,g.col_name as game_name,g.col_pic,g.col_gtype,(SELECT COUNT(*) FROM vm where col_template_id =st.col_template) as num');
 	   $this->db->from(array('cloud_template ct','game g','script_template st','game_script gs','user u'));
 	   $this->db->where('st.col_script_id','gs.col_id',FALSE);
 	   $this->db->where('st.col_template','ct.col_id',FALSE);
