@@ -27,11 +27,11 @@ class Template_mdl extends CI_Model {
 				}
 		}
 	}
-	public function  list_template($where=array(),$limit='100',$order_by='col_id'){
+	public function  list_template($where=array(),$limit='100',$offset=0,$order_by='col_id'){
 		foreach ($where as  $key=>$value) {
 			$this->db->where($key,$value);
 		}
-		$this->db->limit(intval($limit));
+		$this->db->limit(intval($limit),$offset);
 		$this->db->order_by($order_by);
 		$query=$this->db->get(self::TABLE);
 		if($query){
@@ -65,10 +65,3 @@ class Template_mdl extends CI_Model {
 		}
 	}
 }
-//set_template
-//get_template_list
-//get_template
-//make_template
-//remove_template
-//update_template
-//

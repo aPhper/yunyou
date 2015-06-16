@@ -47,7 +47,7 @@ $(document).ready(function(e) {
   <ul class='placeul'>
     <li> <a href='#'> 首页 </a> </li>
     <li> <a href='#'> 运营管理 </a> </li>
-    <li> <a href='#'> 游戏管理 </a> </li>
+    <li> <a href='#'> 脚本管理 </a> </li>
   </ul>
 </div>
 <div class='rightinfo'>
@@ -56,28 +56,28 @@ $(document).ready(function(e) {
     <thead>
       <tr>
         <th width='60'>序号<i class='sort'><img src='<?php echo base_url();?>images/px.gif' /></i></th>
-        <th>游戏名</th>
-        <th>类型</th>
-        <th>版本号</th>
-        <th>开发商</th>
-        <th width='440'>运营商</th>
+        <th>游戏</th>
+        <th>标题</th>
+        <th>作者</th>
+        <th>状态</th>
+        <th>上传日期</th>
         <th>操作</th>
       </tr>
     </thead>
     <tbody>
-    <?php if(isset($game_list)){
-        foreach ($game_list as $key =>$value){
+    <?php if(isset($script_list)){
+        foreach ($script_list as $key =>$value){
     ?>
       <tr>
         <td><?php echo $key?></td>
-        <td><?php echo $value['col_name']?></td>
-        <td><?php echo $value['col_ttype']?></td>
-        <td><?php echo $value['col_version']?></td>
-        <td><?php echo $value['col_developer']?></td>
-        <td><?php echo $value['col_operator']?></td>
-        <td><a href='<?php echo base_url("manage_game/view_game/".$value['col_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
-         <a href='<?php echo base_url("manage_game/update_game/".$value['col_id'])?>' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; 
-         <a href='<?php echo base_url("manage_game/delete_game/".$value['col_id'])?>' class='tablelink'> 删除 </a></td>
+        <td><?php echo $value['game_name']?></td>
+        <td><?php echo $value['script_name']?></td>
+        <td><?php echo $value['col_nickname']?></td>
+        <td><?php echo $value['col_status']?></td>
+        <td><?php echo $value['col_date']?></td>
+        <td><a href='<?php echo base_url("manage_script/view_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
+         <a href='<?php echo base_url("manage_script/check_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'> 审核 </a> &nbsp;&nbsp;&nbsp; 
+         <a href='<?php echo base_url("manage_script/delete_script/".$value['script_id'])?>' class='tablelink'> 删除 </a></td>
       </tr>
       <?php }}?>
     </tbody>

@@ -34,9 +34,9 @@ $(function(){
     <ul class="menuson">
       <li><cite></cite><a href="<?php echo base_url('manage_user/list_user')?>" target="rightFrame">用户管理</a><i></i></li>
       <li><cite></cite><a href="" target="rightFrame">报表管理</a><i></i></li>
-      <li><cite></cite><a href="mob.html" target="rightFrame">模板管理</a><i></i></li>
-      <li><cite></cite><a href="jb.html" target="rightFrame">脚本管理</a><i></i></li>
-      <li><cite></cite><a href="<?php echo base_url('manage_game/create_game');?>" target="rightFrame">游戏管理</a><i></i></li>
+      <li><cite></cite><a href="<?php echo base_url('manage_template/list_template');?>" target="rightFrame">模板管理</a><i></i></li>
+      <li><cite></cite><a href="<?php echo base_url('manage_script/list_script')?>" target="rightFrame">脚本管理</a><i></i></li>
+      <li><cite></cite><a href="<?php echo base_url('manage_game/list_game');?>" target="rightFrame">游戏管理</a><i></i></li>
     </ul>
   </dd>
 </dl>

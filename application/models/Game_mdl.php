@@ -22,11 +22,11 @@ class Game_mdl extends CI_Model {
 	            }
 	    }
 	}
-	public function  list_game($where=array(),$limit='100',$order_by='col_id'){
+	public function  list_game($where=array(),$limit='100',$offset,$order_by='col_id'){
 	    foreach ($where as  $key=>$value) {
 	        $this->db->where($key,$value);
 	    }
-	    $this->db->limit(intval($limit));
+	    $this->db->limit(intval($limit),$offset);
 	    $this->db->order_by($order_by);
 	    $query=$this->db->get(self::TABLE);
 	    if($query){
@@ -57,6 +57,24 @@ class Game_mdl extends CI_Model {
 	            log_message('error', 'update_game query error'.mysql_error());
 	            return false;
 	        }
+	    }
+	}
+	public function get_game_num($where=array()){
+	    $this->db->select('*');
+	    $this->db->from(self::TABLE);
+	    if(is_array($where)){
+	        foreach ($where as $key=> $value) {
+	            $this->db->where($key,$value);
+	        }
+	        $query=$this->db->get();
+	        if($query){
+	            return $query->num_rows();
+	        }else{
+	            return false;
+	        }
+	         
+	    }else{
+	        return false;
 	    }
 	}
 }

@@ -75,7 +75,9 @@ $config['main_url']=array(
     'cm'=>'main_list/list_resource'
 );
 $config['limit']=array(
-    'user_list'=>15
+    'user_list'=>15,
+    'game_list'=>15,
+    'script_list'=>15
 );
 
 

@@ -11,6 +11,7 @@ class Manage_game extends CI_Controller {
    /**
     * 添加游戏
     */
+   private $_data;
    public function create_game(){
        //$this->load->view('create_game');
        $config=$this->config->item('image_config');
@@ -47,65 +48,102 @@ class Manage_game extends CI_Controller {
            }
        }
        
-//        if($this->form_validation->run('create_user') === FALSE){
-//            $data=array(
-//                'col_nickname'=>$this->input->post('username'),
-//                'col_name'=>$this->input->post('name'),
-//                'col_sex'=>$this->input->post('sex'),
-//                'col_mail'=>$this->input->post('mail'),
-//                'col_call'=>$this->input->post('call'),
-//                'col_qq'=>$this->input->post('qq'),
-//                'col_role'=>$this->input->post('role'),
-//                'col_passwd'=>sha1($this->input->post('passwd'))
-//            );
-//            $this->load->view('create_user',$this->_data);
-//        }else{
-//            $data=array(
-//                'col_nickname'=>$this->input->post('username'),
-//                'col_name'=>$this->input->post('name'),
-//                'col_sex'=>$this->input->post('sex'),
-//                'col_mail'=>$this->input->post('mail'),
-//                'col_call'=>$this->input->post('call'),
-//                'col_qq'=>$this->input->post('qq'),
-//                'col_role'=>$this->input->post('role'),
-//                'col_passwd'=>sha1($this->input->post('passwd'))
-//            );
-            
-//            $this->load->model('user_mdl');
-//            if($this->user_mdl->check_exist('col_nickname',$this->input->post('username'))){
-//                $this->_data['post_info']='用户名已存在';
-//                $this->load->view('create_user',$this->_data);
-//            }else{
-//                $this->user_mdl->create_user($data);
-//                $this->_data['post_info']='用户创建成功';
-//                $this->load->view('create_user',$this->_data);
-//            }
-            
-//        }
       
    }
    /**
     * 查看某个游戏
     */
    public function view_game(){
-       
+       $game_id=$this->uri->segment(3);
+       if(is_numeric($game_id)){
+           $this->load->model('game_mdl');
+           $game=$this->game_mdl->get_game_by_id($game_id);
+           if($game){
+               $this->_data['game']=$game['0'];
+               $this->load->view('view_game',$this->_data);
+           }else{
+               show_404();
+           }
+       }else{
+           show_404();
+       }
    }
     /**
      * 删除游戏     注:删除游戏为将游戏置为无效
      */
    public function delete_game(){
-
+       if($this->uri->segment(3)){
+           $this->_data['game_id']=$this->uri->segment(3);
+           $this->load->model('game_mdl');
+           if($this->game_mdl->update_game($this->_data['game_id'],array('col_valid'=>'N'))){
+               $this->common->jump(base_url('manage_game/list_game'),'删除成功');
+           }else{
+               $this->common->jump(base_url('manage_game/list_game'),'删除失败');
+           }
+            
+       }else{
+           show_404();
+       }
    }
    /**
     * 修改游戏信息
     */
    public function update_game(){
-       
+       if($this->uri->segment(3)){
+           $this->_data['game_id']=$this->uri->segment(3);
+           $this->load->model('game_mdl');
+           $game=$this->game_mdl->get_game_by_id($this->uri->segment(3));
+            
+           if($game){
+               $this->_data['game']=$game[0];
+               $this->load->view('update_game',$this->_data);
+           }else{
+               $this->common->jump(base_url('manage_game/list_game'),'找不到该游戏');
+           }
+       }else{
+           $game_id=$this->input->post('game_id');
+           $this->_data['game_id']=$game_id;
+           if($game_id){
+               $data=array(
+                   'col_name'=>$this->input->post('gamename'),
+                   'col_alias'=>$this->input->post('name'),
+                   'col_pinyin_jp'=>$this->input->post('pinyin_jp'),
+                   'col_pinyin_qp'=>$this->input->post('pinyin_qp'),
+                   'col_ttype'=>$this->input->post('ttype'),
+                   'col_gtype'=>$this->input->post('gtype'),
+                   'col_version'=>$this->input->post('version'),
+                   'col_subversion'=>$this->input->post('subversion'),
+                   'col_desc'=>$this->input->post('desc'),
+                   'col_developer'=>$this->input->post('developer'),
+                   'col_operator'=>$this->input->post('operator'),
+                   'col_date'=>$this->input->post('date')
+               );
+               if($this->game_mdl->update_game($game_id,$data)){
+                   $this->common->jump(base_url('manage_game/list_game'),'修改成功');
+               }else{
+                   $this->common->jump(base_url('manage_game/list_game'),'修改失败,重新修改');
+               }
+           }else{
+               show_404();
+           }
+            
+       }
    }
    /**
     * 根据条件列出游戏
     */
    public function list_game(){
-       
+       $limit_arr=$this->config->item('limit');
+       $limit=$limit_arr['game_list'];
+       $offset=empty($this->uri->segment(3))?$this->uri->segment(3):0;
+       $this->load->model('game_mdl');
+       $where=array(
+           'col_valid'=>'Y'
+       );
+       $url=base_url('manage_game/list_game');
+       $total=$this->game_mdl->get_game_num($where);
+       $this->_data['link']=$this->common->page_config($total,$limit,$url);
+       $this->_data['game_list']=$this->game_mdl->list_game($where,$limit,$offset);
+       $this->load->view('list_game',$this->_data);
    }
 }
