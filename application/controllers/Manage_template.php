@@ -62,4 +62,7 @@ class Manage_template extends CI_Controller {
       $this->_data['template_list']=$this->view_template_mdl->list_template($where,$limit,$offset);
       $this->load->view('list_template',$this->_data);
    }
+   public function check_template(){
+       
+   }
 }

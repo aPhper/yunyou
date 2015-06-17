@@ -71,7 +71,7 @@ $config['left_url']=array(
 );
 $config['main_url']=array(
     'tech'=>'main_list/list_cloud',
-    'admin'=>'main_list/list_user',
+    'admin'=>'manage_user/list_user',
     'cm'=>'main_list/list_resource'
 );
 $config['limit']=array(

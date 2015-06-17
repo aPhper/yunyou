@@ -96,11 +96,7 @@ class Login extends CI_Controller
                 if (! empty($user)) {
                     if($user['col_role']==$this->input->post('user_type')){
                         if ($this->auth->process_login($user)) {
-                                $left_url = $this->config->item('left_url');
-                                $main_url = $this->config->item('main_url');
-                                $this->_data['left_url']= $left_url[$user['col_role']];
-                                $this->_data['main_url']= $main_url[$user['col_role']];
-                                $this->load->view('main',$this->_data);
+                                redirect(base_url('main_list'));
                         }
                     }else{
                        $this->_data['error_string'] = $this->information['login_type_error'];

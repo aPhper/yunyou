@@ -5,7 +5,7 @@
 <title>信息管理系统界面</title>
 </head>
 <frameset rows="88,*" cols="*" frameborder="no" border="0" framespacing="0">
-  <frame src="<?php echo base_url('main_list') ?>" name="topFrame" scrolling="no" noresize="noresize" id="topFrame" title="topFrame" />
+  <frame src="<?php echo base_url('main_list/top') ?>" name="topFrame" scrolling="no" noresize="noresize" id="topFrame" title="topFrame" />
   <frameset cols="187,*" frameborder="no" border="0" framespacing="0">
     <frame src="<?php echo $left_url ?>" name="leftFrame" scrolling="no" noresize="noresize" id="leftFrame" title="leftFrame" />
     <frame src="<?php echo $main_url ?>" name="rightFrame" id="rightFrame" title="rightFrame" />

@@ -44,14 +44,17 @@
       <li>
       <label>游戏描述</label>
       <span class='form_infor'><?php echo $game['col_desc']?></span></li>
+      <li>
       <label>开发商</label>
       <span class='form_infor'><?php echo $game['col_developer']?></span></li>
+      <li>
       <label>运营商</label>
       <span class='form_infor'><?php echo $game['col_operator']?></span></li>
+      <li>
       <label>游戏上线时间</label>
       <span class='form_infor'><?php echo $game['col_date']?></span></li>
       
-      
+      <li>
       <label>&nbsp;</label>
      <a href='<?php echo base_url("manage_game/update_game/".$game['col_id'])?>' target='rightFrame'><input name='' type='button' class='btn' value='修改' /></a> 
     </li>

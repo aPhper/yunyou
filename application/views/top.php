@@ -3,8 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>无标题文档</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script language="JavaScript" src="js/jquery.js"></script>
+<link href="<?php echo base_url('css/style.css'); ?>" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="<?php echo base_url('js/jquery.js')?>"></script>
 <script type="text/javascript">
 $(function(){	
 	//顶部导航切换
@@ -18,15 +18,15 @@ $(function(){
 
 </head>
 
-<body style="background:url(images/topbg.gif) repeat-x;">
+<body style="background:url(<?php echo  base_url('images/topbg.gif')?>) repeat-x;">
 
     <div class="topleft">
-    <a href="main.html" target="_parent"><img src="images/logo.png" title="系统首页" /></a>
+    <a href="main.html" target="_parent"><img src="<?php echo base_url('images/logo.png');?>" title="系统首页" /></a>
     </div>
  
     <div class="topright">    
     <ul>
-    <li><span><img src="images/help.png" title="帮助"  class="helpimg"/></span><a href="#">帮助</a></li>
+    <li><span><img src="<?php echo base_url('images/help.png');?>" title="帮助"  class="helpimg"/></span><a href="#">帮助</a></li>
     <li><a href="#">关于</a></li>
     <li><a href="<?php echo base_url('login/loginout')?>" target="_parent">退出</a></li>
     </ul>

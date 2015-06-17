@@ -25,49 +25,28 @@ class Main_list extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('top');
+		$this->load->library(array('common','session','auth'));
+		if($this->auth->hasLogin()){
+		    $user=$this->session->userdata('user_info');
+		    $left_url = $this->config->item('left_url');
+		    $main_url = $this->config->item('main_url');
+		    $this->_data['left_url']= $left_url[$user['col_role']];
+		    $this->_data['main_url']= $main_url[$user['col_role']];
+		    $this->load->view('main',$this->_data);
+		}else{
+		    
+		}
 	}
-	/**
-	 * 显示运维左列表
-	 */
-	public function left_yw()
-	{
-	    $this->load->view('left_yw');
-	}
-	/**
-	 * 显示运营左列表
-	 */
-	public function left_yy()
-	{
+	public function left_yy(){
 	    $this->load->view('left_yy');
 	}
-	/**
-	 * 显示客服左列表
-	 */
-	public function left_kf()
-	{
+	public function left_yw(){
+	    $this->load->view('left_yw');
+	}
+	public function left_kf(){
 	    $this->load->view('left_kf');
 	}
-	/**
-	 * 运维管理显示云平台列表
-	 */
-	public function list_cloud()
-	{
-	    $this->load->view('');
+	public function top(){
+	    $this->load->view('top');
 	}
-	/**
-	 * 运营管理显示用户列表
-	 */
-	public function list_user()
-	{
-	    $this->load->view('user_list');
-	}
-	/**
-	 * 客服显示资源列表
-	 */
-	public function list_resource()
-	{
-	    $this->load->view('');
-	}
-	
 }
