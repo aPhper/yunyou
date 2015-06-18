@@ -172,7 +172,7 @@ class User_mdl extends CI_Model {
 	        }
 	        $query=$this->db->get();
 	        if($query){
-	            return $this->db->last_query();
+	            return $query->num_rows();
 	        }else{
 	            return false;
 	        }

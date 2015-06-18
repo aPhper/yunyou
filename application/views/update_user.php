@@ -71,10 +71,7 @@ $(document).ready(function(e) {
       <input name='qq' type='text' class='dfinput' value="<?php echo $user['col_qq']; ?>" />
       
     </li>
-    <li>
-      <label>密码</label>
-      <input name='passwd' type='text' class='dfinput' value="" />
-    </li>
+    
     <li>
       <label>&nbsp;</label>
       <input name='submit' type='submit' class='btn' value='修改'/>

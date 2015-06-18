@@ -10,7 +10,7 @@ class View_template_mdl extends CI_Model {
 	
 	public function list_template($where=array(),$limit='100',$offset='0'){
 	    $mess = array ();
-	    $this->db->select('ct.col_id as template_id,gs.col_name as script_name,u.col_name as user_name,ct.col_timestamp as time,ct.status as status,ct.col_template_id');
+	    $this->db->select('ct.col_id as template_id,ct.col_status_code,ct.col_valid,ct.col_check,gs.col_name as script_name,u.col_name as user_name,ct.col_timestamp as time,ct.status as status,ct.col_template_id');
 	    $this->db->from(array('cloud_template ct','script_template st','game_script gs','user u'));
 	    $this->db->where('ct.col_id','st.col_template',false);
 	    $this->db->where('st.col_default','1');

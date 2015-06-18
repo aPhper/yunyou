@@ -104,5 +104,55 @@ class View_script_mdl extends CI_Model {
         //echo $this->db->last_query();
         return $query->result_array();
     }
+    public function list_all_script($where=array(),$limit=0,$offset=0){
+        $mess = array ();
+        $this->db->select('gs.col_check,gs.col_id as script_id,gs.col_date,gs.col_status,gs.col_name as script_name,gs.col_desc as script_info,u.col_nickname,u.col_qq,g.col_name as game_name,g.col_pic,g.col_gtype');
+        $this->db->from(array('game g','game_script gs','user u'));
+        $this->db->where('gs.col_game_id','g.col_id',FALSE);
+        $this->db->where('gs.col_author_id','u.col_id',FALSE);
+        if(is_array($where)&&!empty($where)){
+            foreach ($where as $key=>$value){
+                $this->db->where($key,$value);
+            }
+        }
+        $this->db->limit($limit,$offset);
+        $query=$this->db->get();
+        if($query){
+            $mess ['return'] = $query->result_array();
+            $mess ['info'] = 'lsit_script is success';
+            $mess ['type'] = 'info';
+        }else{
+            $mess ['return'] = false;
+            $mess ['info'] = 'list_script query is error'.mysql_error();
+            $mess ['type'] = 'error';;
+        }
+        log_message ( $mess ['type'], $mess ['info'] );
+        return $mess ['return'];
+    }
+    public function get_all_script_num($where){
+        $mess = array ();
+        $this->db->select('gs.col_check,gs.col_id as script_id,gs.col_date,gs.col_status,gs.col_name as script_name,gs.col_desc as script_info,u.col_nickname,u.col_qq,g.col_name as game_name,g.col_pic,g.col_gtype');
+        $this->db->from(array('game g','game_script gs','user u'));
+        $this->db->where('gs.col_game_id','g.col_id',FALSE);
+        $this->db->where('gs.col_author_id','u.col_id',FALSE);
+        if(is_array($where)&&!empty($where)){
+            foreach ($where as $key=>$value){
+                $this->db->where($key,$value);
+            }
+        }
+        $query=$this->db->get();
+        if($query){
+            $mess ['return'] = $query->num_rows();
+            $mess ['info'] = 'lsit_script is success';
+            $mess ['type'] = 'info';
+        }else{
+            $mess ['return'] = false;
+            $mess ['info'] = 'list_script query is error'.mysql_error();
+            $mess ['type'] = 'error';;
+        }
+        log_message ( $mess ['type'], $mess ['info'] );
+        return $mess ['return'];
+        
+    }
     
 }    

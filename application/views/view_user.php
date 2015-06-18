@@ -22,7 +22,7 @@
       <span class='form_infor'><?php echo $user['col_name']?></span></li>
     <li>
       <label>用户权限</label>
-      <span class='form_infor'><?php echo $user['col_role']?></span></li>
+      <span class='form_infor'><?php echo $user_type[$user['col_role']]?></span></li>
     <li>
       <label>用户名</label>
       

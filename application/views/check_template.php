@@ -14,6 +14,8 @@
     <li><a href='#'>模板管理</a></li>
   </ul>
 </div>
+<pre>
+</pre>
 <div class='formbody'>
   <div class='formtitle'><span>查看脚本信息</span></div>
   <ul class='forminfo'>
@@ -37,10 +39,18 @@
       <span class='form_infor'><?php echo $template['col_status_code']?></span></li> 
       <li>
       <label> 审核状态</label>
-      <span class='form_infor'><?php echo $check[$template['col_check']]?></span></li> 
+      <span class='form_infor'><?php echo $check[$template['col_check']]?></span></li>
+      <li>
+      <label> 虚拟机</label>
+      <span class='form_infor'><a href='<?php if(empty($vm)){ echo base_url("manage_template/vm_create/".$template['template_id']);}else{echo 'javascript:void(0)';}?>'><?php if(!empty($vm)){echo '已经创建';}else{echo '点击创建';}?></a></span>
+      </li>
+      <li>
+      <label> 测试连接</label>
+      <span class='form_infor'><a href='<?php if(!empty($vm['url'])){ echo $vm['url'];}else{echo 'javascript:void(0)';}?>'><?php if(!empty($vm['url'])){echo '点击连接';}else{echo '未完成,请稍等';}?></a></span></li>
       <li>
       <label>&nbsp;</label>
-     <a href='<?php echo base_url("manage_template/check_template/".$template['template_id'])?>' target='rightFrame'><input name='' type='button' class='btn' value='审核' /></a> 
+     <a href='<?php echo base_url("manage_template/check_template/".$template['col_id'].'/yes')?>' target='rightFrame'><input name='' type='button' class='btn' value='通过' /></a>
+      <a href='<?php echo base_url("manage_template/check_template/".$template['col_id']).'/no'?>' target='rightFrame'><input name='' type='button' class='btn' value='拒绝' /></a>  
     </li>
   </ul>
 </div>

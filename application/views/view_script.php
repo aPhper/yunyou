@@ -52,14 +52,20 @@
       <span class='form_infor'><?php echo $script['col_isduokai']?></span></li>
     <li>  
       <label>推荐 </label>
-      <span class='form_infor'><?php echo $script['col_hot']?></span></li>
+        <span class='form_infor'><?php echo $script['col_hot']?></span></li>
     <li>  
       <label>上传日期 </label>
       <span class='form_infor'><?php echo $script['col_date']?></span></li>
     <li>  
       <label>状态 </label>
       <span class='form_infor'><?php echo $script['col_status']?></span></li>
-      
+     <li>  
+      <label>审核结果 </label>
+      <span class='form_infor'><?php echo $check[$script['col_check']]?></span></li>
+    <li>  
+      <label>脚本下载 </label>
+      <span class='form_infor'><a href=''><?php echo $script['col_url']?></a></span></li>
+      <li>
       <label>&nbsp;</label>
      <a href='<?php echo base_url("manage_script/check_script/".$script['col_id'].'/yes')?>' target='rightFrame'><input name='' type='button' class='btn' value='通过' /></a>
       <a href='<?php echo base_url("manage_script/check_script/".$script['col_id']).'/no'?>' target='rightFrame'><input name='' type='button' class='btn' value='拒绝' /></a>  

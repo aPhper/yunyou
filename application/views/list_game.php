@@ -49,9 +49,11 @@ $(document).ready(function(e) {
     <li> <a href='#'> 运营管理 </a> </li>
     <li> <a href='#'> 游戏管理 </a> </li>
   </ul>
-</div>
-<div class='rightinfo'>
  
+</div>
+ 
+<div class='rightinfo'>
+
   <table class='tablelist'>
     <thead>
       <tr>
@@ -82,8 +84,14 @@ $(document).ready(function(e) {
       <?php }}?>
     </tbody>
   </table>
-  
-
+  <div class='pagin'>
+    <div class='message'>共<i class='blue'><?php echo $total;?></i>条记录
+    <ul class='paginList'>
+    <?php echo $link;?> 
+    </ul>
+  </div>
+</div>
+</div>
 <script type='text/javascript'>
 	$('.tablelist tbody tr:odd').addClass('odd');
 	</script>

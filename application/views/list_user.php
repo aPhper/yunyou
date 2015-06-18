@@ -76,7 +76,7 @@ $(document).ready(function(e) {
         <td><?php echo $key?></td>
         <td><?php echo $value['col_nickname']?></td>
         <td><?php echo $value['col_name']?></td>
-        <td><?php echo $value['col_role']?></td>
+        <td><?php echo $user_type[$value['col_role']]?></td>
         <td><?php echo $value['col_mail']?></td>
         <td><?php echo $value['col_qq']?></td>
         <td><a href='<?php echo base_url("manage_user/view_user/".$value['col_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
@@ -86,66 +86,16 @@ $(document).ready(function(e) {
       <?php }}?>
     </tbody>
   </table>
+  
   <div class='pagin'>
-    <div class='message'>共<i class='blue'>1256</i>条记录，当前显示第&nbsp;<i class='blue'>2&nbsp;</i>页</div>
+    <div class='message'>共<i class='blue'><?php echo $total;?></i>条记录
     <ul class='paginList'>
-      <li class='paginItem'> <a href='javascript:;'> <span class='pagepre'> </span> </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 1 </a> </li>
-      <li class='paginItem current'> <a href='javascript:;'> 2 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 3 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 4 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 5 </a> </li>
-      <li class='paginItem more'> <a href='javascript:;'> ... </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 10 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> <span class='pagenxt'> </span> </a> </li>
+    <?php echo $link;?> 
     </ul>
   </div>
 </div>
-<!--弹窗 -->
-<div class='tip'>
-  <div class='tiptop'> <span> 添加用户 </span> <a> </a> </div>
-  <div class='tipinfo tip_js'>
-  <?php echo form_open('manage_user/create_user')?>
-    <ul class='forminfo'>
-      <li>
-        <label>用户名称</label>
-        <input name='' type='text' class='scinput' width='200' />
-      </li>
-      <li>
-        <label>用户权限</label>
-        <div class='vocation'>
-          <select class='select2'>
-            <option>运维管理</option>
-            <option>运营管理</option>
-            <option>客服管理</option>
-          </select>
-        </div>
-      </li>
-      <li>
-        <label>用户描述</label>
-        <textarea name='' cols='' rows='' class='textinput text_news'></textarea>
-      </li>
-      <li>
-        <label>登陆用户名</label>
-        <input name='' type='text' class='scinput' />
-      </li>
-      <li>
-        <label>设置密码</label>
-        <input name='' type='password' class='scinput' />
-      </li>
-      <li>
-        <label>确认密码</label>
-        <input name='' type='password' class='scinput' />
-      </li>
-      <li>
-        <label>&nbsp;</label>
-        <input name='' type='button'  class='sure' value='确定' />
-        &nbsp;
-        <input name='' type='button'  class='cancel' value='取消' />
-      </li>
-    </ul>
-  </div>
-</div>
+
+
 <script type='text/javascript'>
 	$('.tablelist tbody tr:odd').addClass('odd');
 	</script>

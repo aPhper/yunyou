@@ -7,11 +7,18 @@ class Manage_script extends CI_Controller {
        $this->load->library(array('session','form_validation','common','auth'));
        $this->load->helper(array('form','url'));
        $this->load->model('game_script_mdl');
+       if(!$this->auth->hasLogin()){
+           redirect(base_url('login'));
+       }
+       $this->_userinfo=$this->session->userdata('user_info');
+       $this->_data['check']=$this->config->item('check_res');
    }
 
    /**
     * 查看某个脚本
     */
+   private $_data;
+   private $_userinfo;
    public function view_script(){
        $script_id=$this->uri->segment(3);
        if(is_numeric($script_id)){
@@ -51,15 +58,16 @@ class Manage_script extends CI_Controller {
    public function list_script(){
        $limit_arr=$this->config->item('limit');
        $limit=$limit_arr['script_list'];
-       $offset=empty($this->uri->segment(3))?$this->uri->segment(3):0;
+       $offset=!empty($this->uri->segment(3))?$this->uri->segment(3):0;
        $this->load->model('view_script_mdl');
        $where=array(
            'gs.col_valid'=>'Y'
        );
        $url=base_url('manage_script/list_script');
-       $total=$this->view_script_mdl->get_script_num($where);
+       $total=$this->view_script_mdl->get_all_script_num($where);
+       $this->_data['total']=$total;
        $this->_data['link']=$this->common->page_config($total,$limit,$url);
-       $this->_data['script_list']=$this->view_script_mdl->list_script($where,$limit,$offset);
+       $this->_data['script_list']=$this->view_script_mdl->list_all_script($where,$limit,$offset);
        $this->load->view('list_script',$this->_data);
 }
    public function check_script(){

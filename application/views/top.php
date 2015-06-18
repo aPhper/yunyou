@@ -32,7 +32,7 @@ $(function(){
     </ul>
      
     <div class="user">
-    <span>admin</span>
+    <span><?php echo $userinfo['col_nickname']?></span>
     <i>消息</i>
     <b>5</b>
     </div>    

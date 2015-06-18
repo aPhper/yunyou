@@ -75,16 +75,21 @@ $(document).ready(function(e) {
         <td><?php echo $value['script_name']?></td>
         <td><?php echo $value['col_nickname']?></td>
         <td><?php echo $value['col_status']?></td>
-        <td><?php echo $value['col_check']?></td>
+        <td><?php echo $check[$value['col_check']]?></td>
         <td><?php echo $value['col_date']?></td>
-        <td><a href='<?php echo base_url("manage_script/view_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
-         <a href='<?php echo base_url("manage_script/check_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'> 审核 </a> &nbsp;&nbsp;&nbsp; 
+        <td><a href='<?php echo base_url("manage_script/view_script/".$value['script_id'])?>' class='tablelink' target='rightFrame'>查看审核</a> &nbsp;&nbsp;&nbsp;
+         
          <a href='<?php echo base_url("manage_script/delete_script/".$value['script_id'])?>' class='tablelink'> 删除 </a></td>
       </tr>
       <?php }}?>
     </tbody>
   </table>
-  
+  <div class='pagin'>
+    <div class='message'>共<i class='blue'><?php echo $total;?></i>条记录
+    <ul class='paginList'>
+    <?php echo $link;?> 
+    </ul>
+  </div>
 
 <script type='text/javascript'>
 	$('.tablelist tbody tr:odd').addClass('odd');

@@ -5,7 +5,15 @@ class Main_list extends CI_Controller {
     
     public function __construct()
     {
-        parent::__construct();  
+        parent::__construct();
+        $this->load->library(array('session','form_validation','common','auth'));
+        $this->load->helper(array('form','url'));
+        if(!$this->auth->hasLogin()){
+            redirect(base_url('login'));
+        }
+        $this->_userinfo=$this->session->userdata('user_info');
+        $this->_data['userinfo']=$this->_userinfo;
+        $this->_data['check']=$this->config->item('check_res');
     }    
 
 	/**
@@ -23,11 +31,14 @@ class Main_list extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
+    private $_data;
+    private $_userinfo;
 	public function index()
 	{
 		$this->load->library(array('common','session','auth'));
 		if($this->auth->hasLogin()){
 		    $user=$this->session->userdata('user_info');
+		    
 		    $left_url = $this->config->item('left_url');
 		    $main_url = $this->config->item('main_url');
 		    $this->_data['left_url']= $left_url[$user['col_role']];
@@ -47,6 +58,6 @@ class Main_list extends CI_Controller {
 	    $this->load->view('left_kf');
 	}
 	public function top(){
-	    $this->load->view('top');
+	    $this->load->view('top',$this->_data);
 	}
 }

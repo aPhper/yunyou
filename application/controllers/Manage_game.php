@@ -6,12 +6,19 @@ class Manage_game extends CI_Controller {
        parent::__construct();
        $this->load->library(array('session','form_validation','common','auth'));
        $this->load->helper(array('form','url'));
+       
+       if(!$this->auth->hasLogin()){
+           redirect(base_url('login'));
+       }
        $this->load->model('game_mdl');
+       $this->_userinfo=$this->session->userdata('user_info');
+       $this->_data['check']=$this->config->item('check_res');
  }
    /**
     * 添加游戏
     */
    private $_data;
+   private $_userinfo;
    public function create_game(){
        //$this->load->view('create_game');
        $config=$this->config->item('image_config');
@@ -135,15 +142,19 @@ class Manage_game extends CI_Controller {
    public function list_game(){
        $limit_arr=$this->config->item('limit');
        $limit=$limit_arr['game_list'];
-       $offset=empty($this->uri->segment(3))?$this->uri->segment(3):0;
+       $offset=!empty($this->uri->segment(3))?$this->uri->segment(3):0;
        $this->load->model('game_mdl');
        $where=array(
            'col_valid'=>'Y'
        );
        $url=base_url('manage_game/list_game');
        $total=$this->game_mdl->get_game_num($where);
+       $this->_data['total']=$total;
        $this->_data['link']=$this->common->page_config($total,$limit,$url);
        $this->_data['game_list']=$this->game_mdl->list_game($where,$limit,$offset);
        $this->load->view('list_game',$this->_data);
+   }
+   public function fuzzy_query(){
+       
    }
 }

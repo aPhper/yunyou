@@ -60,6 +60,7 @@ $(document).ready(function(e) {
         <th>作者</th>
         <th width='440'>制作日期</th>
         <th>状态</th>
+        <th>审核结果</th>
         <th>操作</th>
       </tr>
     </thead>
@@ -72,26 +73,19 @@ $(document).ready(function(e) {
         <td><?php echo $value['script_name']?></td>
         <td><?php echo $value['user_name']?></td>
         <td><?php echo $value['time']?></td>
-        <td><?php echo $value['status']?></td>
+        <td><?php echo $value['col_status_code']?></td>
+        <td><?php echo $check[$value['col_check']];?></td>
         <td><a href='<?php echo base_url("manage_template/view_template/".$value['template_id'])?>' class='tablelink' target='rightFrame'>查看</a> &nbsp;&nbsp;&nbsp;
-         <a href='<?php echo base_url("manage_template/update_template/".$value['template_id'])?>' class='tablelink' target='rightFrame'> 修改 </a> &nbsp;&nbsp;&nbsp; 
+         <a href='<?php echo base_url("manage_template/check_template/".$value['template_id'])?>' class='tablelink' target='rightFrame'> 审核 </a> &nbsp;&nbsp;&nbsp; 
          <a href='<?php echo base_url("manage_template/delete_template/".$value['template_id'])?>' class='tablelink'> 删除 </a></td>
       </tr>
       <?php }}?>
     </tbody>
   </table>
   <div class='pagin'>
-    <div class='message'>共<i class='blue'>1256</i>条记录，当前显示第&nbsp;<i class='blue'>2&nbsp;</i>页</div>
+    <div class='message'>共<i class='blue'><?php echo $total;?></i>条记录
     <ul class='paginList'>
-      <li class='paginItem'> <a href='javascript:;'> <span class='pagepre'> </span> </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 1 </a> </li>
-      <li class='paginItem current'> <a href='javascript:;'> 2 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 3 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 4 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 5 </a> </li>
-      <li class='paginItem more'> <a href='javascript:;'> ... </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> 10 </a> </li>
-      <li class='paginItem'> <a href='javascript:;'> <span class='pagenxt'> </span> </a> </li>
+    <?php echo $link;?> 
     </ul>
   </div>
 </div>
