@@ -12,7 +12,11 @@ class Ticket_mdl extends CI_Model
         parent::__construct();
         $this->load->database();
     }
-
+    /**
+     * 创建一个工单
+     * @param unknown $data
+     * @return Ambigous <string, boolean, NULL>
+     */
     public function create_ticket($data = array())
     {
         $mess = array();
@@ -35,7 +39,14 @@ class Ticket_mdl extends CI_Model
         log_message($mess['type'], $mess['info']);
         return $mess['return'];
     }
-
+    /**
+     * 根据条件列出工单
+     * @param unknown $where
+     * @param number $limit
+     * @param number $offset
+     * @param string $order_by
+     * @return Ambigous <string, boolean, NULL>
+     */
     public function list_ticket($where = array(), $limit = 100, $offset = 0, $order_by = 'col_id')
     {
         $mess = array();
@@ -57,7 +68,11 @@ class Ticket_mdl extends CI_Model
         log_message($mess['type'], $mess['info']);
         return $mess['return'];
     }
-
+    /**
+     * 根据id获取工单
+     * @param unknown $col_id
+     * @return Ambigous <string, boolean, NULL>
+     */
     public function get_ticket_by_id($col_id)
     {
         $mess = array();
@@ -76,7 +91,12 @@ class Ticket_mdl extends CI_Model
         log_message($mess['type'], $mess['info']);
         return $mess['return'];
     }
-
+    /**
+     * 更新工单
+     * @param string $col_id
+     * @param unknown $data
+     * @return boolean
+     */
     public function update_ticket($col_id = '', $data = array())
     {
         if (empty($data)) {
@@ -95,6 +115,10 @@ class Ticket_mdl extends CI_Model
             }
         }
     }
+    /**
+     * 删除工单 注:置为无效
+     * @param unknown $col_id
+     */
     public function delete_ticket($col_id)
     {
         $this->db->delete(self::TABLE, array(
@@ -102,6 +126,11 @@ class Ticket_mdl extends CI_Model
         ));
         return $this->db->affected_rows();
     }
+    /**
+     * 根据条件得到工单的条数
+     * @param unknown $where
+     * @return Ambigous <string, boolean, NULL>
+     */
     public function get_ticket_num($where=array()){
         $mess = array();
         foreach ($where as $key => $value) {

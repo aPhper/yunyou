@@ -38,7 +38,7 @@ class User_mdl extends CI_Model {
 	 * @param $limit 查找条数
 	 * @return: boolean
 	 */
-	public  function get_user_list($where=array(),$limit='100',$offset) {
+	public  function get_user_list($where=array(),$limit='10000000',$offset='0') {
 		$this->db->select('*');
 		$this->db->from(self::TABLE);
 		if(is_array($where)){
@@ -47,6 +47,7 @@ class User_mdl extends CI_Model {
 			}
 		$this->db->limit(intval($limit),$offset);
 		$query=$this->db->get();
+		log_message('debug', $this->db->last_query());
 		return $query->result_array();
 		}else{
 			return false;

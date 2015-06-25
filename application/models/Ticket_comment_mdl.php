@@ -7,6 +7,11 @@ class Ticket_comment_mdl extends CI_Model {
 		parent::__construct ();
 		$this->load->database ();
 	}
+	/**
+	 * 工单的回复
+	 * @param unknown $data
+	 * @return Ambigous <string, boolean, NULL>
+	 */
 	public function create_ticket_comment($data = array())
 	{
 	    $mess = array();
@@ -29,7 +34,14 @@ class Ticket_comment_mdl extends CI_Model {
 	    log_message($mess['type'], $mess['info']);
 	    return $mess['return'];
 	}
-	
+	/**
+	 * 列出回复的工单
+	 * @param unknown $where
+	 * @param number $limit
+	 * @param number $offset
+	 * @param string $order_by
+	 * @return Ambigous <string, boolean, NULL>
+	 */
 	public function list_ticket_comment($where = array(), $limit = 100, $offset = 0, $order_by = 'col_id')
 	{
 	    $mess = array();
@@ -51,7 +63,11 @@ class Ticket_comment_mdl extends CI_Model {
 	    log_message($mess['type'], $mess['info']);
 	    return $mess['return'];
 	}
-	
+	/**
+	 * 
+	 * @param unknown $col_id
+	 * @return Ambigous <string, boolean, NULL>
+	 */
 	public function get_ticket_comment_by_id($col_id)
 	{
 	    $mess = array();
@@ -114,4 +130,47 @@ class Ticket_comment_mdl extends CI_Model {
 	    log_message($mess['type'], $mess['info']);
 	    return $mess['return'];
 	}
+	public function list_ticket_and_comment($where,$limit='100',$offset='0'){
+	    $this->db->select('t.col_id,tc.col_id as ticket_id,t.col_time as ttime,t.col_status as status ,t.col_question as question,t.col_attachment as attachment , t.col_type_id,u.col_nickname as user_name ,tc.col_time,tc.col_content');
+	    $this->db->from(array('ticket t','ticket_comment tc','user u'));
+	    $this->db->where('u.col_id','t.col_user_id',false);
+	    $this->db->where('t.col_id','tc.col_ticket_id',false);
+	    if(!empty($where)){ 
+	        foreach ($where as $key=>$value){
+	            $this->db->where($key,$value);
+	        }
+	    }
+	    $this->db->limit($limit,$offset);
+	    $query=$this->db->get();
+	    if($query){
+	        log_message('info', 'list_ticket_and_comment is success');
+	        log_message('debug', $this->db->last_query());
+	        return $query->result_array();
+	    }else{
+	        log_message('error', 'list_ticket_and_comment error '.mysql_error());
+	        return false;
+	    }
+	    
+	}
+	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7542,3 +7542,1521 @@ INFO - 2015-06-18 10:01:19 --> Pagination Class Initialized
 INFO - 2015-06-18 10:01:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_game.php
 INFO - 2015-06-18 10:01:19 --> Final output sent to browser
 DEBUG - 2015-06-18 10:01:19 --> Total execution time: 0.1280
+INFO - 2015-06-18 10:25:00 --> Config Class Initialized
+INFO - 2015-06-18 10:25:00 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:25:00 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:00 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:00 --> URI Class Initialized
+INFO - 2015-06-18 10:25:00 --> Router Class Initialized
+INFO - 2015-06-18 10:25:00 --> Output Class Initialized
+INFO - 2015-06-18 10:25:00 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:00 --> Input Class Initialized
+INFO - 2015-06-18 10:25:00 --> Language Class Initialized
+INFO - 2015-06-18 10:25:00 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:00 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:00 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:00 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:00 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:00 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:00 --> Model Class Initialized
+INFO - 2015-06-18 10:25:00 --> Model Class Initialized
+INFO - 2015-06-18 10:25:00 --> Database Driver Class Initialized
+INFO - 2015-06-18 10:25:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 10:25:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:01 --> user 17 loginout at 2015-06-18 10:06:01
+INFO - 2015-06-18 10:25:01 --> Config Class Initialized
+INFO - 2015-06-18 10:25:01 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:25:01 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:01 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:01 --> URI Class Initialized
+INFO - 2015-06-18 10:25:01 --> Router Class Initialized
+INFO - 2015-06-18 10:25:01 --> Output Class Initialized
+INFO - 2015-06-18 10:25:01 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:01 --> Input Class Initialized
+INFO - 2015-06-18 10:25:01 --> Language Class Initialized
+INFO - 2015-06-18 10:25:01 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:01 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:01 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:01 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:01 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:01 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:01 --> Model Class Initialized
+INFO - 2015-06-18 10:25:01 --> Model Class Initialized
+INFO - 2015-06-18 10:25:01 --> Database Driver Class Initialized
+INFO - 2015-06-18 10:25:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 10:25:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:01 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-18 10:25:01 --> Final output sent to browser
+DEBUG - 2015-06-18 10:25:01 --> Total execution time: 0.1380
+INFO - 2015-06-18 10:25:14 --> Config Class Initialized
+INFO - 2015-06-18 10:25:14 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:14 --> URI Class Initialized
+INFO - 2015-06-18 10:25:14 --> Router Class Initialized
+INFO - 2015-06-18 10:25:14 --> Output Class Initialized
+INFO - 2015-06-18 10:25:14 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:14 --> Input Class Initialized
+INFO - 2015-06-18 10:25:14 --> Language Class Initialized
+INFO - 2015-06-18 10:25:14 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:14 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:14 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:14 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:14 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Database Driver Class Initialized
+INFO - 2015-06-18 10:25:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 10:25:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> user 15 login at 2015-06-18 10:06:14
+INFO - 2015-06-18 10:25:14 --> Config Class Initialized
+INFO - 2015-06-18 10:25:14 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:14 --> URI Class Initialized
+INFO - 2015-06-18 10:25:14 --> Router Class Initialized
+INFO - 2015-06-18 10:25:14 --> Output Class Initialized
+INFO - 2015-06-18 10:25:14 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:14 --> Input Class Initialized
+INFO - 2015-06-18 10:25:14 --> Language Class Initialized
+INFO - 2015-06-18 10:25:14 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:14 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:14 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:25:14 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:14 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:25:14 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:25:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:25:14 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-18 10:25:14 --> Final output sent to browser
+DEBUG - 2015-06-18 10:25:14 --> Total execution time: 0.1430
+INFO - 2015-06-18 10:25:14 --> Config Class Initialized
+INFO - 2015-06-18 10:25:14 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:14 --> URI Class Initialized
+INFO - 2015-06-18 10:25:14 --> Router Class Initialized
+INFO - 2015-06-18 10:25:14 --> Output Class Initialized
+INFO - 2015-06-18 10:25:14 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:14 --> Input Class Initialized
+INFO - 2015-06-18 10:25:14 --> Language Class Initialized
+INFO - 2015-06-18 10:25:14 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:14 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:14 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:25:14 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:14 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Config Class Initialized
+INFO - 2015-06-18 10:25:14 --> Hooks Class Initialized
+INFO - 2015-06-18 10:25:14 --> Config Class Initialized
+INFO - 2015-06-18 10:25:14 --> Hooks Class Initialized
+INFO - 2015-06-18 10:25:14 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:14 --> URI Class Initialized
+INFO - 2015-06-18 10:25:14 --> Router Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:25:14 --> Output Class Initialized
+INFO - 2015-06-18 10:25:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:25:14 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:14 --> Input Class Initialized
+INFO - 2015-06-18 10:25:14 --> Language Class Initialized
+INFO - 2015-06-18 10:25:14 --> URI Class Initialized
+INFO - 2015-06-18 10:25:14 --> Router Class Initialized
+INFO - 2015-06-18 10:25:14 --> Output Class Initialized
+ERROR - 2015-06-18 10:25:14 --> 404 Page Not Found: Main_list/list_resource
+INFO - 2015-06-18 10:25:14 --> Security Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:25:14 --> Input Class Initialized
+INFO - 2015-06-18 10:25:14 --> Language Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-18 10:25:14 --> Final output sent to browser
+DEBUG - 2015-06-18 10:25:14 --> Total execution time: 0.2450
+INFO - 2015-06-18 10:25:14 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:25:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:25:14 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:25:14 --> Controller Class Initialized
+INFO - 2015-06-18 10:25:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:25:14 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:25:14 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Model Class Initialized
+INFO - 2015-06-18 10:25:14 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 10:25:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:25:15 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_kf.php
+INFO - 2015-06-18 10:25:15 --> Final output sent to browser
+DEBUG - 2015-06-18 10:25:15 --> Total execution time: 0.2220
+INFO - 2015-06-18 10:26:24 --> Config Class Initialized
+INFO - 2015-06-18 10:26:24 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:26:24 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:26:24 --> URI Class Initialized
+INFO - 2015-06-18 10:26:24 --> Router Class Initialized
+INFO - 2015-06-18 10:26:24 --> Output Class Initialized
+INFO - 2015-06-18 10:26:24 --> Security Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:26:24 --> Input Class Initialized
+INFO - 2015-06-18 10:26:24 --> Language Class Initialized
+INFO - 2015-06-18 10:26:24 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:26:24 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:26:24 --> Controller Class Initialized
+INFO - 2015-06-18 10:26:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:26:24 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:26:24 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:26:24 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:26:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:26:24 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:26:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-18 10:26:24 --> Final output sent to browser
+DEBUG - 2015-06-18 10:26:24 --> Total execution time: 0.1260
+INFO - 2015-06-18 10:26:24 --> Config Class Initialized
+INFO - 2015-06-18 10:26:24 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:26:24 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:26:24 --> Config Class Initialized
+INFO - 2015-06-18 10:26:24 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:26:24 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:26:24 --> URI Class Initialized
+INFO - 2015-06-18 10:26:24 --> URI Class Initialized
+INFO - 2015-06-18 10:26:24 --> Router Class Initialized
+INFO - 2015-06-18 10:26:24 --> Router Class Initialized
+INFO - 2015-06-18 10:26:24 --> Output Class Initialized
+INFO - 2015-06-18 10:26:24 --> Output Class Initialized
+INFO - 2015-06-18 10:26:24 --> Security Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:26:24 --> Input Class Initialized
+INFO - 2015-06-18 10:26:24 --> Language Class Initialized
+INFO - 2015-06-18 10:26:24 --> Security Class Initialized
+INFO - 2015-06-18 10:26:24 --> Loader Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:26:24 --> Input Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:26:24 --> Language Class Initialized
+INFO - 2015-06-18 10:26:24 --> Loader Class Initialized
+INFO - 2015-06-18 10:26:24 --> Helper loaded: url_helper
+DEBUG - 2015-06-18 10:26:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 10:26:24 --> Controller Class Initialized
+INFO - 2015-06-18 10:26:24 --> Helper loaded: url_helper
+INFO - 2015-06-18 10:26:24 --> Controller Class Initialized
+INFO - 2015-06-18 10:26:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:26:24 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:26:24 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Database Driver Class Initialized
+INFO - 2015-06-18 10:26:24 --> Config Class Initialized
+INFO - 2015-06-18 10:26:24 --> Hooks Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> UTF-8 Support Enabled
+INFO - 2015-06-18 10:26:24 --> Utf8 Class Initialized
+INFO - 2015-06-18 10:26:24 --> URI Class Initialized
+INFO - 2015-06-18 10:26:24 --> Router Class Initialized
+INFO - 2015-06-18 10:26:24 --> Output Class Initialized
+INFO - 2015-06-18 10:26:24 --> Security Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 10:26:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 10:26:24 --> Input Class Initialized
+INFO - 2015-06-18 10:26:24 --> Language Class Initialized
+INFO - 2015-06-18 10:26:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-18 10:26:24 --> Final output sent to browser
+DEBUG - 2015-06-18 10:26:24 --> Total execution time: 0.1430
+ERROR - 2015-06-18 10:26:24 --> 404 Page Not Found: Main_list/list_resource
+INFO - 2015-06-18 10:26:24 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 10:26:24 --> Helper loaded: form_helper
+INFO - 2015-06-18 10:26:24 --> Form Validation Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Model Class Initialized
+INFO - 2015-06-18 10:26:24 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 10:26:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 10:26:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_kf.php
+INFO - 2015-06-18 10:26:24 --> Final output sent to browser
+DEBUG - 2015-06-18 10:26:24 --> Total execution time: 0.2830
+INFO - 2015-06-18 11:50:56 --> Config Class Initialized
+INFO - 2015-06-18 11:50:56 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:56 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:56 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:56 --> URI Class Initialized
+INFO - 2015-06-18 11:50:56 --> Router Class Initialized
+INFO - 2015-06-18 11:50:56 --> Output Class Initialized
+INFO - 2015-06-18 11:50:56 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:56 --> Input Class Initialized
+INFO - 2015-06-18 11:50:56 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:56 --> 404 Page Not Found: Main_list/gd.html
+INFO - 2015-06-18 11:50:56 --> Config Class Initialized
+INFO - 2015-06-18 11:50:56 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:56 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:56 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:56 --> URI Class Initialized
+INFO - 2015-06-18 11:50:56 --> Router Class Initialized
+INFO - 2015-06-18 11:50:56 --> Output Class Initialized
+INFO - 2015-06-18 11:50:56 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:56 --> Input Class Initialized
+INFO - 2015-06-18 11:50:56 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:56 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:50:57 --> Config Class Initialized
+INFO - 2015-06-18 11:50:57 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:57 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:57 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:57 --> URI Class Initialized
+INFO - 2015-06-18 11:50:57 --> Router Class Initialized
+INFO - 2015-06-18 11:50:57 --> Output Class Initialized
+INFO - 2015-06-18 11:50:57 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:57 --> Input Class Initialized
+INFO - 2015-06-18 11:50:57 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:57 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:50:57 --> Config Class Initialized
+INFO - 2015-06-18 11:50:57 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:57 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:57 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:57 --> URI Class Initialized
+INFO - 2015-06-18 11:50:57 --> Router Class Initialized
+INFO - 2015-06-18 11:50:57 --> Output Class Initialized
+INFO - 2015-06-18 11:50:57 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:57 --> Input Class Initialized
+INFO - 2015-06-18 11:50:57 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:57 --> 404 Page Not Found: Main_list/zh.html
+INFO - 2015-06-18 11:50:58 --> Config Class Initialized
+INFO - 2015-06-18 11:50:58 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:58 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:58 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:58 --> URI Class Initialized
+INFO - 2015-06-18 11:50:58 --> Router Class Initialized
+INFO - 2015-06-18 11:50:58 --> Output Class Initialized
+INFO - 2015-06-18 11:50:58 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:58 --> Input Class Initialized
+INFO - 2015-06-18 11:50:58 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:58 --> 404 Page Not Found: Main_list/tx.html
+INFO - 2015-06-18 11:50:58 --> Config Class Initialized
+INFO - 2015-06-18 11:50:58 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:58 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:58 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:58 --> URI Class Initialized
+INFO - 2015-06-18 11:50:58 --> Router Class Initialized
+INFO - 2015-06-18 11:50:58 --> Output Class Initialized
+INFO - 2015-06-18 11:50:58 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:58 --> Input Class Initialized
+INFO - 2015-06-18 11:50:58 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:58 --> 404 Page Not Found: Main_list/mia_xg.html
+INFO - 2015-06-18 11:50:59 --> Config Class Initialized
+INFO - 2015-06-18 11:50:59 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:50:59 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:50:59 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:50:59 --> URI Class Initialized
+INFO - 2015-06-18 11:50:59 --> Router Class Initialized
+INFO - 2015-06-18 11:50:59 --> Output Class Initialized
+INFO - 2015-06-18 11:50:59 --> Security Class Initialized
+DEBUG - 2015-06-18 11:50:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:50:59 --> Input Class Initialized
+INFO - 2015-06-18 11:50:59 --> Language Class Initialized
+ERROR - 2015-06-18 11:50:59 --> 404 Page Not Found: Main_list/tx.html
+INFO - 2015-06-18 11:51:00 --> Config Class Initialized
+INFO - 2015-06-18 11:51:00 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:00 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:00 --> URI Class Initialized
+INFO - 2015-06-18 11:51:00 --> Router Class Initialized
+INFO - 2015-06-18 11:51:00 --> Output Class Initialized
+INFO - 2015-06-18 11:51:00 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:00 --> Input Class Initialized
+INFO - 2015-06-18 11:51:00 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:00 --> 404 Page Not Found: Main_list/zh.html
+INFO - 2015-06-18 11:51:00 --> Config Class Initialized
+INFO - 2015-06-18 11:51:00 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:00 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:00 --> URI Class Initialized
+INFO - 2015-06-18 11:51:00 --> Router Class Initialized
+INFO - 2015-06-18 11:51:00 --> Output Class Initialized
+INFO - 2015-06-18 11:51:00 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:00 --> Input Class Initialized
+INFO - 2015-06-18 11:51:00 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:00 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:51:00 --> Config Class Initialized
+INFO - 2015-06-18 11:51:00 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:00 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:00 --> URI Class Initialized
+INFO - 2015-06-18 11:51:00 --> Router Class Initialized
+INFO - 2015-06-18 11:51:00 --> Output Class Initialized
+INFO - 2015-06-18 11:51:00 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:00 --> Input Class Initialized
+INFO - 2015-06-18 11:51:00 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:00 --> 404 Page Not Found: Main_list/gd.html
+INFO - 2015-06-18 11:51:03 --> Config Class Initialized
+INFO - 2015-06-18 11:51:03 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:03 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:03 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:03 --> URI Class Initialized
+INFO - 2015-06-18 11:51:03 --> Router Class Initialized
+INFO - 2015-06-18 11:51:03 --> Output Class Initialized
+INFO - 2015-06-18 11:51:03 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:03 --> Input Class Initialized
+INFO - 2015-06-18 11:51:03 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:03 --> 404 Page Not Found: Main_list/zh.html
+INFO - 2015-06-18 11:51:03 --> Config Class Initialized
+INFO - 2015-06-18 11:51:03 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:03 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:03 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:03 --> URI Class Initialized
+INFO - 2015-06-18 11:51:03 --> Router Class Initialized
+INFO - 2015-06-18 11:51:03 --> Output Class Initialized
+INFO - 2015-06-18 11:51:03 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:03 --> Input Class Initialized
+INFO - 2015-06-18 11:51:03 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:03 --> 404 Page Not Found: Main_list/tx.html
+INFO - 2015-06-18 11:51:04 --> Config Class Initialized
+INFO - 2015-06-18 11:51:04 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:04 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:04 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:04 --> URI Class Initialized
+INFO - 2015-06-18 11:51:04 --> Router Class Initialized
+INFO - 2015-06-18 11:51:04 --> Output Class Initialized
+INFO - 2015-06-18 11:51:04 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:04 --> Input Class Initialized
+INFO - 2015-06-18 11:51:04 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:04 --> 404 Page Not Found: Main_list/mia_xg.html
+INFO - 2015-06-18 11:51:04 --> Config Class Initialized
+INFO - 2015-06-18 11:51:04 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:04 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:04 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:04 --> URI Class Initialized
+INFO - 2015-06-18 11:51:04 --> Router Class Initialized
+INFO - 2015-06-18 11:51:04 --> Output Class Initialized
+INFO - 2015-06-18 11:51:04 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:04 --> Input Class Initialized
+INFO - 2015-06-18 11:51:04 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:04 --> 404 Page Not Found: Main_list/tx.html
+INFO - 2015-06-18 11:51:05 --> Config Class Initialized
+INFO - 2015-06-18 11:51:05 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:05 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:05 --> URI Class Initialized
+INFO - 2015-06-18 11:51:05 --> Router Class Initialized
+INFO - 2015-06-18 11:51:05 --> Output Class Initialized
+INFO - 2015-06-18 11:51:05 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:05 --> Input Class Initialized
+INFO - 2015-06-18 11:51:05 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:05 --> 404 Page Not Found: Main_list/zh.html
+INFO - 2015-06-18 11:51:05 --> Config Class Initialized
+INFO - 2015-06-18 11:51:05 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:05 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:05 --> URI Class Initialized
+INFO - 2015-06-18 11:51:05 --> Router Class Initialized
+INFO - 2015-06-18 11:51:05 --> Output Class Initialized
+INFO - 2015-06-18 11:51:05 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:05 --> Input Class Initialized
+INFO - 2015-06-18 11:51:05 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:05 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:51:05 --> Config Class Initialized
+INFO - 2015-06-18 11:51:05 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:05 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:05 --> URI Class Initialized
+INFO - 2015-06-18 11:51:05 --> Router Class Initialized
+INFO - 2015-06-18 11:51:05 --> Output Class Initialized
+INFO - 2015-06-18 11:51:05 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:05 --> Input Class Initialized
+INFO - 2015-06-18 11:51:05 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:05 --> 404 Page Not Found: Main_list/gd.html
+INFO - 2015-06-18 11:51:20 --> Config Class Initialized
+INFO - 2015-06-18 11:51:20 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:20 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:20 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:20 --> URI Class Initialized
+INFO - 2015-06-18 11:51:20 --> Router Class Initialized
+INFO - 2015-06-18 11:51:20 --> Output Class Initialized
+INFO - 2015-06-18 11:51:20 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:20 --> Input Class Initialized
+INFO - 2015-06-18 11:51:20 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:20 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:51:20 --> Config Class Initialized
+INFO - 2015-06-18 11:51:20 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:20 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:20 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:20 --> URI Class Initialized
+INFO - 2015-06-18 11:51:20 --> Router Class Initialized
+INFO - 2015-06-18 11:51:20 --> Output Class Initialized
+INFO - 2015-06-18 11:51:20 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:20 --> Input Class Initialized
+INFO - 2015-06-18 11:51:20 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:20 --> 404 Page Not Found: Main_list/zh.html
+INFO - 2015-06-18 11:51:21 --> Config Class Initialized
+INFO - 2015-06-18 11:51:21 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:21 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:21 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:21 --> URI Class Initialized
+INFO - 2015-06-18 11:51:21 --> Router Class Initialized
+INFO - 2015-06-18 11:51:21 --> Output Class Initialized
+INFO - 2015-06-18 11:51:21 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:21 --> Input Class Initialized
+INFO - 2015-06-18 11:51:21 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:21 --> 404 Page Not Found: Main_list/tx.html
+INFO - 2015-06-18 11:51:21 --> Config Class Initialized
+INFO - 2015-06-18 11:51:21 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:51:21 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:51:21 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:51:21 --> URI Class Initialized
+INFO - 2015-06-18 11:51:21 --> Router Class Initialized
+INFO - 2015-06-18 11:51:21 --> Output Class Initialized
+INFO - 2015-06-18 11:51:21 --> Security Class Initialized
+DEBUG - 2015-06-18 11:51:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:51:21 --> Input Class Initialized
+INFO - 2015-06-18 11:51:21 --> Language Class Initialized
+ERROR - 2015-06-18 11:51:21 --> 404 Page Not Found: Main_list/mia_xg.html
+INFO - 2015-06-18 11:58:08 --> Config Class Initialized
+INFO - 2015-06-18 11:58:08 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:08 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:08 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:08 --> URI Class Initialized
+INFO - 2015-06-18 11:58:08 --> Router Class Initialized
+INFO - 2015-06-18 11:58:08 --> Output Class Initialized
+INFO - 2015-06-18 11:58:08 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:08 --> Input Class Initialized
+INFO - 2015-06-18 11:58:08 --> Language Class Initialized
+ERROR - 2015-06-18 11:58:08 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:58:09 --> Config Class Initialized
+INFO - 2015-06-18 11:58:09 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:09 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:09 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:09 --> URI Class Initialized
+INFO - 2015-06-18 11:58:09 --> Router Class Initialized
+INFO - 2015-06-18 11:58:09 --> Output Class Initialized
+INFO - 2015-06-18 11:58:09 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:09 --> Input Class Initialized
+INFO - 2015-06-18 11:58:09 --> Language Class Initialized
+ERROR - 2015-06-18 11:58:09 --> 404 Page Not Found: Main_list/zy.html
+INFO - 2015-06-18 11:58:12 --> Config Class Initialized
+INFO - 2015-06-18 11:58:12 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:12 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:12 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:12 --> URI Class Initialized
+INFO - 2015-06-18 11:58:12 --> Router Class Initialized
+INFO - 2015-06-18 11:58:12 --> Output Class Initialized
+INFO - 2015-06-18 11:58:12 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:12 --> Input Class Initialized
+INFO - 2015-06-18 11:58:12 --> Language Class Initialized
+INFO - 2015-06-18 11:58:12 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:12 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:12 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:12 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:12 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:12 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:12 --> Model Class Initialized
+INFO - 2015-06-18 11:58:12 --> Model Class Initialized
+INFO - 2015-06-18 11:58:12 --> Database Driver Class Initialized
+INFO - 2015-06-18 11:58:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 11:58:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:13 --> Config Class Initialized
+INFO - 2015-06-18 11:58:13 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:13 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:13 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:13 --> URI Class Initialized
+INFO - 2015-06-18 11:58:13 --> Router Class Initialized
+INFO - 2015-06-18 11:58:13 --> Output Class Initialized
+INFO - 2015-06-18 11:58:13 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:13 --> Input Class Initialized
+INFO - 2015-06-18 11:58:13 --> Language Class Initialized
+INFO - 2015-06-18 11:58:13 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:13 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:13 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:13 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:13 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:13 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:13 --> Model Class Initialized
+INFO - 2015-06-18 11:58:13 --> Model Class Initialized
+INFO - 2015-06-18 11:58:13 --> Database Driver Class Initialized
+INFO - 2015-06-18 11:58:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 11:58:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:13 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-18 11:58:13 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:13 --> Total execution time: 0.0990
+INFO - 2015-06-18 11:58:13 --> Config Class Initialized
+INFO - 2015-06-18 11:58:13 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:13 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:13 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:13 --> URI Class Initialized
+INFO - 2015-06-18 11:58:13 --> Router Class Initialized
+INFO - 2015-06-18 11:58:13 --> Output Class Initialized
+INFO - 2015-06-18 11:58:13 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:13 --> Input Class Initialized
+INFO - 2015-06-18 11:58:13 --> Language Class Initialized
+ERROR - 2015-06-18 11:58:13 --> 404 Page Not Found: Login/images
+INFO - 2015-06-18 11:58:17 --> Config Class Initialized
+INFO - 2015-06-18 11:58:17 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:17 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:17 --> URI Class Initialized
+INFO - 2015-06-18 11:58:17 --> Router Class Initialized
+INFO - 2015-06-18 11:58:17 --> Output Class Initialized
+INFO - 2015-06-18 11:58:17 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:17 --> Input Class Initialized
+INFO - 2015-06-18 11:58:17 --> Language Class Initialized
+INFO - 2015-06-18 11:58:17 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:17 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:17 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:17 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:17 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:17 --> Model Class Initialized
+INFO - 2015-06-18 11:58:17 --> Model Class Initialized
+INFO - 2015-06-18 11:58:17 --> Database Driver Class Initialized
+INFO - 2015-06-18 11:58:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 11:58:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:17 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-18 11:58:17 --> Model Class Initialized
+INFO - 2015-06-18 11:58:17 --> user 17 login at 2015-06-18 11:06:17
+INFO - 2015-06-18 11:58:17 --> Config Class Initialized
+INFO - 2015-06-18 11:58:17 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:17 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:17 --> URI Class Initialized
+INFO - 2015-06-18 11:58:17 --> Router Class Initialized
+INFO - 2015-06-18 11:58:17 --> Output Class Initialized
+INFO - 2015-06-18 11:58:17 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:17 --> Input Class Initialized
+INFO - 2015-06-18 11:58:17 --> Language Class Initialized
+INFO - 2015-06-18 11:58:17 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:17 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:17 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:17 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:17 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:17 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:17 --> Model Class Initialized
+INFO - 2015-06-18 11:58:17 --> Model Class Initialized
+INFO - 2015-06-18 11:58:17 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 11:58:17 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 11:58:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 11:58:17 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:17 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-18 11:58:17 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:17 --> Total execution time: 0.1850
+INFO - 2015-06-18 11:58:18 --> Config Class Initialized
+INFO - 2015-06-18 11:58:18 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:18 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:18 --> URI Class Initialized
+INFO - 2015-06-18 11:58:18 --> Router Class Initialized
+INFO - 2015-06-18 11:58:18 --> Output Class Initialized
+INFO - 2015-06-18 11:58:18 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:18 --> Input Class Initialized
+INFO - 2015-06-18 11:58:18 --> Language Class Initialized
+INFO - 2015-06-18 11:58:18 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:18 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:18 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:18 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:18 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Database Driver Class Initialized
+INFO - 2015-06-18 11:58:18 --> Config Class Initialized
+INFO - 2015-06-18 11:58:18 --> Hooks Class Initialized
+INFO - 2015-06-18 11:58:18 --> Config Class Initialized
+INFO - 2015-06-18 11:58:18 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:18 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:18 --> URI Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:18 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:18 --> Router Class Initialized
+INFO - 2015-06-18 11:58:18 --> URI Class Initialized
+INFO - 2015-06-18 11:58:18 --> Output Class Initialized
+INFO - 2015-06-18 11:58:18 --> Router Class Initialized
+INFO - 2015-06-18 11:58:18 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:18 --> Output Class Initialized
+INFO - 2015-06-18 11:58:18 --> Input Class Initialized
+INFO - 2015-06-18 11:58:18 --> Language Class Initialized
+INFO - 2015-06-18 11:58:18 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:18 --> Input Class Initialized
+INFO - 2015-06-18 11:58:18 --> Language Class Initialized
+INFO - 2015-06-18 11:58:18 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:18 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:18 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:18 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:18 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:18 --> Controller Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-18 11:58:18 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:18 --> Total execution time: 0.1360
+INFO - 2015-06-18 11:58:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:18 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:18 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 11:58:18 --> Pagination Class Initialized
+INFO - 2015-06-18 11:58:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-18 11:58:18 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:18 --> Total execution time: 0.1430
+INFO - 2015-06-18 11:58:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:18 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:18 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Model Class Initialized
+INFO - 2015-06-18 11:58:18 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 11:58:18 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:18 --> Total execution time: 0.3150
+INFO - 2015-06-18 11:58:32 --> Config Class Initialized
+INFO - 2015-06-18 11:58:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:32 --> URI Class Initialized
+INFO - 2015-06-18 11:58:32 --> Router Class Initialized
+INFO - 2015-06-18 11:58:32 --> Output Class Initialized
+INFO - 2015-06-18 11:58:32 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:32 --> Input Class Initialized
+INFO - 2015-06-18 11:58:32 --> Language Class Initialized
+INFO - 2015-06-18 11:58:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:32 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:32 --> Model Class Initialized
+INFO - 2015-06-18 11:58:32 --> Model Class Initialized
+INFO - 2015-06-18 11:58:32 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 11:58:32 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:32 --> Total execution time: 0.1120
+INFO - 2015-06-18 11:58:32 --> Config Class Initialized
+INFO - 2015-06-18 11:58:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:32 --> URI Class Initialized
+INFO - 2015-06-18 11:58:32 --> Router Class Initialized
+INFO - 2015-06-18 11:58:32 --> Output Class Initialized
+INFO - 2015-06-18 11:58:32 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:32 --> Input Class Initialized
+INFO - 2015-06-18 11:58:32 --> Language Class Initialized
+INFO - 2015-06-18 11:58:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:32 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:32 --> Model Class Initialized
+INFO - 2015-06-18 11:58:32 --> Model Class Initialized
+INFO - 2015-06-18 11:58:32 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:33 --> Model Class Initialized
+INFO - 2015-06-18 11:58:33 --> get_template_num is success
+INFO - 2015-06-18 11:58:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 11:58:33 --> Pagination Class Initialized
+INFO - 2015-06-18 11:58:33 --> lsit_template is success
+INFO - 2015-06-18 11:58:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_template.php
+INFO - 2015-06-18 11:58:33 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:33 --> Total execution time: 0.1300
+INFO - 2015-06-18 11:58:34 --> Config Class Initialized
+INFO - 2015-06-18 11:58:34 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:34 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:34 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:34 --> URI Class Initialized
+INFO - 2015-06-18 11:58:34 --> Router Class Initialized
+INFO - 2015-06-18 11:58:34 --> Output Class Initialized
+INFO - 2015-06-18 11:58:34 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:34 --> Input Class Initialized
+INFO - 2015-06-18 11:58:34 --> Language Class Initialized
+INFO - 2015-06-18 11:58:34 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:34 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:34 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:34 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:34 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:34 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:34 --> Model Class Initialized
+INFO - 2015-06-18 11:58:34 --> Model Class Initialized
+INFO - 2015-06-18 11:58:34 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:34 --> Model Class Initialized
+INFO - 2015-06-18 11:58:34 --> Game_script_mdl class initialized
+INFO - 2015-06-18 11:58:34 --> Model Class Initialized
+INFO - 2015-06-18 11:58:34 --> view_script_mdl class initialized
+INFO - 2015-06-18 11:58:34 --> lsit_script is success
+INFO - 2015-06-18 11:58:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 11:58:34 --> Pagination Class Initialized
+INFO - 2015-06-18 11:58:34 --> lsit_script is success
+INFO - 2015-06-18 11:58:34 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_script.php
+INFO - 2015-06-18 11:58:34 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:34 --> Total execution time: 0.1120
+INFO - 2015-06-18 11:58:36 --> Config Class Initialized
+INFO - 2015-06-18 11:58:36 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:58:36 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:58:36 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:58:36 --> URI Class Initialized
+INFO - 2015-06-18 11:58:36 --> Router Class Initialized
+INFO - 2015-06-18 11:58:36 --> Output Class Initialized
+INFO - 2015-06-18 11:58:36 --> Security Class Initialized
+DEBUG - 2015-06-18 11:58:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:58:36 --> Input Class Initialized
+INFO - 2015-06-18 11:58:36 --> Language Class Initialized
+INFO - 2015-06-18 11:58:36 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:58:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:58:36 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:58:36 --> Controller Class Initialized
+INFO - 2015-06-18 11:58:36 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:58:36 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:58:36 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:58:36 --> Model Class Initialized
+INFO - 2015-06-18 11:58:36 --> Model Class Initialized
+INFO - 2015-06-18 11:58:36 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:58:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:58:36 --> Model Class Initialized
+INFO - 2015-06-18 11:58:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 11:58:36 --> Pagination Class Initialized
+INFO - 2015-06-18 11:58:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_game.php
+INFO - 2015-06-18 11:58:36 --> Final output sent to browser
+DEBUG - 2015-06-18 11:58:36 --> Total execution time: 0.0970
+INFO - 2015-06-18 11:59:02 --> Config Class Initialized
+INFO - 2015-06-18 11:59:02 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:59:02 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:59:02 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:59:02 --> URI Class Initialized
+INFO - 2015-06-18 11:59:02 --> Router Class Initialized
+INFO - 2015-06-18 11:59:02 --> Output Class Initialized
+INFO - 2015-06-18 11:59:02 --> Security Class Initialized
+DEBUG - 2015-06-18 11:59:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:59:02 --> Input Class Initialized
+INFO - 2015-06-18 11:59:02 --> Language Class Initialized
+INFO - 2015-06-18 11:59:02 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:59:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:59:02 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:59:02 --> Controller Class Initialized
+INFO - 2015-06-18 11:59:02 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:59:02 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:59:02 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:59:02 --> Model Class Initialized
+INFO - 2015-06-18 11:59:02 --> Model Class Initialized
+INFO - 2015-06-18 11:59:02 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:59:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:59:02 --> Model Class Initialized
+INFO - 2015-06-18 11:59:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\update_game.php
+INFO - 2015-06-18 11:59:02 --> Final output sent to browser
+DEBUG - 2015-06-18 11:59:02 --> Total execution time: 0.1130
+INFO - 2015-06-18 11:59:44 --> Config Class Initialized
+INFO - 2015-06-18 11:59:44 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:59:44 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:59:44 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:59:44 --> URI Class Initialized
+INFO - 2015-06-18 11:59:44 --> Router Class Initialized
+INFO - 2015-06-18 11:59:44 --> Output Class Initialized
+INFO - 2015-06-18 11:59:44 --> Security Class Initialized
+DEBUG - 2015-06-18 11:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:59:44 --> Input Class Initialized
+INFO - 2015-06-18 11:59:44 --> Language Class Initialized
+INFO - 2015-06-18 11:59:44 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:59:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:59:44 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:59:44 --> Controller Class Initialized
+INFO - 2015-06-18 11:59:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:59:44 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:59:44 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:59:44 --> Model Class Initialized
+INFO - 2015-06-18 11:59:44 --> Model Class Initialized
+INFO - 2015-06-18 11:59:44 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:59:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:59:44 --> Model Class Initialized
+INFO - 2015-06-18 11:59:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\jump.php
+INFO - 2015-06-18 11:59:44 --> Final output sent to browser
+DEBUG - 2015-06-18 11:59:44 --> Total execution time: 0.1370
+INFO - 2015-06-18 11:59:46 --> Config Class Initialized
+INFO - 2015-06-18 11:59:46 --> Hooks Class Initialized
+DEBUG - 2015-06-18 11:59:46 --> UTF-8 Support Enabled
+INFO - 2015-06-18 11:59:46 --> Utf8 Class Initialized
+INFO - 2015-06-18 11:59:46 --> URI Class Initialized
+INFO - 2015-06-18 11:59:46 --> Router Class Initialized
+INFO - 2015-06-18 11:59:46 --> Output Class Initialized
+INFO - 2015-06-18 11:59:46 --> Security Class Initialized
+DEBUG - 2015-06-18 11:59:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 11:59:46 --> Input Class Initialized
+INFO - 2015-06-18 11:59:46 --> Language Class Initialized
+INFO - 2015-06-18 11:59:46 --> Loader Class Initialized
+DEBUG - 2015-06-18 11:59:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 11:59:46 --> Helper loaded: url_helper
+INFO - 2015-06-18 11:59:46 --> Controller Class Initialized
+INFO - 2015-06-18 11:59:46 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 11:59:46 --> Helper loaded: form_helper
+INFO - 2015-06-18 11:59:46 --> Form Validation Class Initialized
+INFO - 2015-06-18 11:59:46 --> Model Class Initialized
+INFO - 2015-06-18 11:59:46 --> Model Class Initialized
+INFO - 2015-06-18 11:59:46 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 11:59:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 11:59:46 --> Model Class Initialized
+INFO - 2015-06-18 11:59:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 11:59:46 --> Pagination Class Initialized
+INFO - 2015-06-18 11:59:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_game.php
+INFO - 2015-06-18 11:59:46 --> Final output sent to browser
+DEBUG - 2015-06-18 11:59:46 --> Total execution time: 0.1220
+INFO - 2015-06-18 12:00:11 --> Config Class Initialized
+INFO - 2015-06-18 12:00:11 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:00:11 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:00:11 --> URI Class Initialized
+INFO - 2015-06-18 12:00:11 --> Router Class Initialized
+INFO - 2015-06-18 12:00:11 --> Output Class Initialized
+INFO - 2015-06-18 12:00:11 --> Security Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:00:11 --> Input Class Initialized
+INFO - 2015-06-18 12:00:11 --> Language Class Initialized
+INFO - 2015-06-18 12:00:11 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:00:11 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:00:11 --> Controller Class Initialized
+INFO - 2015-06-18 12:00:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:00:11 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:00:11 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> Game_script_mdl class initialized
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> view_script_mdl class initialized
+INFO - 2015-06-18 12:00:11 --> lsit_script is success
+INFO - 2015-06-18 12:00:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:00:11 --> Pagination Class Initialized
+INFO - 2015-06-18 12:00:11 --> lsit_script is success
+INFO - 2015-06-18 12:00:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_script.php
+INFO - 2015-06-18 12:00:11 --> Final output sent to browser
+DEBUG - 2015-06-18 12:00:11 --> Total execution time: 0.1110
+INFO - 2015-06-18 12:00:11 --> Config Class Initialized
+INFO - 2015-06-18 12:00:11 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:00:11 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:00:11 --> URI Class Initialized
+INFO - 2015-06-18 12:00:11 --> Router Class Initialized
+INFO - 2015-06-18 12:00:11 --> Output Class Initialized
+INFO - 2015-06-18 12:00:11 --> Security Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:00:11 --> Input Class Initialized
+INFO - 2015-06-18 12:00:11 --> Language Class Initialized
+INFO - 2015-06-18 12:00:11 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:00:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:00:11 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:00:11 --> Controller Class Initialized
+INFO - 2015-06-18 12:00:11 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:00:11 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:00:11 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> Model Class Initialized
+INFO - 2015-06-18 12:00:11 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:00:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:00:12 --> Model Class Initialized
+INFO - 2015-06-18 12:00:12 --> get_template_num is success
+INFO - 2015-06-18 12:00:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:00:12 --> Pagination Class Initialized
+INFO - 2015-06-18 12:00:12 --> lsit_template is success
+INFO - 2015-06-18 12:00:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_template.php
+INFO - 2015-06-18 12:00:12 --> Final output sent to browser
+DEBUG - 2015-06-18 12:00:12 --> Total execution time: 0.1200
+INFO - 2015-06-18 12:00:12 --> Config Class Initialized
+INFO - 2015-06-18 12:00:12 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:00:12 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:00:12 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:00:12 --> URI Class Initialized
+INFO - 2015-06-18 12:00:12 --> Router Class Initialized
+INFO - 2015-06-18 12:00:12 --> Output Class Initialized
+INFO - 2015-06-18 12:00:12 --> Security Class Initialized
+DEBUG - 2015-06-18 12:00:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:00:12 --> Input Class Initialized
+INFO - 2015-06-18 12:00:12 --> Language Class Initialized
+INFO - 2015-06-18 12:00:12 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:00:12 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:00:12 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:00:12 --> Controller Class Initialized
+INFO - 2015-06-18 12:00:12 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:00:12 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:00:12 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:00:12 --> Model Class Initialized
+INFO - 2015-06-18 12:00:12 --> Model Class Initialized
+INFO - 2015-06-18 12:00:12 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:00:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:00:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 12:00:12 --> Final output sent to browser
+DEBUG - 2015-06-18 12:00:12 --> Total execution time: 0.0980
+INFO - 2015-06-18 12:00:14 --> Config Class Initialized
+INFO - 2015-06-18 12:00:14 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:00:14 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:00:14 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:00:14 --> URI Class Initialized
+INFO - 2015-06-18 12:00:14 --> Router Class Initialized
+INFO - 2015-06-18 12:00:14 --> Output Class Initialized
+INFO - 2015-06-18 12:00:14 --> Security Class Initialized
+DEBUG - 2015-06-18 12:00:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:00:14 --> Input Class Initialized
+INFO - 2015-06-18 12:00:14 --> Language Class Initialized
+INFO - 2015-06-18 12:00:14 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:00:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:00:14 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:00:14 --> Controller Class Initialized
+INFO - 2015-06-18 12:00:14 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:00:14 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:00:14 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:00:14 --> Model Class Initialized
+INFO - 2015-06-18 12:00:14 --> Model Class Initialized
+INFO - 2015-06-18 12:00:14 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:00:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:00:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:00:14 --> Pagination Class Initialized
+INFO - 2015-06-18 12:00:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-18 12:00:14 --> Final output sent to browser
+DEBUG - 2015-06-18 12:00:14 --> Total execution time: 0.1350
+INFO - 2015-06-18 12:00:19 --> Config Class Initialized
+INFO - 2015-06-18 12:00:19 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:00:19 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:00:19 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:00:19 --> URI Class Initialized
+INFO - 2015-06-18 12:00:19 --> Router Class Initialized
+INFO - 2015-06-18 12:00:19 --> Output Class Initialized
+INFO - 2015-06-18 12:00:19 --> Security Class Initialized
+DEBUG - 2015-06-18 12:00:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:00:19 --> Input Class Initialized
+INFO - 2015-06-18 12:00:19 --> Language Class Initialized
+INFO - 2015-06-18 12:00:19 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:00:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:00:19 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:00:19 --> Controller Class Initialized
+INFO - 2015-06-18 12:00:19 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:00:19 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:00:19 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:00:19 --> Model Class Initialized
+INFO - 2015-06-18 12:00:19 --> Model Class Initialized
+INFO - 2015-06-18 12:00:19 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:00:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:00:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\create_user.php
+INFO - 2015-06-18 12:00:19 --> Final output sent to browser
+DEBUG - 2015-06-18 12:00:19 --> Total execution time: 0.1170
+INFO - 2015-06-18 12:06:47 --> Config Class Initialized
+INFO - 2015-06-18 12:06:47 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:06:47 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:06:47 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:06:47 --> URI Class Initialized
+INFO - 2015-06-18 12:06:47 --> Router Class Initialized
+INFO - 2015-06-18 12:06:47 --> Output Class Initialized
+INFO - 2015-06-18 12:06:47 --> Security Class Initialized
+DEBUG - 2015-06-18 12:06:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:06:47 --> Input Class Initialized
+INFO - 2015-06-18 12:06:47 --> Language Class Initialized
+INFO - 2015-06-18 12:06:47 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:06:47 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:06:47 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:06:47 --> Controller Class Initialized
+INFO - 2015-06-18 12:06:47 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:06:47 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:06:47 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:06:47 --> Model Class Initialized
+INFO - 2015-06-18 12:06:47 --> Model Class Initialized
+INFO - 2015-06-18 12:06:47 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:06:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:06:47 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 12:06:47 --> Final output sent to browser
+DEBUG - 2015-06-18 12:06:47 --> Total execution time: 0.1120
+INFO - 2015-06-18 12:06:48 --> Config Class Initialized
+INFO - 2015-06-18 12:06:48 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:06:48 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:06:48 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:06:48 --> URI Class Initialized
+INFO - 2015-06-18 12:06:48 --> Router Class Initialized
+INFO - 2015-06-18 12:06:48 --> Output Class Initialized
+INFO - 2015-06-18 12:06:48 --> Security Class Initialized
+DEBUG - 2015-06-18 12:06:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:06:48 --> Input Class Initialized
+INFO - 2015-06-18 12:06:48 --> Language Class Initialized
+INFO - 2015-06-18 12:06:48 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:06:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:06:48 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:06:48 --> Controller Class Initialized
+INFO - 2015-06-18 12:06:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:06:49 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:06:49 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:06:49 --> Model Class Initialized
+INFO - 2015-06-18 12:06:49 --> Model Class Initialized
+INFO - 2015-06-18 12:06:49 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:06:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:06:49 --> Model Class Initialized
+INFO - 2015-06-18 12:06:49 --> get_template_num is success
+INFO - 2015-06-18 12:06:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:06:49 --> Pagination Class Initialized
+INFO - 2015-06-18 12:06:49 --> lsit_template is success
+INFO - 2015-06-18 12:06:49 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_template.php
+INFO - 2015-06-18 12:06:49 --> Final output sent to browser
+DEBUG - 2015-06-18 12:06:49 --> Total execution time: 0.1130
+INFO - 2015-06-18 12:38:22 --> Config Class Initialized
+INFO - 2015-06-18 12:38:22 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:22 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:22 --> URI Class Initialized
+INFO - 2015-06-18 12:38:22 --> Router Class Initialized
+INFO - 2015-06-18 12:38:22 --> Output Class Initialized
+INFO - 2015-06-18 12:38:22 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:22 --> Input Class Initialized
+INFO - 2015-06-18 12:38:22 --> Language Class Initialized
+INFO - 2015-06-18 12:38:22 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:22 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:22 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:22 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:22 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:22 --> Model Class Initialized
+INFO - 2015-06-18 12:38:22 --> Model Class Initialized
+INFO - 2015-06-18 12:38:22 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:22 --> Config Class Initialized
+INFO - 2015-06-18 12:38:22 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:22 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:22 --> URI Class Initialized
+INFO - 2015-06-18 12:38:22 --> Router Class Initialized
+INFO - 2015-06-18 12:38:22 --> Output Class Initialized
+INFO - 2015-06-18 12:38:22 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:22 --> Input Class Initialized
+INFO - 2015-06-18 12:38:22 --> Language Class Initialized
+INFO - 2015-06-18 12:38:22 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:22 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:22 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:22 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:22 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:22 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:22 --> Model Class Initialized
+INFO - 2015-06-18 12:38:22 --> Model Class Initialized
+INFO - 2015-06-18 12:38:22 --> Database Driver Class Initialized
+INFO - 2015-06-18 12:38:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 12:38:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:22 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-18 12:38:22 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:22 --> Total execution time: 0.1090
+INFO - 2015-06-18 12:38:32 --> Config Class Initialized
+INFO - 2015-06-18 12:38:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:32 --> URI Class Initialized
+INFO - 2015-06-18 12:38:32 --> Router Class Initialized
+INFO - 2015-06-18 12:38:32 --> Output Class Initialized
+INFO - 2015-06-18 12:38:32 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:32 --> Input Class Initialized
+INFO - 2015-06-18 12:38:32 --> Language Class Initialized
+INFO - 2015-06-18 12:38:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:32 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Database Driver Class Initialized
+INFO - 2015-06-18 12:38:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:32 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> user 17 login at 2015-06-18 12:06:32
+INFO - 2015-06-18 12:38:32 --> Config Class Initialized
+INFO - 2015-06-18 12:38:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:32 --> URI Class Initialized
+INFO - 2015-06-18 12:38:32 --> Router Class Initialized
+INFO - 2015-06-18 12:38:32 --> Output Class Initialized
+INFO - 2015-06-18 12:38:32 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:32 --> Input Class Initialized
+INFO - 2015-06-18 12:38:32 --> Language Class Initialized
+INFO - 2015-06-18 12:38:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:32 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 12:38:32 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-18 12:38:32 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-18 12:38:32 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:32 --> Total execution time: 0.1250
+INFO - 2015-06-18 12:38:32 --> Config Class Initialized
+INFO - 2015-06-18 12:38:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:32 --> URI Class Initialized
+INFO - 2015-06-18 12:38:32 --> Router Class Initialized
+INFO - 2015-06-18 12:38:32 --> Output Class Initialized
+INFO - 2015-06-18 12:38:32 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:32 --> Input Class Initialized
+INFO - 2015-06-18 12:38:32 --> Language Class Initialized
+INFO - 2015-06-18 12:38:32 --> Config Class Initialized
+INFO - 2015-06-18 12:38:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:32 --> URI Class Initialized
+INFO - 2015-06-18 12:38:32 --> Router Class Initialized
+INFO - 2015-06-18 12:38:32 --> Loader Class Initialized
+INFO - 2015-06-18 12:38:32 --> Output Class Initialized
+INFO - 2015-06-18 12:38:32 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:32 --> Input Class Initialized
+INFO - 2015-06-18 12:38:32 --> Language Class Initialized
+INFO - 2015-06-18 12:38:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:32 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-06-18 12:38:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:32 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Database Driver Class Initialized
+INFO - 2015-06-18 12:38:32 --> Config Class Initialized
+INFO - 2015-06-18 12:38:32 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:32 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:32 --> URI Class Initialized
+INFO - 2015-06-18 12:38:32 --> Router Class Initialized
+INFO - 2015-06-18 12:38:32 --> Output Class Initialized
+INFO - 2015-06-18 12:38:32 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:32 --> Input Class Initialized
+INFO - 2015-06-18 12:38:32 --> Language Class Initialized
+INFO - 2015-06-18 12:38:32 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:32 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:32 --> Controller Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 12:38:32 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:32 --> Total execution time: 0.1270
+INFO - 2015-06-18 12:38:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-18 12:38:32 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:32 --> Total execution time: 0.2400
+INFO - 2015-06-18 12:38:32 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:32 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:32 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Model Class Initialized
+INFO - 2015-06-18 12:38:32 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:38:32 --> Pagination Class Initialized
+INFO - 2015-06-18 12:38:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-18 12:38:32 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:32 --> Total execution time: 0.2240
+INFO - 2015-06-18 12:38:38 --> Config Class Initialized
+INFO - 2015-06-18 12:38:38 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:38 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:38 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:38 --> URI Class Initialized
+INFO - 2015-06-18 12:38:38 --> Router Class Initialized
+INFO - 2015-06-18 12:38:38 --> Output Class Initialized
+INFO - 2015-06-18 12:38:38 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:38 --> Input Class Initialized
+INFO - 2015-06-18 12:38:38 --> Language Class Initialized
+INFO - 2015-06-18 12:38:38 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:38 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:38 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:38 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:38 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:38 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:38 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:38 --> Model Class Initialized
+INFO - 2015-06-18 12:38:38 --> Model Class Initialized
+INFO - 2015-06-18 12:38:39 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:38:39 --> Pagination Class Initialized
+INFO - 2015-06-18 12:38:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-18 12:38:39 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:39 --> Total execution time: 0.1060
+INFO - 2015-06-18 12:38:39 --> Config Class Initialized
+INFO - 2015-06-18 12:38:39 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:39 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:39 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:39 --> URI Class Initialized
+INFO - 2015-06-18 12:38:39 --> Router Class Initialized
+INFO - 2015-06-18 12:38:39 --> Output Class Initialized
+INFO - 2015-06-18 12:38:39 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:39 --> Input Class Initialized
+INFO - 2015-06-18 12:38:39 --> Language Class Initialized
+INFO - 2015-06-18 12:38:39 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:39 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:39 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:39 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:39 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:39 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:39 --> Model Class Initialized
+INFO - 2015-06-18 12:38:39 --> Model Class Initialized
+INFO - 2015-06-18 12:38:39 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:38:39 --> Pagination Class Initialized
+INFO - 2015-06-18 12:38:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-18 12:38:39 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:39 --> Total execution time: 0.0990
+INFO - 2015-06-18 12:38:45 --> Config Class Initialized
+INFO - 2015-06-18 12:38:45 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:45 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:45 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:45 --> URI Class Initialized
+INFO - 2015-06-18 12:38:45 --> Router Class Initialized
+INFO - 2015-06-18 12:38:45 --> Output Class Initialized
+INFO - 2015-06-18 12:38:45 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:45 --> Input Class Initialized
+INFO - 2015-06-18 12:38:45 --> Language Class Initialized
+INFO - 2015-06-18 12:38:45 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:45 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:45 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:45 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:45 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:45 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:45 --> Model Class Initialized
+INFO - 2015-06-18 12:38:45 --> Model Class Initialized
+INFO - 2015-06-18 12:38:45 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:45 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-18 12:38:45 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:45 --> Total execution time: 0.0910
+INFO - 2015-06-18 12:38:50 --> Config Class Initialized
+INFO - 2015-06-18 12:38:50 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:50 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:50 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:50 --> URI Class Initialized
+INFO - 2015-06-18 12:38:50 --> Router Class Initialized
+INFO - 2015-06-18 12:38:50 --> Output Class Initialized
+INFO - 2015-06-18 12:38:50 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:50 --> Input Class Initialized
+INFO - 2015-06-18 12:38:50 --> Language Class Initialized
+INFO - 2015-06-18 12:38:50 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:50 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:50 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:50 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:50 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:50 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:50 --> Model Class Initialized
+INFO - 2015-06-18 12:38:50 --> Model Class Initialized
+INFO - 2015-06-18 12:38:50 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:50 --> Model Class Initialized
+INFO - 2015-06-18 12:38:50 --> get_template_num is success
+INFO - 2015-06-18 12:38:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:38:50 --> Pagination Class Initialized
+INFO - 2015-06-18 12:38:50 --> lsit_template is success
+INFO - 2015-06-18 12:38:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_template.php
+INFO - 2015-06-18 12:38:50 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:50 --> Total execution time: 0.1000
+INFO - 2015-06-18 12:38:57 --> Config Class Initialized
+INFO - 2015-06-18 12:38:57 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:38:57 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:38:57 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:38:57 --> URI Class Initialized
+INFO - 2015-06-18 12:38:57 --> Router Class Initialized
+INFO - 2015-06-18 12:38:57 --> Output Class Initialized
+INFO - 2015-06-18 12:38:57 --> Security Class Initialized
+DEBUG - 2015-06-18 12:38:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:38:57 --> Input Class Initialized
+INFO - 2015-06-18 12:38:57 --> Language Class Initialized
+INFO - 2015-06-18 12:38:57 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:38:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:38:57 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:38:57 --> Controller Class Initialized
+INFO - 2015-06-18 12:38:57 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:38:57 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:38:57 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:38:57 --> Model Class Initialized
+INFO - 2015-06-18 12:38:57 --> Model Class Initialized
+INFO - 2015-06-18 12:38:57 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:38:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:38:57 --> Model Class Initialized
+INFO - 2015-06-18 12:38:57 --> Game_script_mdl class initialized
+INFO - 2015-06-18 12:38:57 --> Model Class Initialized
+INFO - 2015-06-18 12:38:57 --> view_script_mdl class initialized
+INFO - 2015-06-18 12:38:57 --> lsit_script is success
+INFO - 2015-06-18 12:38:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:38:57 --> Pagination Class Initialized
+INFO - 2015-06-18 12:38:57 --> lsit_script is success
+INFO - 2015-06-18 12:38:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_script.php
+INFO - 2015-06-18 12:38:57 --> Final output sent to browser
+DEBUG - 2015-06-18 12:38:57 --> Total execution time: 0.1160
+INFO - 2015-06-18 12:39:06 --> Config Class Initialized
+INFO - 2015-06-18 12:39:06 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:39:06 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:39:06 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:39:06 --> URI Class Initialized
+INFO - 2015-06-18 12:39:06 --> Router Class Initialized
+INFO - 2015-06-18 12:39:06 --> Output Class Initialized
+INFO - 2015-06-18 12:39:06 --> Security Class Initialized
+DEBUG - 2015-06-18 12:39:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:39:06 --> Input Class Initialized
+INFO - 2015-06-18 12:39:06 --> Language Class Initialized
+INFO - 2015-06-18 12:39:06 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:39:06 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:39:06 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:39:06 --> Controller Class Initialized
+INFO - 2015-06-18 12:39:06 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:39:06 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:39:06 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:39:06 --> Model Class Initialized
+INFO - 2015-06-18 12:39:06 --> Model Class Initialized
+INFO - 2015-06-18 12:39:06 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:39:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:39:06 --> Model Class Initialized
+INFO - 2015-06-18 12:39:06 --> Game_script_mdl class initialized
+INFO - 2015-06-18 12:39:06 --> get_script_by_id is success
+INFO - 2015-06-18 12:39:06 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\view_script.php
+INFO - 2015-06-18 12:39:06 --> Final output sent to browser
+DEBUG - 2015-06-18 12:39:06 --> Total execution time: 0.1220
+INFO - 2015-06-18 12:39:08 --> Config Class Initialized
+INFO - 2015-06-18 12:39:08 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:39:08 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:39:08 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:39:08 --> URI Class Initialized
+INFO - 2015-06-18 12:39:08 --> Router Class Initialized
+INFO - 2015-06-18 12:39:08 --> Output Class Initialized
+INFO - 2015-06-18 12:39:08 --> Security Class Initialized
+DEBUG - 2015-06-18 12:39:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:39:08 --> Input Class Initialized
+INFO - 2015-06-18 12:39:08 --> Language Class Initialized
+INFO - 2015-06-18 12:39:08 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:39:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:39:08 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:39:08 --> Controller Class Initialized
+INFO - 2015-06-18 12:39:08 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:39:08 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:39:08 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:39:08 --> Model Class Initialized
+INFO - 2015-06-18 12:39:08 --> Model Class Initialized
+INFO - 2015-06-18 12:39:08 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:39:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:39:08 --> Model Class Initialized
+INFO - 2015-06-18 12:39:08 --> Game_script_mdl class initialized
+DEBUG - 2015-06-18 12:39:08 --> UPDATE `game_script` SET `col_check` = 1
+WHERE `col_id` = 15
+INFO - 2015-06-18 12:39:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\jump.php
+INFO - 2015-06-18 12:39:08 --> Final output sent to browser
+DEBUG - 2015-06-18 12:39:08 --> Total execution time: 0.1230
+INFO - 2015-06-18 12:39:10 --> Config Class Initialized
+INFO - 2015-06-18 12:39:10 --> Hooks Class Initialized
+DEBUG - 2015-06-18 12:39:10 --> UTF-8 Support Enabled
+INFO - 2015-06-18 12:39:10 --> Utf8 Class Initialized
+INFO - 2015-06-18 12:39:10 --> URI Class Initialized
+INFO - 2015-06-18 12:39:10 --> Router Class Initialized
+INFO - 2015-06-18 12:39:10 --> Output Class Initialized
+INFO - 2015-06-18 12:39:10 --> Security Class Initialized
+DEBUG - 2015-06-18 12:39:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-18 12:39:10 --> Input Class Initialized
+INFO - 2015-06-18 12:39:10 --> Language Class Initialized
+INFO - 2015-06-18 12:39:10 --> Loader Class Initialized
+DEBUG - 2015-06-18 12:39:10 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-18 12:39:10 --> Helper loaded: url_helper
+INFO - 2015-06-18 12:39:10 --> Controller Class Initialized
+INFO - 2015-06-18 12:39:10 --> Session: Class initialized using 'files' driver.
+INFO - 2015-06-18 12:39:10 --> Helper loaded: form_helper
+INFO - 2015-06-18 12:39:10 --> Form Validation Class Initialized
+INFO - 2015-06-18 12:39:10 --> Model Class Initialized
+INFO - 2015-06-18 12:39:10 --> Model Class Initialized
+INFO - 2015-06-18 12:39:10 --> Database Driver Class Initialized
+DEBUG - 2015-06-18 12:39:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-18 12:39:10 --> Model Class Initialized
+INFO - 2015-06-18 12:39:10 --> Game_script_mdl class initialized
+INFO - 2015-06-18 12:39:10 --> Model Class Initialized
+INFO - 2015-06-18 12:39:10 --> view_script_mdl class initialized
+INFO - 2015-06-18 12:39:10 --> lsit_script is success
+INFO - 2015-06-18 12:39:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-18 12:39:10 --> Pagination Class Initialized
+INFO - 2015-06-18 12:39:10 --> lsit_script is success
+INFO - 2015-06-18 12:39:10 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_script.php
+INFO - 2015-06-18 12:39:10 --> Final output sent to browser
+DEBUG - 2015-06-18 12:39:10 --> Total execution time: 0.1240

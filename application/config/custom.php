@@ -72,13 +72,14 @@ $config['left_url'] = array(
 $config['main_url'] = array(
     'tech' => 'main_list/list_cloud',
     'admin' => 'manage_user/list_user',
-    'cm' => 'main_list/list_resource'
+    'cm' => 'manage_ticket/list_ticket'
 );
 $config['limit'] = array(
     'user_list' => 2,
     'game_list' => 3,
     'script_list' => 3,
-    'template_list' => 3
+    'template_list' => 3,
+    'ticket_list'=>3
 );
 $config['check_res'] = array(
     '0' => '未审核',
