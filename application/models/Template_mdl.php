@@ -64,4 +64,41 @@ class Template_mdl extends CI_Model {
 			}
 		}
 	}
+	
+	public function list_template_result($where=array()){
+	    $this->db->select('d.col_name col_zone_name,d.col_id col_zone_id, b.col_name col_ostype_name,b.col_id col_ostype_id,c.col_name col_offering_name,c.col_id col_offering_id,a.status,a.col_valid,a.col_check,a.col_template_id,a.col_id');
+	    $this->db->from('cloud_template a');
+	    $this->db->join('cloud_ostype b','a.col_ostype_id=b.col_id','inner');
+	    $this->db->join('cloud_zone d','a.col_zone_id=d.col_id','inner');
+	    $this->db->join('template_offering_map e','a.col_id=e.col_template_id','inner');
+	    $this->db->join('cloud_offering c','e.col_offering_id=c.col_id','inner');
+	    $this->db->where('e.col_offering_id=c.col_id');
+	    foreach ($where as $key => $value){
+	        $this->db->where($key,$value);
+	    };
+	    $query = $this->db->get();
+	    return $query->num_rows();
+	}
+	
+	public function list_template_con($offset=10,$limit=0,$where=array(),$order_by='a.col_id'){
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $this->db->select('d.col_name col_zone_name,d.col_id col_zone_id, b.col_name col_ostype_name,b.col_id col_ostype_id,c.col_name col_offering_name,c.col_id col_offering_id,a.status,a.col_valid,a.col_check,a.col_template_id,a.col_id');
+	    $this->db->from('cloud_template a');
+	    $this->db->join('cloud_ostype b','a.col_ostype_id=b.col_id','inner');
+	    $this->db->join('cloud_zone d','a.col_zone_id=d.col_id','inner');
+	    $this->db->join('template_offering_map e','a.col_id=e.col_template_id','inner');
+	    $this->db->join('cloud_offering c','e.col_offering_id=c.col_id','inner');
+	    $this->db->where('e.col_offering_id=c.col_id');
+	    foreach ($where as $key => $value){
+	        $this->db->where($key,$value);
+	    };
+	    $query = $this->db->get();
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_template query page error".mysql_error());
+	        return false;
+	    }
+	}
 }

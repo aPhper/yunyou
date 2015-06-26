@@ -26,7 +26,7 @@ class User_mdl extends CI_Model {
 			return false;
 		}
 		$query=$this->db->insert(self::TABLE,$data);
-		return $this->db->last_query();
+		return $this->db->insert_id();
 	}
 	/**
 	 * 
@@ -181,5 +181,29 @@ class User_mdl extends CI_Model {
 	   }else{
 	       return false;
 	   }
+	}
+		public function list_user_result($where_in,$where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->where_in('col_role',$where_in);
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_user_con($where_in,$offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->where_in('col_role',$where_in);
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_zone query page error".mysql_error());
+	        return false;
+	    }
 	}
 }

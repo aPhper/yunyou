@@ -130,7 +130,35 @@ class Game_script_mdl extends CI_Model {
 	    $this->db->delete(self::TABLE,array('col_id'=>$col_id));
 	    return $this->db->affected_rows();
 	}
-	
+// 	select e.col_name game_name,d.col_name script_name,d.col_date release_date,a.col_begin start_time,a.col_end end_time,g.col_name status
+// 	from vm a,vm_status g,cloud_template b,script_template c,game_script d,game e,user f
+// 	where a.col_status_code=g.col_code
+// 	and a.col_template_id=b.col_id
+// 	and b.col_id=c.col_template
+// 	and c.col_script_id=d.col_id
+// 	and d.col_game_id=e.col_id
+// 	and a.col_user_id=f.col_id
+	public function list_script_con($where=array(),$order_by='a.col_id'){
+	    $this->db->order_by($order_by);
+	    $this->db->select('e.col_name game_name,d.col_name script_name,d.col_date release_date,a.col_begin start_time,a.col_end end_time,g.col_name status');
+	    $this->db->from('vm a');
+	    $this->db->join('vm_status g','a.col_status_code=g.col_code','inner');
+	    $this->db->join('cloud_template b','a.col_template_id=b.col_id','inner');
+	    $this->db->join('script_template c','b.col_id=c.col_template','inner');
+	    $this->db->join('game_script d','c.col_script_id=d.col_id','inner');
+	    $this->db->join('game e','d.col_game_id=e.col_id','inner');
+	    $this->db->join('user f',' a.col_user_id=f.col_id','inner');
+	    foreach ($where as $key => $value){
+	        $this->db->where($key,$value);
+	    };
+	    $query = $this->db->get();
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_script query page error".mysql_error());
+	        return false;
+	    }
+	}
 	
 }
 

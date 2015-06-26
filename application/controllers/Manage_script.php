@@ -66,7 +66,7 @@ class Manage_script extends CI_Controller {
        $url=base_url('manage_script/list_script');
        $total=$this->view_script_mdl->get_all_script_num($where);
        $this->_data['total']=$total;
-       $this->_data['link']=$this->common->page_config($total,$limit,$url);
+       $this->_data['link']=$this->common->page_config_gx($total,$limit,$url);
        $this->_data['script_list']=$this->view_script_mdl->list_all_script($where,$limit,$offset);
        $this->load->view('list_script',$this->_data);
 }

@@ -7,7 +7,7 @@ class Ostype_mdl extends CI_Model {
 		parent::__construct ();
 		$this->load->database ();
 	}
-	public function  create_offering($data=array()){
+	public function  create_ostype($data=array()){
 	    if(empty($data)){
 	        log_message('info','create offering $data is null');
 	        return false;
@@ -22,7 +22,7 @@ class Ostype_mdl extends CI_Model {
 	        }
 	    }
 	}
-	public function  list_offering($where=array(),$limit='100',$order_by='col_id'){
+	public function  list_ostype($where=array(),$limit='100',$order_by='col_id'){
 	    foreach ($where as  $key=>$value) {
 	        $this->db->where($key,$value);
 	    }
@@ -36,7 +36,7 @@ class Ostype_mdl extends CI_Model {
 	        return false;
 	    }
 	}
-	public function get_offering_by_id($col_id) {
+	public function get_ostype_by_id($col_id) {
 	    $query=$this->db->get_where(self::TABLE,array('col_id'=>intval($col_id)));
 	    if($query){
 	        return $query->result_array();
@@ -45,7 +45,7 @@ class Ostype_mdl extends CI_Model {
 	        return false;
 	    }
 	}
-	public function update_offering($col_id='',$data=array()) {
+	public function update_ostype($col_id='',$data=array()) {
 	    if(empty($data)){
 	        log_message('info', 'updata_offering  $data is null');
 	        return false;
@@ -57,6 +57,29 @@ class Ostype_mdl extends CI_Model {
 	            log_message('error', 'update_offering query error'.mysql_error());
 	            return false;
 	        }
+	    }
+	}
+	
+	public function list_ostype_result($where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_ostype_con($offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_ostype query page error".mysql_error());
+	        return false;
 	    }
 	}
 }

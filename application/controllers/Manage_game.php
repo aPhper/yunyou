@@ -150,7 +150,7 @@ class Manage_game extends CI_Controller {
        $url=base_url('manage_game/list_game');
        $total=$this->game_mdl->get_game_num($where);
        $this->_data['total']=$total;
-       $this->_data['link']=$this->common->page_config($total,$limit,$url);
+       $this->_data['link']=$this->common->page_config_gx($total,$limit,$url);
        $this->_data['game_list']=$this->game_mdl->list_game($where,$limit,$offset);
        $this->load->view('list_game',$this->_data);
    }

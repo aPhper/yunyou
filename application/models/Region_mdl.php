@@ -46,7 +46,7 @@ class Region_mdl extends CI_Model {
 	    }
 	}
 	public function update_region($col_id='',$data=array()) {
-	    if(empty($data)){
+	    if(empty($data) || empty($col_id)){
 	        log_message('info', 'updata_region  $data is null');
 	        return false;
 	    }else{
@@ -59,7 +59,28 @@ class Region_mdl extends CI_Model {
 	        }
 	    }
 	}
+	
+	public function list_region_result($where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_region_con($offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_region query page error".mysql_error());
+	        return false;
+	    }
+	}
 }
-//set_region
-//get_region_list
-//get_region
+

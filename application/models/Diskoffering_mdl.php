@@ -1,7 +1,7 @@
 <?php
 if (! defined ( 'BASEPATH' ))
 	exit ( 'No direct script access allowed' );
-class Disk_offering_mdl extends CI_Model {
+class Diskoffering_mdl extends CI_Model {
 	const TABLE='cloud_diskoffering';
 	public function __construct(){
 		parent::__construct ();
@@ -56,6 +56,29 @@ class Disk_offering_mdl extends CI_Model {
 	            log_message('error', 'update_disk_offering query error'.mysql_error());
 	            return false;
 	        }
+	    }
+	}
+	
+	public function list_diskoffering_result($where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_diskoffering_con($offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_zone query page error".mysql_error());
+	        return false;
 	    }
 	}
 }

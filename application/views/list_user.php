@@ -87,7 +87,7 @@ $(document).ready(function(e) {
     </tbody>
   </table>
   
-  <div class='pagin'>
+<div class='pagin'>
     <div class='message'>共<i class='blue'><?php echo $total;?></i>条记录
     <ul class='paginList'>
     <?php echo $link;?> 

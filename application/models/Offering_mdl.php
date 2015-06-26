@@ -2,7 +2,7 @@
 if (! defined ( 'BASEPATH' ))
 	exit ( 'No direct offering access allowed' );
 class Offering_mdl extends CI_Model {
-	const TABLE='cloud_offeringssss';
+	const TABLE='cloud_offering';
 	public function __construct(){
 		parent::__construct ();
 		$this->load->database ();
@@ -58,6 +58,29 @@ class Offering_mdl extends CI_Model {
 	            log_message('error', 'update_offering query error'.mysql_error());
 	            return false;
 	        }
+	    }
+	}
+	
+	public function list_offering_result($where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_offering_con($offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_offering query page error".mysql_error());
+	        return false;
 	    }
 	}
 }

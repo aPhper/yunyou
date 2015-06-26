@@ -149,4 +149,29 @@ class Ticket_mdl extends CI_Model
         log_message($mess['type'], $mess['info']);
         return $mess['return'];
     }
+    // 	select a.col_time create_time,b.col_content type,d.col_name creator,a.col_question introduce,e.col_name anser,c.col_time end_time,c.col_content content
+// 	from ticket a,ticket_type b,ticket_comment c,user d,user e
+// 	where a.col_type_id=b.col_id
+// 	and a.col_id=c.col_ticket_id
+// 	and a.col_user_id=d.col_id
+// 	and c.col_uid=e.col_id
+    	public function list_ticket_dw($where=array(),$order_by='a.col_id'){
+	    $this->db->order_by($order_by);
+	    $this->db->select('a.col_time create_time,b.col_content type,d.col_name creator,a.col_question introduce,e.col_name anser,c.col_time end_time,c.col_content content');
+	    $this->db->from('ticket a');
+	    $this->db->join('ticket_type b','a.col_type_id=b.col_id','inner');
+	    $this->db->join('ticket_comment c','a.col_id=c.col_ticket_id','inner');
+	    $this->db->join('user d','a.col_user_id=d.col_id','inner');
+	    $this->db->join('user e','c.col_uid=e.col_id','inner');
+	    foreach ($where as $key => $value){
+	        $this->db->where($key,$value);
+	    };
+	    $query = $this->db->get();
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_ticket query page error".mysql_error());
+	        return false;
+	    }
+	}
 }

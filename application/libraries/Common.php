@@ -29,7 +29,7 @@ class Common{
      * @param string $info
      */
 	public function jump($url='',$info=''){
-		$data['url']=$url;
+		$data['currPage']=$url;
 		$data['message']=$info;
 		$this->_CI->load->view('jump',$data);
 	}
@@ -104,12 +104,43 @@ class Common{
 	public function is_not_json($str){
          return is_null(json_decode($str));
     }
-    public function page_config($total,$limit,$url){
+    public function page_config_gx($total,$limit,$url){
         $this->_CI->load->library('pagination');
         $config['base_url'] = $url;	
         $config['total_rows'] = $total;
         $config['per_page'] =$limit;
         $config['num_links'] = 5;
+        $config['first_link'] = '首页';
+        $config['last_link'] = '尾页';
+        $config['next_link'] = '&gt;';
+        $config['prev_link'] = '&lt;';
+        $config['first_tag_open']='<li class="paginItem">';
+        $config['first_tag_close']='</li>';
+        $config['last_tag_open'] = '<li class="paginItem">';
+        $config['last_tag_close'] = '</li>';
+        $config['next_tag_open'] = '<li class="paginItem">';
+        $config['next_tag_close'] = '</li>';
+        $config['prev_tag_open'] = '<li class="paginItem">';
+        $config['prev_tag_close'] = '</li>';
+        $config['cur_tag_open'] = '<li class="paginItem current"><a>';
+        $config['cur_tag_close'] = '</a></li>';
+        $config['num_tag_open'] = '<li class="paginItem">';
+        $config['num_tag_close'] = '</li>';
+        $config['anchor_class'] = "paginItem";
+        
+        $this->_CI->pagination->initialize($config);
+        $link=$this->_CI->pagination->create_links();
+        return $link;
+    }
+     public function page_config($total,$limit,$url,$uri_segment=4){
+        $this->_CI->load->library('pagination');
+        $config['base_url'] = $url;	
+        $config['total_rows'] = $total;
+        $config['per_page'] =$limit;
+        $config['uri_segment'] = $uri_segment;
+        $config['num_links'] = 5;
+        $config['use_page_numbers'] = TRUE;
+       
         $config['first_link'] = '首页';
         $config['last_link'] = '尾页';
         $config['next_link'] = '&gt;';

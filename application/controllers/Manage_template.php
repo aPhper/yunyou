@@ -64,7 +64,7 @@ class Manage_template extends CI_Controller {
       $url=base_url('manage_template/list_template');
       $total=$this->view_template_mdl->get_template_num($where);
       $this->_data['total']=$total;
-      $this->_data['link']=$this->common->page_config($total,$limit,$url);
+      $this->_data['link']=$this->common->page_config_gx($total,$limit,$url);
       $this->_data['template_list']=$this->view_template_mdl->list_template($where,$limit,$offset);
       $this->load->view('list_template',$this->_data);
    }

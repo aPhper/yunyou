@@ -173,7 +173,7 @@ class Manage_user extends CI_Controller
         
         $total = $this->user_mdl->get_user_num($where);
         $this->_data['total'] = $total;
-        $this->_data['link'] = $this->common->page_config($total, $limit, $url);
+        $this->_data['link'] = $this->common->page_config_gx($total, $limit, $url);
         $this->_data['user_list'] = $this->user_mdl->get_user_list($where, $limit, $offset);
         $this->load->view('list_user', $this->_data);
     }

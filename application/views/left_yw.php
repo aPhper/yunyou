@@ -32,8 +32,8 @@ $(function(){
   <dd>
     <div class="title"> <span><img src="<?php echo base_url('images/leftico01.png') ?>" /></span>运维管理 </div>
     <ul class="menuson">
-      <li class="active"><cite></cite><a href="<?php echo base_url('main_list/list_cloud') ?>" target="rightFrame">云平台列表</a><i></i></li>
-      <li><cite></cite><a href="yw_cj.html" target="rightFrame">创建云平台</a><i></i></li>
+      <li class="active"><cite></cite><a href="<?php echo base_url('cloud/list_page/1') ?>" target="rightFrame">云平台列表</a><i></i></li>
+      <li><cite></cite><a href="<?php echo base_url('cloud') ?>" target="rightFrame">创建云平台</a><i></i></li>
       <li><cite></cite><a href="<?php echo base_url('password') ?>" target="rightFrame">修改密码</a><i></i></li>
     </ul>
   </dd>

@@ -27,31 +27,37 @@ class Password extends CI_Controller {
 	       $this->_data = $this->session->userdata('user_info');
 		   $this->load->view('password',$this->_data);
 	    }else{
-	        $this->_data['error_string'] = $this->information['not_login'];
+	        $this->_data['error_string'] = $this->information['nologin_sessionout'];
 	        $this->load->view('login',$this->_data);
 	    }
 	}
 	
 	
 	public function update(){
-	    if ($this->form_validation->run('resetpasswd') === FALSE) {
-	        $user = $this->session->userdata('user_info');
-	        $this->_data['col_name'] = $user['col_name'];
-	        $this->_data['col_id'] = $user['col_id'];
-	        $this->load->view('password',$this->_data);
-	    }else {
-	        $flag = $this->user_mdl->resetpasswd($this->input->post('username', TRUE), $this->input->post('oldpasswd', TRUE), $this->input->post('newpasswd', TRUE));
-	        if($flag){
-	            $this->_data['message'] = $this->information['update_passwd_success'];
-	            $this->load->view('jump',$this->_data);
-	        }else{
+	    if ($this->auth->hasLogin()) {
+	        if ($this->form_validation->run('resetpasswd') === FALSE) {
 	            $user = $this->session->userdata('user_info');
 	            $this->_data['col_name'] = $user['col_name'];
 	            $this->_data['col_id'] = $user['col_id'];
-	            $this->_data['error_string'] = $this->information['password_error'];
 	            $this->load->view('password',$this->_data);
+	        }else {
+	            $flag = $this->user_mdl->resetpasswd($this->input->post('username', TRUE), $this->input->post('oldpasswd', TRUE), $this->input->post('newpasswd', TRUE));
+	            if($flag){
+	                $this->_data['message'] = $this->information['update_passwd_success'];
+	                $this->load->view('jump',$this->_data);
+	            }else{
+	                $user = $this->session->userdata('user_info');
+	                $this->_data['col_name'] = $user['col_name'];
+	                $this->_data['col_id'] = $user['col_id'];
+	                $this->_data['error_string'] = $this->information['password_error'];
+	                $this->load->view('password',$this->_data);
+	            }
 	        }
+	    }else{
+	        $this->_data['error_string'] = $this->information['nologin_sessionout'];
+	        $this->load->view('login',$this->_data);
 	    }
+	    
 	}
 	
 	public function newpasswd_check($str){

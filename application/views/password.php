@@ -62,18 +62,18 @@ $(document).ready(function(e) {
     <li>
       <label>旧密码</label>
       <input name="oldpasswd" type="password" class="dfinput" value="<?php echo set_value("oldpasswd")?>"/>
-      <span class="red"><?php echo form_error('oldpasswd'); ?></span>
-      <span class="red"><?php if(isset($error_string)){echo $error_string;}?></span>
+      <i class="red"><?php echo form_error('oldpasswd'); ?></i>
+      <i class="red"><?php if(isset($error_string)){echo $error_string;}?></i>
     </li>
     <li>
       <label>新密码</label>
       <input name="newpasswd" type="password" class="dfinput" value="<?php echo set_value("newpasswd")?>"/>
-      <span class="red"><?php echo form_error('newpasswd'); ?></span>
+      <i class="red"><?php echo form_error('newpasswd'); ?></i>
     </li>
     <li>
       <label>确认密码</label>
       <input name="passwdconf" type="password" class="dfinput" value="<?php echo set_value("passwdconf")?>" />
-      <span class="red"><?php echo form_error('passwdconf'); ?></span>
+      <i class="red"><?php echo form_error('passwdconf'); ?></i>
     </li>
     <li>
       <label>&nbsp;</label>

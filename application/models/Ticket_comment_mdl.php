@@ -154,23 +154,3 @@ class Ticket_comment_mdl extends CI_Model {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

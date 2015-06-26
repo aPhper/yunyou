@@ -59,6 +59,29 @@ class Zone_mdl extends CI_Model {
 	        }
 	    }
 	}
+	
+	public function list_zone_result($where=array()){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $query=$this->db->get(self::TABLE);
+	    return $query->num_rows();
+	}
+	
+	public function list_zone_con($offset=10,$limit=0,$where=array(),$order_by='col_id'){
+	    foreach ($where as $key => $value){
+	        $this->db->like($key,$value);
+	    }
+	    $this->db->limit($limit,$offset);
+	    $this->db->order_by($order_by);
+	    $query=$this->db->get(self::TABLE);
+	    if($query){
+	        return $query->result_array();
+	    }else{
+	        log_message("error", "list_zone query page error".mysql_error());
+	        return false;
+	    }
+	}
 }
 //set_zone
 //get_zone_list
