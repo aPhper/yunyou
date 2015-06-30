@@ -33,7 +33,7 @@ $(function(){
     <div class="title"> <span><img src="<?php echo base_url('images/leftico02.png')?>" /></span>运营管理 </div>
     <ul class="menuson">
       <li class='active'><cite></cite><a href="<?php echo base_url('manage_user/list_user')?>" target="rightFrame">用户管理</a><i></i></li>
-      <li><cite></cite><a href="" target="rightFrame">报表管理</a><i></i></li>
+      <li><cite></cite><a href="<?php echo base_url('report') ?>" target="rightFrame">报表管理</a><i></i></li>
       <li><cite></cite><a href="<?php echo base_url('manage_template/list_template');?>" target="rightFrame">模板管理</a><i></i></li>
       <li><cite></cite><a href="<?php echo base_url('manage_script/list_script')?>" target="rightFrame">脚本管理</a><i></i></li>
       <li><cite></cite><a href="<?php echo base_url('manage_game/list_game');?>" target="rightFrame">游戏管理</a><i></i></li>
