@@ -4,16 +4,28 @@ class Report_mdl extends CI_Model
 {
 
     //月工单数
-    const month_tickets = 'select MONTH(col_time) mon,count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)';
+    const month_tickets = "select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)";
     
     //周工单数
-    const week_tickets = 'select WEEK(col_time) wee,count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) group by WEEK(col_time)';
+    const week_tickets = "select WEEK(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by WEEK(col_time)";
     
     //最近一周工单
-    const recent_week_tickets = 'select WEEKDAY(col_time)+1 wee,count(col_id) count from ticket where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_time) group by WEEKDAY(col_time) order by col_time';
+    const recent_week_tickets = "select WEEKDAY(col_time)+1 mon,count(col_id) count ,
+        (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='Y') county ,
+        (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='N') countn
+         from ticket where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_time) group by WEEKDAY(col_time) order by col_time";
     
     //最近一月工单
-    const recent_month_tickets = 'select DAYOFMONTH(col_time) dd,count(col_id) count from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) group by DAYOFMONTH(col_time) order by col_time';
+    const recent_month_tickets = "select DAYOFMONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='N') countn
+        from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) group by DAYOFMONTH(col_time) order by col_time";
     
     //工单总量
     const tickets = 'select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())';

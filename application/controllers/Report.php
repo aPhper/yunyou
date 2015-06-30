@@ -69,7 +69,7 @@ class Report extends CI_Controller {
 	{
 	    if ($this->auth->hasLogin()) {
 	        
-	        $serch=$this->input->post('col_name', TRUE);
+	        $serch=$this->input->post('serch', TRUE);
 	        if(empty($serch)){
 	            $serch='1';
 	        }
@@ -85,9 +85,26 @@ class Report extends CI_Controller {
 	        $this->_data['avg_tickets']=$this->report_mdl->get_data('avg_tickets');
 	        //平均完成率
 	        $this->_data['avg_complate']=(intval($this->_data['handle_tickets'][0]['count']))*100/(intval($this->_data['tickets'][0]['count'])).'%';
-	         
-	        if($serch =='1'){
+	        if($serch =='1'){//月工单数
 	            $month_ticket=$this->report_mdl->get_data('month_tickets');
+	            $this->_data['x']=$this->handle($month_ticket,'x');
+	            $this->_data['y']=$this->handle($month_ticket,'y');
+	            $this->_data['ticket_records']=$month_ticket;
+	        }elseif ($serch =='2'){//周工单数
+	            $week_ticket=$this->report_mdl->get_data('week_tickets');
+	            $this->_data['x']=$this->handle($week_ticket,'x');
+	            $this->_data['y']=$this->handle($week_ticket,'y');
+	            $this->_data['ticket_records']=$week_ticket;
+	        }elseif ($serch == '3'){//最近一周工单
+	            $recent_week_tickets=$this->report_mdl->get_data('recent_week_tickets');
+	            $this->_data['x']=$this->handle($recent_week_tickets,'x');
+	            $this->_data['y']=$this->handle($recent_week_tickets,'y');
+	            $this->_data['ticket_records']=$recent_week_tickets;
+	        }elseif ($serch == '4'){//最近一月工单
+	            $recent_month_tickets=$this->report_mdl->get_data('recent_month_tickets');
+	            $this->_data['x']=$this->handle($recent_month_tickets,'x');
+	            $this->_data['y']=$this->handle($recent_month_tickets,'y');
+	            $this->_data['ticket_records']=$recent_month_tickets;
 	        }
 	        //top工单脚本排行
 	        $this->_data['tickets_top']=$this->report_mdl->get_data('tickets_top');
@@ -101,8 +118,22 @@ class Report extends CI_Controller {
 	    }
 	}
 	
-	public function handleMonth($array){
-	    
+	public function handle($array,$h){
+	    $arr=array();
+	    if($h == 'x'){
+	        if(!empty($array) && count($array)>0){
+	            foreach ($array as $key => $value){
+	                $arr[]=$value['mon'];
+	            }
+	        }
+	    }else{
+	        if(!empty($array)){
+	            foreach ($array as $key => $value){
+	                $arr[]=$value['count'];
+	            }
+	        }
+	    }
+	    return $arr;
 	}
 	
 }
