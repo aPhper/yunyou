@@ -21,7 +21,8 @@ $(document).ready(function(e) {
 	$(".select3").uedSelect({
 		width : 100
 	});
-      drawing();
+      
+
 });
 </script>
 </head>
@@ -161,6 +162,7 @@ $(document).ready(function(e) {
 </div>
 </body>
 <script type="text/javascript">
+drawing();
 	setWidth();
 	$(window).resize(function(){
 		setWidth();	

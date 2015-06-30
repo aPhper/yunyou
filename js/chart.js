@@ -1,5 +1,6 @@
            function drawing(){
-        	   console.log($('#x').val());
+        	   //console.log(eval($('#x').val()));
+        	  // console.log(eval("("+$('#y').val()+")"));
                 $(function () {
                     $('#container').highcharts({                   //图表展示容器，与div的id保持一致
                         chart: {
@@ -9,7 +10,7 @@
                             text: '表单统计'      //指定图表标题
                         },
                         xAxis: {
-                            categories: $('#x').val().toString()   //指定x轴分组
+                            categories: eval($('#x').val())   //指定x轴分组
                         },
                         yAxis: {
                             title: {
@@ -17,8 +18,8 @@
                             }
                         },
                         series:{                               
-                                name: $('#series_name').val().toString(),                          
-                                data: $('#y').val().toString()
+                                name: 'asdf',                          
+                                data: eval($('#y').val()) 
                             },
                         tooltip: {
                             crosshairs: [{
