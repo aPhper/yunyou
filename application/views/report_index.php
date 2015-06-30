@@ -4,7 +4,49 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>无标题文档</title>
 <link href="<?php echo base_url('css/style.css') ?>" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="<?php echo base_url('js/jquery.js') ?>"></script>
+<script type="text/javascript" src='js/jquery.min.js'></script>
+<script type="text/javascript" src='js/highcharts.js'></script>
+<script type="text/javascript" src='js/exporting.js'></script>
+<script type="text/javascript" >
+$(function () { 
+    $('#maintj').highcharts({                   //图表展示容器，与div的id保持一致
+        chart: {
+            type: 'line'                         //指定图表的类型，默认是折线图（line）
+        },
+        title: {
+            text: 'My first Highcharts chart'      //指定图表标题
+        },
+        xAxis: {
+            categories: ['周一', '周二', '周三','周四','周五','周六','周天']   //指定x轴分组
+        },
+        yAxis: {
+            title: {
+                text: 'something'                  //指定y轴的标题
+            }
+        },
+        series: [{                                 //指定数据列
+            name: 'Jane',                          //数据列名
+            data: [1, 0, 4,8,8,9,2]
+                                //数据
+        }, {
+            name: 'John',
+            data: [5, 7, 3,4,6,2,4]
+        }],
+        tooltip: {
+            crosshairs: [{
+                width: 1,
+                color: 'green'
+            }, {
+                width: 1,
+                color: 'green'
+            }],
+            pointFormat: '<span style="color:{series.color}">{series.name}</span>: ({point.y:,.0f} 个)<br/>',
+            shared: true
+        }
+    });
+});
+</script>
+
 </head>
 
 <body>
@@ -20,7 +62,8 @@
     <div class="leftinfo">
       <div class="listtitle"><a href="yye.html" class="more1">详情</a>平台营业额</div>
       <div class="maintj">
-        <img src="<?php echo base_url('images/zx.jpg') ?>" width="" height="253" />
+       
+      <div class="maintj" id='maintj'>
       </div>
     </div>
     <!--leftinfo end-->
@@ -52,12 +95,11 @@
   
   <div class="mainright">
     <div class="dflist">
-      <div class="listtitle"><a href="yye_yh.html" class="more1">详情</a>用户统计</div>
+      <div class="listtitle"><a href="<?php echo base_url('report/report_user');?>" class="more1">详情</a>用户统计</div>
+      
       <ul class="newlist">
-        <li><i>总会员数：</i>2535462</li>
-        <li><i>今日在线用户数：</i>5546</li>
-        <li><i>最高用户在线数：</i>2315</li>
-        <li><i>最高在线数日期：</i>2015-5-20</li>
+        <li><i>总会员数：</i><?php echo $total_user['0']['num'];?></li>
+        <li><i>今日在线用户数：</i><?php echo $online_now_day['0']['num']?></li>
       </ul>
     </div>
     <div class="dflist1">

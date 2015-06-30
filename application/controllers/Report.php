@@ -55,7 +55,14 @@ class Report extends CI_Controller {
 	        $this->_data['no_pass_scripts']=$this->report_mdl->get_data('no_pass_scripts');
 	        //热门脚本数
 	        $this->_data['hot_scripts']=$this->report_mdl->get_data('hot_scripts');
+
 	        
+
+	        //总用户数
+	        $this->_data['total_user']=$this->report_mdl->get_data('total_user');
+	        //当日上线用户
+	        $this->_data['online_now_day']=$this->report_mdl->get_data('online_now_day');
+
 		    $this->load->view('report_index',$this->_data);
 	    }else{
 	        $this->information=$this->config->item('user_login_tips');
@@ -70,6 +77,7 @@ class Report extends CI_Controller {
 	    if ($this->auth->hasLogin()) {
 	        
 	        $serch=$this->input->post('serch', TRUE);
+
 	        if(empty($serch)){
 	            $serch='1';
 	        }
@@ -85,6 +93,7 @@ class Report extends CI_Controller {
 	        $this->_data['avg_tickets']=$this->report_mdl->get_data('avg_tickets');
 	        //平均完成率
 	        $this->_data['avg_complate']=(intval($this->_data['handle_tickets'][0]['count']))*100/(intval($this->_data['tickets'][0]['count'])).'%';
+
 	        if($serch =='1'){//月工单数
 	            $month_ticket=$this->report_mdl->get_data('month_tickets');
 	            $this->_data['x']=$this->handle($month_ticket,'x');
@@ -117,23 +126,38 @@ class Report extends CI_Controller {
 	        $this->load->view('login',$this->_data);
 	    }
 	}
-	
+
+
 	public function handle($array,$h){
 	    $arr=array();
 	    if($h == 'x'){
 	        if(!empty($array) && count($array)>0){
 	            foreach ($array as $key => $value){
-	                $arr[]=$value['mon'];
+	                $arr[]=intval($value['mon']);
 	            }
 	        }
 	    }else{
 	        if(!empty($array)){
 	            foreach ($array as $key => $value){
-	                $arr[]=$value['count'];
+	                $arr[]=intval($value['count']);
 	            }
 	        }
 	    }
-	    return $arr;
+	    return json_encode($arr);
+	}
+	public function handleMonth($array){
+	    
+	}
+	public function report_user(){
+	    //总用户数
+	    $this->_data['total_user']=$this->report_mdl->get_data('total_user');
+	    //当日上线用户
+	    $this->_data['online_now_day']=$this->report_mdl->get_data('online_now_day');
+	    //当前在线
+	    $this->_data['online_now']=$this->report_mdl->get_data('online_now');
+	    $this->_data['user_top']=$this->report_mdl->get_data('user_top');
+	    $this->load->view('report_user',$this->_data);
+
 	}
 	
 }

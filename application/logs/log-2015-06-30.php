@@ -1,6 +1,7 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 INFO - 2015-06-30 03:06:41 --> Config Class Initialized
 INFO - 2015-06-30 03:06:41 --> Hooks Class Initialized
 DEBUG - 2015-06-30 03:06:41 --> UTF-8 Support Enabled
@@ -211,10 +212,219 @@ DEBUG - 2015-06-30 04:56:55 --> Session class already loaded. Second attempt ign
 INFO - 2015-06-30 04:56:55 --> Language file loaded: language/english/pagination_lang.php
 INFO - 2015-06-30 04:56:55 --> Pagination Class Initialized
 DEBUG - 2015-06-30 04:56:55 --> SELECT *
+=======
+INFO - 2015-06-30 10:00:50 --> Config Class Initialized
+INFO - 2015-06-30 10:00:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:00:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:00:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:00:50 --> URI Class Initialized
+DEBUG - 2015-06-30 10:00:50 --> No URI present. Default controller set.
+INFO - 2015-06-30 10:00:50 --> Router Class Initialized
+INFO - 2015-06-30 10:00:50 --> Output Class Initialized
+INFO - 2015-06-30 10:00:50 --> Security Class Initialized
+DEBUG - 2015-06-30 10:00:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:00:50 --> Input Class Initialized
+INFO - 2015-06-30 10:00:50 --> Language Class Initialized
+INFO - 2015-06-30 10:00:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:00:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:00:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:00:50 --> Controller Class Initialized
+INFO - 2015-06-30 10:00:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:00:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:00:50 --> Model Class Initialized
+INFO - 2015-06-30 10:00:50 --> Model Class Initialized
+INFO - 2015-06-30 10:00:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:00:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:00:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:00:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:00:51 --> Final output sent to browser
+DEBUG - 2015-06-30 10:00:51 --> Total execution time: 1.0941
+INFO - 2015-06-30 10:00:56 --> Config Class Initialized
+INFO - 2015-06-30 10:00:56 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:00:56 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:00:56 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:00:56 --> URI Class Initialized
+INFO - 2015-06-30 10:00:56 --> Router Class Initialized
+INFO - 2015-06-30 10:00:56 --> Output Class Initialized
+INFO - 2015-06-30 10:00:56 --> Security Class Initialized
+DEBUG - 2015-06-30 10:00:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:00:56 --> Input Class Initialized
+INFO - 2015-06-30 10:00:56 --> Language Class Initialized
+INFO - 2015-06-30 10:00:56 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:00:56 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:00:56 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:00:56 --> Controller Class Initialized
+INFO - 2015-06-30 10:00:56 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:00:56 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:00:56 --> Model Class Initialized
+INFO - 2015-06-30 10:00:56 --> Model Class Initialized
+INFO - 2015-06-30 10:00:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:00:57 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:00:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:00:57 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 10:00:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:00:57 --> Final output sent to browser
+DEBUG - 2015-06-30 10:00:57 --> Total execution time: 0.3020
+INFO - 2015-06-30 10:01:01 --> Config Class Initialized
+INFO - 2015-06-30 10:01:01 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:01 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:01 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:01 --> URI Class Initialized
+INFO - 2015-06-30 10:01:01 --> Router Class Initialized
+INFO - 2015-06-30 10:01:01 --> Output Class Initialized
+INFO - 2015-06-30 10:01:01 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:01 --> Input Class Initialized
+INFO - 2015-06-30 10:01:01 --> Language Class Initialized
+INFO - 2015-06-30 10:01:01 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:01 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:01 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:01 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:01 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:01 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:01 --> Model Class Initialized
+INFO - 2015-06-30 10:01:01 --> Model Class Initialized
+INFO - 2015-06-30 10:01:01 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:02 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 10:01:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:01:02 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:02 --> Total execution time: 0.1280
+INFO - 2015-06-30 10:01:18 --> Config Class Initialized
+INFO - 2015-06-30 10:01:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:18 --> URI Class Initialized
+INFO - 2015-06-30 10:01:18 --> Router Class Initialized
+INFO - 2015-06-30 10:01:18 --> Output Class Initialized
+INFO - 2015-06-30 10:01:18 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:18 --> Input Class Initialized
+INFO - 2015-06-30 10:01:18 --> Language Class Initialized
+INFO - 2015-06-30 10:01:18 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:18 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:18 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:18 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:18 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+INFO - 2015-06-30 10:01:18 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:18 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+INFO - 2015-06-30 10:01:18 --> user 18 login at 2015-06-30 10:06:18
+INFO - 2015-06-30 10:01:18 --> Config Class Initialized
+INFO - 2015-06-30 10:01:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:18 --> URI Class Initialized
+INFO - 2015-06-30 10:01:18 --> Router Class Initialized
+INFO - 2015-06-30 10:01:18 --> Output Class Initialized
+INFO - 2015-06-30 10:01:18 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:18 --> Input Class Initialized
+INFO - 2015-06-30 10:01:18 --> Language Class Initialized
+INFO - 2015-06-30 10:01:18 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:18 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:18 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:18 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:18 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:01:18 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:18 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:01:18 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:01:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:01:18 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:01:18 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:18 --> Total execution time: 0.1260
+INFO - 2015-06-30 10:01:18 --> Config Class Initialized
+INFO - 2015-06-30 10:01:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:18 --> URI Class Initialized
+INFO - 2015-06-30 10:01:18 --> Router Class Initialized
+INFO - 2015-06-30 10:01:18 --> Output Class Initialized
+INFO - 2015-06-30 10:01:18 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:18 --> Input Class Initialized
+INFO - 2015-06-30 10:01:18 --> Language Class Initialized
+INFO - 2015-06-30 10:01:18 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:18 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:18 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:18 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:18 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:01:18 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:18 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+INFO - 2015-06-30 10:01:18 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:01:18 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:18 --> Total execution time: 0.1420
+INFO - 2015-06-30 10:01:19 --> Config Class Initialized
+INFO - 2015-06-30 10:01:19 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:19 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:19 --> URI Class Initialized
+INFO - 2015-06-30 10:01:19 --> Router Class Initialized
+INFO - 2015-06-30 10:01:19 --> Output Class Initialized
+INFO - 2015-06-30 10:01:19 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:19 --> Input Class Initialized
+INFO - 2015-06-30 10:01:19 --> Language Class Initialized
+INFO - 2015-06-30 10:01:19 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:19 --> Config Class Initialized
+INFO - 2015-06-30 10:01:19 --> Hooks Class Initialized
+INFO - 2015-06-30 10:01:19 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:19 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:19 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:19 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:19 --> URI Class Initialized
+INFO - 2015-06-30 10:01:19 --> Router Class Initialized
+INFO - 2015-06-30 10:01:19 --> Output Class Initialized
+INFO - 2015-06-30 10:01:19 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:19 --> Input Class Initialized
+INFO - 2015-06-30 10:01:19 --> Language Class Initialized
+INFO - 2015-06-30 10:01:19 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:19 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:19 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:19 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:01:19 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:19 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:19 --> Model Class Initialized
+INFO - 2015-06-30 10:01:19 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:01:19 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:19 --> Total execution time: 0.2030
+INFO - 2015-06-30 10:01:19 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:19 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:01:19 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:19 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:19 --> Model Class Initialized
+INFO - 2015-06-30 10:01:19 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:01:19 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:01:19 --> SELECT *
+>>>>>>> gaoxu
 FROM `user`
 WHERE `col_role` != 'author'
 AND `col_role` != 'user'
  LIMIT 2
+<<<<<<< HEAD
 INFO - 2015-06-30 04:56:55 --> File loaded: D:\xampp\htdocs\manage\application\views\list_user.php
 INFO - 2015-06-30 04:56:55 --> Final output sent to browser
 DEBUG - 2015-06-30 04:56:55 --> Total execution time: 0.3510
@@ -2750,26 +2960,74 @@ DEBUG - 2015-06-30 06:39:27 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 06:39:27 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 06:39:27 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 06:39:27 --> select count(script_name) count
+=======
+INFO - 2015-06-30 10:01:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:01:19 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:19 --> Total execution time: 0.3360
+INFO - 2015-06-30 10:01:21 --> Config Class Initialized
+INFO - 2015-06-30 10:01:21 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:21 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:21 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:21 --> URI Class Initialized
+INFO - 2015-06-30 10:01:21 --> Router Class Initialized
+INFO - 2015-06-30 10:01:21 --> Output Class Initialized
+INFO - 2015-06-30 10:01:21 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:21 --> Input Class Initialized
+INFO - 2015-06-30 10:01:21 --> Language Class Initialized
+INFO - 2015-06-30 10:01:21 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:21 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:21 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:21 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:21 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:21 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:21 --> Model Class Initialized
+INFO - 2015-06-30 10:01:21 --> Model Class Initialized
+INFO - 2015-06-30 10:01:21 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:21 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:21 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:21 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:27 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:21 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:27 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:21 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 06:39:27 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 06:39:27 --> Final output sent to browser
 DEBUG - 2015-06-30 06:39:27 --> Total execution time: 0.2300
@@ -2807,26 +3065,86 @@ DEBUG - 2015-06-30 06:39:28 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 06:39:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 06:39:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 06:39:28 --> select count(script_name) count
+=======
+INFO - 2015-06-30 10:01:21 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:21 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:21 --> Total execution time: 0.1580
+INFO - 2015-06-30 10:01:26 --> Config Class Initialized
+INFO - 2015-06-30 10:01:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:26 --> URI Class Initialized
+INFO - 2015-06-30 10:01:26 --> Router Class Initialized
+INFO - 2015-06-30 10:01:26 --> Output Class Initialized
+INFO - 2015-06-30 10:01:26 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:26 --> Input Class Initialized
+INFO - 2015-06-30 10:01:26 --> Language Class Initialized
+ERROR - 2015-06-30 10:01:26 --> 404 Page Not Found: Yyehtml/index
+INFO - 2015-06-30 10:01:28 --> Config Class Initialized
+INFO - 2015-06-30 10:01:28 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:28 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:28 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:28 --> URI Class Initialized
+INFO - 2015-06-30 10:01:28 --> Router Class Initialized
+INFO - 2015-06-30 10:01:28 --> Output Class Initialized
+INFO - 2015-06-30 10:01:28 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:28 --> Input Class Initialized
+INFO - 2015-06-30 10:01:28 --> Language Class Initialized
+INFO - 2015-06-30 10:01:28 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:28 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:28 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:28 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:28 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:28 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:28 --> Model Class Initialized
+INFO - 2015-06-30 10:01:28 --> Model Class Initialized
+INFO - 2015-06-30 10:01:28 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:28 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:28 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:28 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:28 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 06:39:28 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 06:39:28 --> Final output sent to browser
 DEBUG - 2015-06-30 06:39:28 --> Total execution time: 0.2110
@@ -2864,26 +3182,86 @@ DEBUG - 2015-06-30 06:39:29 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 06:39:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 06:39:29 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 06:39:29 --> select count(script_name) count
+=======
+INFO - 2015-06-30 10:01:28 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:28 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:28 --> Total execution time: 0.1450
+INFO - 2015-06-30 10:01:29 --> Config Class Initialized
+INFO - 2015-06-30 10:01:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:29 --> URI Class Initialized
+INFO - 2015-06-30 10:01:29 --> Router Class Initialized
+INFO - 2015-06-30 10:01:29 --> Output Class Initialized
+INFO - 2015-06-30 10:01:29 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:29 --> Input Class Initialized
+INFO - 2015-06-30 10:01:29 --> Language Class Initialized
+ERROR - 2015-06-30 10:01:29 --> 404 Page Not Found: Yye_yhhtml/index
+INFO - 2015-06-30 10:01:31 --> Config Class Initialized
+INFO - 2015-06-30 10:01:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:31 --> URI Class Initialized
+INFO - 2015-06-30 10:01:31 --> Router Class Initialized
+INFO - 2015-06-30 10:01:31 --> Output Class Initialized
+INFO - 2015-06-30 10:01:31 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:31 --> Input Class Initialized
+INFO - 2015-06-30 10:01:31 --> Language Class Initialized
+INFO - 2015-06-30 10:01:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:31 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:31 --> Model Class Initialized
+INFO - 2015-06-30 10:01:31 --> Model Class Initialized
+INFO - 2015-06-30 10:01:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:31 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:31 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:31 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:31 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:29 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:31 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 06:39:29 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:01:31 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 06:39:29 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 06:39:29 --> Final output sent to browser
 DEBUG - 2015-06-30 06:39:29 --> Total execution time: 0.2550
@@ -3126,10 +3504,916 @@ DEBUG - 2015-06-30 10:40:55 --> Session class already loaded. Second attempt ign
 INFO - 2015-06-30 10:40:55 --> Language file loaded: language/english/pagination_lang.php
 INFO - 2015-06-30 10:40:55 --> Pagination Class Initialized
 DEBUG - 2015-06-30 10:40:55 --> SELECT *
+=======
+INFO - 2015-06-30 10:01:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:31 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:31 --> Total execution time: 0.1430
+INFO - 2015-06-30 10:01:33 --> Config Class Initialized
+INFO - 2015-06-30 10:01:33 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:33 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:33 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:33 --> URI Class Initialized
+INFO - 2015-06-30 10:01:33 --> Router Class Initialized
+INFO - 2015-06-30 10:01:33 --> Output Class Initialized
+INFO - 2015-06-30 10:01:33 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:33 --> Input Class Initialized
+INFO - 2015-06-30 10:01:33 --> Language Class Initialized
+INFO - 2015-06-30 10:01:33 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:33 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:33 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:33 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:33 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:33 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:33 --> Model Class Initialized
+INFO - 2015-06-30 10:01:33 --> Model Class Initialized
+INFO - 2015-06-30 10:01:33 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:33 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:33 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:33 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:33 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:33 --> select MONTH(col_time) mon,count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 10:01:33 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 10:01:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 10:01:33 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:33 --> Total execution time: 0.1100
+INFO - 2015-06-30 10:01:36 --> Config Class Initialized
+INFO - 2015-06-30 10:01:36 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:36 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:36 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:36 --> URI Class Initialized
+INFO - 2015-06-30 10:01:36 --> Router Class Initialized
+INFO - 2015-06-30 10:01:36 --> Output Class Initialized
+INFO - 2015-06-30 10:01:36 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:36 --> Input Class Initialized
+INFO - 2015-06-30 10:01:36 --> Language Class Initialized
+INFO - 2015-06-30 10:01:36 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:36 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:36 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:36 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:36 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:36 --> Model Class Initialized
+INFO - 2015-06-30 10:01:36 --> Model Class Initialized
+INFO - 2015-06-30 10:01:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:36 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:36 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+INFO - 2015-06-30 10:01:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:36 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:36 --> Total execution time: 0.1450
+INFO - 2015-06-30 10:01:38 --> Config Class Initialized
+INFO - 2015-06-30 10:01:38 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:38 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:38 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:38 --> URI Class Initialized
+INFO - 2015-06-30 10:01:38 --> Router Class Initialized
+INFO - 2015-06-30 10:01:38 --> Output Class Initialized
+INFO - 2015-06-30 10:01:38 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:38 --> Input Class Initialized
+INFO - 2015-06-30 10:01:38 --> Language Class Initialized
+ERROR - 2015-06-30 10:01:38 --> 404 Page Not Found: Yye_xnjhtml/index
+INFO - 2015-06-30 10:01:40 --> Config Class Initialized
+INFO - 2015-06-30 10:01:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:40 --> URI Class Initialized
+INFO - 2015-06-30 10:01:40 --> Router Class Initialized
+INFO - 2015-06-30 10:01:40 --> Output Class Initialized
+INFO - 2015-06-30 10:01:40 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:40 --> Input Class Initialized
+INFO - 2015-06-30 10:01:40 --> Language Class Initialized
+INFO - 2015-06-30 10:01:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:40 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:40 --> Model Class Initialized
+INFO - 2015-06-30 10:01:40 --> Model Class Initialized
+INFO - 2015-06-30 10:01:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:40 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:40 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:40 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+INFO - 2015-06-30 10:01:40 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:40 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:40 --> Total execution time: 0.1340
+INFO - 2015-06-30 10:01:41 --> Config Class Initialized
+INFO - 2015-06-30 10:01:41 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:41 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:41 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:41 --> URI Class Initialized
+INFO - 2015-06-30 10:01:41 --> Router Class Initialized
+INFO - 2015-06-30 10:01:41 --> Output Class Initialized
+INFO - 2015-06-30 10:01:41 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:41 --> Input Class Initialized
+INFO - 2015-06-30 10:01:41 --> Language Class Initialized
+ERROR - 2015-06-30 10:01:41 --> 404 Page Not Found: Yye_jbhtml/index
+INFO - 2015-06-30 10:01:43 --> Config Class Initialized
+INFO - 2015-06-30 10:01:43 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:43 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:43 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:43 --> URI Class Initialized
+INFO - 2015-06-30 10:01:43 --> Router Class Initialized
+INFO - 2015-06-30 10:01:43 --> Output Class Initialized
+INFO - 2015-06-30 10:01:43 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:43 --> Input Class Initialized
+INFO - 2015-06-30 10:01:43 --> Language Class Initialized
+INFO - 2015-06-30 10:01:43 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:43 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:43 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:43 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:43 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:43 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:43 --> Model Class Initialized
+INFO - 2015-06-30 10:01:43 --> Model Class Initialized
+INFO - 2015-06-30 10:01:43 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:43 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:43 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:01:43 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:01:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+INFO - 2015-06-30 10:01:43 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:01:43 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:43 --> Total execution time: 0.1720
+INFO - 2015-06-30 10:01:45 --> Config Class Initialized
+INFO - 2015-06-30 10:01:45 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:01:45 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:01:45 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:01:45 --> URI Class Initialized
+INFO - 2015-06-30 10:01:45 --> Router Class Initialized
+INFO - 2015-06-30 10:01:45 --> Output Class Initialized
+INFO - 2015-06-30 10:01:45 --> Security Class Initialized
+DEBUG - 2015-06-30 10:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:01:45 --> Input Class Initialized
+INFO - 2015-06-30 10:01:45 --> Language Class Initialized
+INFO - 2015-06-30 10:01:45 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:01:45 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:01:45 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:01:45 --> Controller Class Initialized
+INFO - 2015-06-30 10:01:45 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:01:45 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:01:45 --> Model Class Initialized
+INFO - 2015-06-30 10:01:45 --> Model Class Initialized
+INFO - 2015-06-30 10:01:45 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:01:45 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:01:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:01:45 --> Model Class Initialized
+DEBUG - 2015-06-30 10:01:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:01:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:01:45 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:01:45 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:01:45 --> select MONTH(col_time) mon,count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 10:01:45 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 10:01:45 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 10:01:45 --> Final output sent to browser
+DEBUG - 2015-06-30 10:01:45 --> Total execution time: 0.1240
+INFO - 2015-06-30 10:03:29 --> Config Class Initialized
+INFO - 2015-06-30 10:03:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:03:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:03:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:03:29 --> URI Class Initialized
+INFO - 2015-06-30 10:03:29 --> Router Class Initialized
+INFO - 2015-06-30 10:03:29 --> Output Class Initialized
+INFO - 2015-06-30 10:03:29 --> Security Class Initialized
+DEBUG - 2015-06-30 10:03:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:03:29 --> Input Class Initialized
+INFO - 2015-06-30 10:03:29 --> Language Class Initialized
+INFO - 2015-06-30 10:03:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:03:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:03:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:03:29 --> Controller Class Initialized
+INFO - 2015-06-30 10:03:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:03:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:03:29 --> Model Class Initialized
+INFO - 2015-06-30 10:03:29 --> Model Class Initialized
+INFO - 2015-06-30 10:03:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:03:29 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:03:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:03:29 --> Model Class Initialized
+INFO - 2015-06-30 10:03:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:03:29 --> Final output sent to browser
+DEBUG - 2015-06-30 10:03:29 --> Total execution time: 0.1130
+INFO - 2015-06-30 10:04:19 --> Config Class Initialized
+INFO - 2015-06-30 10:04:19 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:19 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:19 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:19 --> URI Class Initialized
+INFO - 2015-06-30 10:04:19 --> Router Class Initialized
+INFO - 2015-06-30 10:04:19 --> Output Class Initialized
+INFO - 2015-06-30 10:04:19 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:19 --> Input Class Initialized
+INFO - 2015-06-30 10:04:19 --> Language Class Initialized
+INFO - 2015-06-30 10:04:19 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:19 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:19 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:19 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:19 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:19 --> Model Class Initialized
+INFO - 2015-06-30 10:04:19 --> Model Class Initialized
+INFO - 2015-06-30 10:04:19 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:19 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:19 --> Model Class Initialized
+INFO - 2015-06-30 10:04:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:04:19 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:19 --> Total execution time: 0.2430
+INFO - 2015-06-30 10:04:20 --> Config Class Initialized
+INFO - 2015-06-30 10:04:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:20 --> URI Class Initialized
+INFO - 2015-06-30 10:04:20 --> Router Class Initialized
+INFO - 2015-06-30 10:04:20 --> Output Class Initialized
+INFO - 2015-06-30 10:04:20 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:20 --> Input Class Initialized
+INFO - 2015-06-30 10:04:20 --> Language Class Initialized
+INFO - 2015-06-30 10:04:20 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:20 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:20 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:20 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:20 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:20 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:20 --> Model Class Initialized
+INFO - 2015-06-30 10:04:20 --> Model Class Initialized
+INFO - 2015-06-30 10:04:20 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:20 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:20 --> Model Class Initialized
+INFO - 2015-06-30 10:04:20 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:04:20 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:20 --> Total execution time: 0.1350
+INFO - 2015-06-30 10:04:21 --> Config Class Initialized
+INFO - 2015-06-30 10:04:21 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:21 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:21 --> URI Class Initialized
+INFO - 2015-06-30 10:04:21 --> Router Class Initialized
+INFO - 2015-06-30 10:04:21 --> Output Class Initialized
+INFO - 2015-06-30 10:04:21 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:21 --> Input Class Initialized
+INFO - 2015-06-30 10:04:21 --> Language Class Initialized
+INFO - 2015-06-30 10:04:21 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:21 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:21 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:21 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:21 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:04:21 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:21 --> Total execution time: 0.1240
+INFO - 2015-06-30 10:04:21 --> Config Class Initialized
+INFO - 2015-06-30 10:04:21 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:21 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:21 --> URI Class Initialized
+INFO - 2015-06-30 10:04:21 --> Router Class Initialized
+INFO - 2015-06-30 10:04:21 --> Output Class Initialized
+INFO - 2015-06-30 10:04:21 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:21 --> Input Class Initialized
+INFO - 2015-06-30 10:04:21 --> Language Class Initialized
+INFO - 2015-06-30 10:04:21 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:21 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:21 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:21 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:21 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:21 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:21 --> Model Class Initialized
+INFO - 2015-06-30 10:04:21 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:04:21 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:21 --> Total execution time: 0.1080
+INFO - 2015-06-30 10:04:22 --> Config Class Initialized
+INFO - 2015-06-30 10:04:22 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:22 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:22 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:22 --> URI Class Initialized
+INFO - 2015-06-30 10:04:22 --> Router Class Initialized
+INFO - 2015-06-30 10:04:22 --> Output Class Initialized
+INFO - 2015-06-30 10:04:22 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:22 --> Input Class Initialized
+INFO - 2015-06-30 10:04:22 --> Language Class Initialized
+INFO - 2015-06-30 10:04:22 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:22 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:22 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:22 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:22 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:23 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:04:23 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:23 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:23 --> Model Class Initialized
+INFO - 2015-06-30 10:04:23 --> Model Class Initialized
+DEBUG - 2015-06-30 10:04:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:23 --> Config Class Initialized
+INFO - 2015-06-30 10:04:23 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:23 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:23 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:23 --> URI Class Initialized
+INFO - 2015-06-30 10:04:23 --> Router Class Initialized
+INFO - 2015-06-30 10:04:23 --> Output Class Initialized
+INFO - 2015-06-30 10:04:23 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:23 --> Input Class Initialized
+INFO - 2015-06-30 10:04:23 --> Language Class Initialized
+INFO - 2015-06-30 10:04:23 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:23 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:23 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:23 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:23 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:23 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:23 --> Model Class Initialized
+INFO - 2015-06-30 10:04:23 --> Model Class Initialized
+INFO - 2015-06-30 10:04:23 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:23 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:23 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:04:23 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:23 --> Total execution time: 0.1100
+INFO - 2015-06-30 10:04:26 --> Config Class Initialized
+INFO - 2015-06-30 10:04:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:26 --> URI Class Initialized
+INFO - 2015-06-30 10:04:26 --> Router Class Initialized
+INFO - 2015-06-30 10:04:26 --> Output Class Initialized
+INFO - 2015-06-30 10:04:26 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:26 --> Input Class Initialized
+INFO - 2015-06-30 10:04:26 --> Language Class Initialized
+INFO - 2015-06-30 10:04:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:26 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:26 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> user 18 login at 2015-06-30 10:06:26
+INFO - 2015-06-30 10:04:26 --> Config Class Initialized
+INFO - 2015-06-30 10:04:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:26 --> URI Class Initialized
+INFO - 2015-06-30 10:04:26 --> Router Class Initialized
+INFO - 2015-06-30 10:04:26 --> Output Class Initialized
+INFO - 2015-06-30 10:04:26 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:26 --> Input Class Initialized
+INFO - 2015-06-30 10:04:26 --> Language Class Initialized
+INFO - 2015-06-30 10:04:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:26 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:26 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:04:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:04:26 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:04:26 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:04:26 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:26 --> Total execution time: 0.1200
+INFO - 2015-06-30 10:04:26 --> Config Class Initialized
+INFO - 2015-06-30 10:04:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:26 --> URI Class Initialized
+INFO - 2015-06-30 10:04:26 --> Router Class Initialized
+INFO - 2015-06-30 10:04:26 --> Output Class Initialized
+INFO - 2015-06-30 10:04:26 --> Config Class Initialized
+INFO - 2015-06-30 10:04:26 --> Hooks Class Initialized
+INFO - 2015-06-30 10:04:26 --> Security Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-06-30 10:04:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:26 --> Input Class Initialized
+INFO - 2015-06-30 10:04:26 --> URI Class Initialized
+INFO - 2015-06-30 10:04:26 --> Language Class Initialized
+INFO - 2015-06-30 10:04:26 --> Config Class Initialized
+INFO - 2015-06-30 10:04:26 --> Hooks Class Initialized
+INFO - 2015-06-30 10:04:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:26 --> Router Class Initialized
+INFO - 2015-06-30 10:04:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:26 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:04:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:04:26 --> Output Class Initialized
+INFO - 2015-06-30 10:04:26 --> URI Class Initialized
+INFO - 2015-06-30 10:04:26 --> Security Class Initialized
+INFO - 2015-06-30 10:04:26 --> Router Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:26 --> Input Class Initialized
+INFO - 2015-06-30 10:04:26 --> Language Class Initialized
+INFO - 2015-06-30 10:04:26 --> Loader Class Initialized
+INFO - 2015-06-30 10:04:26 --> Output Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:26 --> Security Class Initialized
+INFO - 2015-06-30 10:04:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:26 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:04:26 --> Input Class Initialized
+INFO - 2015-06-30 10:04:26 --> Language Class Initialized
+INFO - 2015-06-30 10:04:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:04:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:04:26 --> Controller Class Initialized
+INFO - 2015-06-30 10:04:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:04:26 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:04:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:04:26 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:26 --> Total execution time: 0.1300
+INFO - 2015-06-30 10:04:26 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:04:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:04:26 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:26 --> Total execution time: 0.1780
+INFO - 2015-06-30 10:04:26 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:04:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:04:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+INFO - 2015-06-30 10:04:26 --> Model Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:04:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:04:26 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:04:26 --> SELECT *
 FROM `user`
 WHERE `col_role` != 'author'
 AND `col_role` != 'user'
  LIMIT 2
+INFO - 2015-06-30 10:04:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:04:26 --> Final output sent to browser
+DEBUG - 2015-06-30 10:04:26 --> Total execution time: 0.2140
+INFO - 2015-06-30 10:05:40 --> Config Class Initialized
+INFO - 2015-06-30 10:05:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:40 --> URI Class Initialized
+INFO - 2015-06-30 10:05:40 --> Router Class Initialized
+INFO - 2015-06-30 10:05:40 --> Output Class Initialized
+INFO - 2015-06-30 10:05:40 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:40 --> Input Class Initialized
+INFO - 2015-06-30 10:05:40 --> Language Class Initialized
+INFO - 2015-06-30 10:05:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:40 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:40 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:05:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:40 --> Model Class Initialized
+INFO - 2015-06-30 10:05:40 --> Model Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:40 --> Config Class Initialized
+INFO - 2015-06-30 10:05:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:40 --> URI Class Initialized
+INFO - 2015-06-30 10:05:40 --> Router Class Initialized
+INFO - 2015-06-30 10:05:40 --> Output Class Initialized
+INFO - 2015-06-30 10:05:40 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:40 --> Input Class Initialized
+INFO - 2015-06-30 10:05:40 --> Language Class Initialized
+INFO - 2015-06-30 10:05:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:40 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:40 --> Model Class Initialized
+INFO - 2015-06-30 10:05:40 --> Model Class Initialized
+INFO - 2015-06-30 10:05:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:40 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:05:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:40 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:05:40 --> Final output sent to browser
+DEBUG - 2015-06-30 10:05:40 --> Total execution time: 0.1070
+INFO - 2015-06-30 10:05:43 --> Config Class Initialized
+INFO - 2015-06-30 10:05:43 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:43 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:43 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:43 --> URI Class Initialized
+INFO - 2015-06-30 10:05:43 --> Router Class Initialized
+INFO - 2015-06-30 10:05:43 --> Output Class Initialized
+INFO - 2015-06-30 10:05:43 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:43 --> Input Class Initialized
+INFO - 2015-06-30 10:05:43 --> Language Class Initialized
+INFO - 2015-06-30 10:05:43 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:43 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:43 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:43 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:43 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:43 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:43 --> Model Class Initialized
+INFO - 2015-06-30 10:05:43 --> Model Class Initialized
+INFO - 2015-06-30 10:05:43 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:43 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:05:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:43 --> Model Class Initialized
+INFO - 2015-06-30 10:05:43 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:05:43 --> Final output sent to browser
+DEBUG - 2015-06-30 10:05:43 --> Total execution time: 0.1300
+INFO - 2015-06-30 10:05:44 --> Config Class Initialized
+INFO - 2015-06-30 10:05:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:44 --> URI Class Initialized
+INFO - 2015-06-30 10:05:44 --> Router Class Initialized
+INFO - 2015-06-30 10:05:44 --> Output Class Initialized
+INFO - 2015-06-30 10:05:44 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:44 --> Input Class Initialized
+INFO - 2015-06-30 10:05:44 --> Language Class Initialized
+INFO - 2015-06-30 10:05:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:44 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:44 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:05:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:44 --> Model Class Initialized
+INFO - 2015-06-30 10:05:44 --> Model Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:44 --> Config Class Initialized
+INFO - 2015-06-30 10:05:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:44 --> URI Class Initialized
+INFO - 2015-06-30 10:05:44 --> Router Class Initialized
+INFO - 2015-06-30 10:05:44 --> Output Class Initialized
+INFO - 2015-06-30 10:05:44 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:44 --> Input Class Initialized
+INFO - 2015-06-30 10:05:44 --> Language Class Initialized
+INFO - 2015-06-30 10:05:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:44 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:44 --> Model Class Initialized
+INFO - 2015-06-30 10:05:44 --> Model Class Initialized
+INFO - 2015-06-30 10:05:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:44 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:05:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:05:44 --> Final output sent to browser
+DEBUG - 2015-06-30 10:05:44 --> Total execution time: 0.1040
+INFO - 2015-06-30 10:05:46 --> Config Class Initialized
+INFO - 2015-06-30 10:05:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:05:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:05:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:05:46 --> URI Class Initialized
+INFO - 2015-06-30 10:05:46 --> Router Class Initialized
+INFO - 2015-06-30 10:05:46 --> Output Class Initialized
+INFO - 2015-06-30 10:05:46 --> Security Class Initialized
+DEBUG - 2015-06-30 10:05:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:05:46 --> Input Class Initialized
+INFO - 2015-06-30 10:05:46 --> Language Class Initialized
+INFO - 2015-06-30 10:05:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:05:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:05:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:05:46 --> Controller Class Initialized
+INFO - 2015-06-30 10:05:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:05:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:05:46 --> Model Class Initialized
+INFO - 2015-06-30 10:05:46 --> Model Class Initialized
+INFO - 2015-06-30 10:05:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:05:46 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:05:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:05:46 --> Model Class Initialized
+INFO - 2015-06-30 10:05:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:05:46 --> Final output sent to browser
+DEBUG - 2015-06-30 10:05:46 --> Total execution time: 0.1000
+INFO - 2015-06-30 10:06:04 --> Config Class Initialized
+INFO - 2015-06-30 10:06:04 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:04 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:04 --> URI Class Initialized
+INFO - 2015-06-30 10:06:04 --> Router Class Initialized
+INFO - 2015-06-30 10:06:04 --> Output Class Initialized
+INFO - 2015-06-30 10:06:04 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:04 --> Input Class Initialized
+INFO - 2015-06-30 10:06:04 --> Language Class Initialized
+INFO - 2015-06-30 10:06:04 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:04 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:04 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:04 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:04 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:06:04 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:04 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:04 --> Model Class Initialized
+INFO - 2015-06-30 10:06:04 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:04 --> Config Class Initialized
+INFO - 2015-06-30 10:06:04 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:04 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:04 --> URI Class Initialized
+INFO - 2015-06-30 10:06:04 --> Router Class Initialized
+INFO - 2015-06-30 10:06:04 --> Output Class Initialized
+INFO - 2015-06-30 10:06:04 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:04 --> Input Class Initialized
+INFO - 2015-06-30 10:06:04 --> Language Class Initialized
+INFO - 2015-06-30 10:06:04 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:04 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:04 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:04 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:04 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:04 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:04 --> Model Class Initialized
+INFO - 2015-06-30 10:06:04 --> Model Class Initialized
+INFO - 2015-06-30 10:06:04 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:05 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:06:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:05 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 10:06:05 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:05 --> Total execution time: 0.1140
+INFO - 2015-06-30 10:06:09 --> Config Class Initialized
+INFO - 2015-06-30 10:06:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:09 --> URI Class Initialized
+INFO - 2015-06-30 10:06:09 --> Router Class Initialized
+INFO - 2015-06-30 10:06:09 --> Output Class Initialized
+INFO - 2015-06-30 10:06:09 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:09 --> Input Class Initialized
+INFO - 2015-06-30 10:06:09 --> Language Class Initialized
+INFO - 2015-06-30 10:06:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:09 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:09 --> Model Class Initialized
+INFO - 2015-06-30 10:06:09 --> Model Class Initialized
+INFO - 2015-06-30 10:06:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:09 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:06:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:09 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 10:06:09 --> Model Class Initialized
+INFO - 2015-06-30 10:06:09 --> user 18 login at 2015-06-30 10:06:09
+INFO - 2015-06-30 10:06:09 --> Config Class Initialized
+INFO - 2015-06-30 10:06:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:09 --> URI Class Initialized
+INFO - 2015-06-30 10:06:09 --> Router Class Initialized
+INFO - 2015-06-30 10:06:09 --> Output Class Initialized
+INFO - 2015-06-30 10:06:09 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:09 --> Input Class Initialized
+INFO - 2015-06-30 10:06:09 --> Language Class Initialized
+INFO - 2015-06-30 10:06:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:09 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:09 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:06:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:09 --> Model Class Initialized
+INFO - 2015-06-30 10:06:09 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:06:09 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:06:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:06:09 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:09 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:06:09 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:09 --> Total execution time: 0.1230
+INFO - 2015-06-30 10:06:09 --> Config Class Initialized
+INFO - 2015-06-30 10:06:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:09 --> URI Class Initialized
+INFO - 2015-06-30 10:06:09 --> Router Class Initialized
+INFO - 2015-06-30 10:06:09 --> Output Class Initialized
+INFO - 2015-06-30 10:06:09 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:09 --> Input Class Initialized
+INFO - 2015-06-30 10:06:09 --> Language Class Initialized
+INFO - 2015-06-30 10:06:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:09 --> Config Class Initialized
+INFO - 2015-06-30 10:06:09 --> Hooks Class Initialized
+INFO - 2015-06-30 10:06:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:09 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:09 --> URI Class Initialized
+INFO - 2015-06-30 10:06:09 --> Router Class Initialized
+INFO - 2015-06-30 10:06:09 --> Config Class Initialized
+INFO - 2015-06-30 10:06:09 --> Hooks Class Initialized
+INFO - 2015-06-30 10:06:09 --> Output Class Initialized
+INFO - 2015-06-30 10:06:09 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:09 --> Input Class Initialized
+INFO - 2015-06-30 10:06:09 --> Language Class Initialized
+INFO - 2015-06-30 10:06:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:09 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:09 --> URI Class Initialized
+INFO - 2015-06-30 10:06:09 --> Router Class Initialized
+INFO - 2015-06-30 10:06:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:09 --> Output Class Initialized
+INFO - 2015-06-30 10:06:09 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:09 --> Input Class Initialized
+INFO - 2015-06-30 10:06:09 --> Language Class Initialized
+INFO - 2015-06-30 10:06:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:09 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:09 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:06:10 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:10 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:10 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:06:10 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:10 --> Total execution time: 0.1510
+INFO - 2015-06-30 10:06:10 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:06:10 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:10 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:10 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:06:10 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:10 --> Total execution time: 0.1610
+INFO - 2015-06-30 10:06:10 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:06:10 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:10 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+INFO - 2015-06-30 10:06:10 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:06:10 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:06:10 --> SELECT *
+>>>>>>> gaoxu
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+<<<<<<< HEAD
 INFO - 2015-06-30 10:40:55 --> File loaded: D:\xampp\htdocs\manage\application\views\list_user.php
 INFO - 2015-06-30 10:40:55 --> Final output sent to browser
 DEBUG - 2015-06-30 10:40:55 --> Total execution time: 0.2740
@@ -3167,26 +4451,74 @@ DEBUG - 2015-06-30 10:41:00 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 10:41:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 10:41:00 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 10:41:00 --> select count(script_name) count
+=======
+INFO - 2015-06-30 10:06:10 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:06:10 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:10 --> Total execution time: 0.2270
+INFO - 2015-06-30 10:06:12 --> Config Class Initialized
+INFO - 2015-06-30 10:06:12 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:06:12 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:06:12 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:06:12 --> URI Class Initialized
+INFO - 2015-06-30 10:06:12 --> Router Class Initialized
+INFO - 2015-06-30 10:06:12 --> Output Class Initialized
+INFO - 2015-06-30 10:06:12 --> Security Class Initialized
+DEBUG - 2015-06-30 10:06:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:06:12 --> Input Class Initialized
+INFO - 2015-06-30 10:06:12 --> Language Class Initialized
+INFO - 2015-06-30 10:06:12 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:06:12 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:06:12 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:06:12 --> Controller Class Initialized
+INFO - 2015-06-30 10:06:12 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:06:12 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:06:12 --> Model Class Initialized
+INFO - 2015-06-30 10:06:12 --> Model Class Initialized
+INFO - 2015-06-30 10:06:12 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:06:12 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:06:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:06:12 --> Model Class Initialized
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:06:12 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:06:12 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:41:00 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:06:12 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:41:00 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:06:12 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 10:41:00 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 10:41:00 --> Final output sent to browser
 DEBUG - 2015-06-30 10:41:00 --> Total execution time: 0.1770
@@ -3254,26 +4586,74 @@ DEBUG - 2015-06-30 10:42:12 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 10:42:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 10:42:12 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 10:42:12 --> select count(script_name) count
+=======
+INFO - 2015-06-30 10:06:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:06:12 --> Final output sent to browser
+DEBUG - 2015-06-30 10:06:12 --> Total execution time: 0.1400
+INFO - 2015-06-30 10:13:28 --> Config Class Initialized
+INFO - 2015-06-30 10:13:28 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:13:28 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:13:28 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:13:28 --> URI Class Initialized
+INFO - 2015-06-30 10:13:28 --> Router Class Initialized
+INFO - 2015-06-30 10:13:28 --> Output Class Initialized
+INFO - 2015-06-30 10:13:28 --> Security Class Initialized
+DEBUG - 2015-06-30 10:13:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:13:28 --> Input Class Initialized
+INFO - 2015-06-30 10:13:28 --> Language Class Initialized
+INFO - 2015-06-30 10:13:28 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:13:28 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:13:28 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:13:28 --> Controller Class Initialized
+INFO - 2015-06-30 10:13:28 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:13:28 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:13:28 --> Model Class Initialized
+INFO - 2015-06-30 10:13:28 --> Model Class Initialized
+INFO - 2015-06-30 10:13:28 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:13:28 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:13:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:13:28 --> Model Class Initialized
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:13:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:13:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:42:12 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:42:12 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 10:42:12 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 10:42:12 --> Final output sent to browser
 DEBUG - 2015-06-30 10:42:12 --> Total execution time: 0.1720
@@ -3491,26 +4871,77 @@ DEBUG - 2015-06-30 10:44:09 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 10:44:09 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 10:44:09 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 10:44:09 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:28 --> select count(*) from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:13:28 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+ERROR - 2015-06-30 10:13:28 --> Severity: Notice --> Undefined index: num D:\soft\xampp\htdocs\manage\application\views\report_index.php 57
+INFO - 2015-06-30 10:13:28 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:13:28 --> Final output sent to browser
+DEBUG - 2015-06-30 10:13:28 --> Total execution time: 0.1720
+INFO - 2015-06-30 10:13:54 --> Config Class Initialized
+INFO - 2015-06-30 10:13:54 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:13:54 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:13:54 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:13:54 --> URI Class Initialized
+INFO - 2015-06-30 10:13:54 --> Router Class Initialized
+INFO - 2015-06-30 10:13:54 --> Output Class Initialized
+INFO - 2015-06-30 10:13:54 --> Security Class Initialized
+DEBUG - 2015-06-30 10:13:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:13:54 --> Input Class Initialized
+INFO - 2015-06-30 10:13:54 --> Language Class Initialized
+INFO - 2015-06-30 10:13:54 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:13:54 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:13:54 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:13:54 --> Controller Class Initialized
+INFO - 2015-06-30 10:13:54 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:13:54 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:13:54 --> Model Class Initialized
+INFO - 2015-06-30 10:13:54 --> Model Class Initialized
+INFO - 2015-06-30 10:13:54 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:13:54 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:13:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:13:54 --> Model Class Initialized
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:13:54 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:13:54 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:44:09 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:54 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:44:09 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:54 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 10:44:09 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 10:44:09 --> Final output sent to browser
 DEBUG - 2015-06-30 10:44:09 --> Total execution time: 0.1880
@@ -3800,26 +5231,187 @@ DEBUG - 2015-06-30 10:47:17 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 10:47:17 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 10:47:17 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 10:47:17 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:13:54 --> select count(*) from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:13:54 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+ERROR - 2015-06-30 10:13:54 --> Severity: Notice --> Undefined index: num D:\soft\xampp\htdocs\manage\application\views\report_index.php 58
+INFO - 2015-06-30 10:13:54 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:13:54 --> Final output sent to browser
+DEBUG - 2015-06-30 10:13:54 --> Total execution time: 0.1860
+INFO - 2015-06-30 10:14:08 --> Config Class Initialized
+INFO - 2015-06-30 10:14:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:14:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:14:08 --> URI Class Initialized
+INFO - 2015-06-30 10:14:08 --> Router Class Initialized
+INFO - 2015-06-30 10:14:08 --> Output Class Initialized
+INFO - 2015-06-30 10:14:08 --> Security Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:14:08 --> Input Class Initialized
+INFO - 2015-06-30 10:14:08 --> Language Class Initialized
+INFO - 2015-06-30 10:14:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:14:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:14:08 --> Controller Class Initialized
+INFO - 2015-06-30 10:14:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:14:08 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:14:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:14:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:14:08 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:14:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:14:08 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:14:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:14:08 --> Final output sent to browser
+DEBUG - 2015-06-30 10:14:08 --> Total execution time: 0.0960
+INFO - 2015-06-30 10:14:08 --> Config Class Initialized
+INFO - 2015-06-30 10:14:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:14:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:14:08 --> URI Class Initialized
+INFO - 2015-06-30 10:14:08 --> Router Class Initialized
+INFO - 2015-06-30 10:14:08 --> Output Class Initialized
+INFO - 2015-06-30 10:14:08 --> Security Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:14:08 --> Input Class Initialized
+INFO - 2015-06-30 10:14:08 --> Language Class Initialized
+INFO - 2015-06-30 10:14:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:14:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:14:08 --> Controller Class Initialized
+INFO - 2015-06-30 10:14:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:14:08 --> Config Class Initialized
+INFO - 2015-06-30 10:14:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:14:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:14:08 --> URI Class Initialized
+INFO - 2015-06-30 10:14:08 --> Router Class Initialized
+INFO - 2015-06-30 10:14:08 --> Output Class Initialized
+INFO - 2015-06-30 10:14:08 --> Security Class Initialized
+INFO - 2015-06-30 10:14:08 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:14:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:14:08 --> Input Class Initialized
+INFO - 2015-06-30 10:14:08 --> Language Class Initialized
+INFO - 2015-06-30 10:14:08 --> Loader Class Initialized
+INFO - 2015-06-30 10:14:08 --> Helper loaded: form_helper
+DEBUG - 2015-06-30 10:14:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:14:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:14:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:14:08 --> Controller Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:14:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:14:08 --> Final output sent to browser
+DEBUG - 2015-06-30 10:14:08 --> Total execution time: 0.1320
+INFO - 2015-06-30 10:14:08 --> Config Class Initialized
+INFO - 2015-06-30 10:14:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:14:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:14:08 --> URI Class Initialized
+INFO - 2015-06-30 10:14:08 --> Router Class Initialized
+INFO - 2015-06-30 10:14:08 --> Output Class Initialized
+INFO - 2015-06-30 10:14:08 --> Security Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:14:08 --> Input Class Initialized
+INFO - 2015-06-30 10:14:08 --> Language Class Initialized
+INFO - 2015-06-30 10:14:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:14:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:14:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:14:08 --> Controller Class Initialized
+INFO - 2015-06-30 10:14:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:14:08 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:14:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:14:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:14:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:14:08 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 10:14:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:14:08 --> Final output sent to browser
+DEBUG - 2015-06-30 10:14:08 --> Total execution time: 0.2080
+INFO - 2015-06-30 10:14:08 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:14:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:14:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+INFO - 2015-06-30 10:14:08 --> Model Class Initialized
+DEBUG - 2015-06-30 10:14:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:14:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:14:08 --> Final output sent to browser
+DEBUG - 2015-06-30 10:14:08 --> Total execution time: 0.1870
+INFO - 2015-06-30 10:14:11 --> Config Class Initialized
+INFO - 2015-06-30 10:14:11 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:14:11 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:14:11 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:14:11 --> URI Class Initialized
+INFO - 2015-06-30 10:14:11 --> Router Class Initialized
+INFO - 2015-06-30 10:14:11 --> Output Class Initialized
+INFO - 2015-06-30 10:14:11 --> Security Class Initialized
+DEBUG - 2015-06-30 10:14:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:14:11 --> Input Class Initialized
+INFO - 2015-06-30 10:14:11 --> Language Class Initialized
+INFO - 2015-06-30 10:14:11 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:14:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:14:11 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:14:11 --> Controller Class Initialized
+INFO - 2015-06-30 10:14:11 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:14:11 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:14:11 --> Model Class Initialized
+INFO - 2015-06-30 10:14:11 --> Model Class Initialized
+INFO - 2015-06-30 10:14:11 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:14:11 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:14:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:14:11 --> Model Class Initialized
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:14:11 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:14:11 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:47:17 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:14:11 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 10:47:17 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:14:11 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 10:47:17 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 10:47:17 --> Final output sent to browser
 DEBUG - 2015-06-30 10:47:17 --> Total execution time: 0.1770
@@ -3929,26 +5521,186 @@ DEBUG - 2015-06-30 11:14:43 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:14:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:14:43 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:14:43 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:14:11 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:14:11 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:14:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:14:11 --> Final output sent to browser
+DEBUG - 2015-06-30 10:14:11 --> Total execution time: 0.1390
+INFO - 2015-06-30 10:15:05 --> Config Class Initialized
+INFO - 2015-06-30 10:15:05 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:05 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:05 --> URI Class Initialized
+INFO - 2015-06-30 10:15:05 --> Router Class Initialized
+INFO - 2015-06-30 10:15:05 --> Output Class Initialized
+INFO - 2015-06-30 10:15:05 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:05 --> Input Class Initialized
+INFO - 2015-06-30 10:15:05 --> Language Class Initialized
+INFO - 2015-06-30 10:15:05 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:05 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:05 --> Controller Class Initialized
+INFO - 2015-06-30 10:15:05 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:05 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:15:05 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:05 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:05 --> Model Class Initialized
+INFO - 2015-06-30 10:15:05 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:15:05 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:15:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:15:05 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:05 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:15:05 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:05 --> Total execution time: 0.1930
+INFO - 2015-06-30 10:15:05 --> Config Class Initialized
+INFO - 2015-06-30 10:15:05 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:05 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:05 --> URI Class Initialized
+INFO - 2015-06-30 10:15:05 --> Router Class Initialized
+INFO - 2015-06-30 10:15:05 --> Output Class Initialized
+INFO - 2015-06-30 10:15:05 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:05 --> Input Class Initialized
+INFO - 2015-06-30 10:15:05 --> Language Class Initialized
+INFO - 2015-06-30 10:15:05 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:05 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:05 --> Controller Class Initialized
+INFO - 2015-06-30 10:15:05 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:05 --> Config Class Initialized
+INFO - 2015-06-30 10:15:05 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:05 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:05 --> URI Class Initialized
+INFO - 2015-06-30 10:15:05 --> Router Class Initialized
+INFO - 2015-06-30 10:15:05 --> Output Class Initialized
+INFO - 2015-06-30 10:15:05 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:05 --> Input Class Initialized
+INFO - 2015-06-30 10:15:05 --> Language Class Initialized
+INFO - 2015-06-30 10:15:05 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:05 --> Config Class Initialized
+INFO - 2015-06-30 10:15:05 --> Hooks Class Initialized
+INFO - 2015-06-30 10:15:05 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:05 --> Controller Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:05 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:05 --> URI Class Initialized
+INFO - 2015-06-30 10:15:05 --> Router Class Initialized
+INFO - 2015-06-30 10:15:05 --> Output Class Initialized
+INFO - 2015-06-30 10:15:05 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:05 --> Input Class Initialized
+INFO - 2015-06-30 10:15:05 --> Language Class Initialized
+INFO - 2015-06-30 10:15:05 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:05 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:05 --> Controller Class Initialized
+INFO - 2015-06-30 10:15:05 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:05 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:15:05 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:05 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:05 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:05 --> Model Class Initialized
+INFO - 2015-06-30 10:15:05 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:05 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:15:05 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:05 --> Total execution time: 0.1760
+INFO - 2015-06-30 10:15:06 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:15:06 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:06 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:06 --> Model Class Initialized
+INFO - 2015-06-30 10:15:06 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:15:06 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:15:06 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 10:15:06 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:15:06 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:06 --> Total execution time: 0.2340
+INFO - 2015-06-30 10:15:06 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:15:06 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:06 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:06 --> Model Class Initialized
+INFO - 2015-06-30 10:15:06 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:06 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:15:06 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:06 --> Total execution time: 0.3270
+INFO - 2015-06-30 10:15:08 --> Config Class Initialized
+INFO - 2015-06-30 10:15:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:15:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:08 --> URI Class Initialized
+INFO - 2015-06-30 10:15:08 --> Router Class Initialized
+INFO - 2015-06-30 10:15:08 --> Output Class Initialized
+INFO - 2015-06-30 10:15:08 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:08 --> Input Class Initialized
+INFO - 2015-06-30 10:15:08 --> Language Class Initialized
+INFO - 2015-06-30 10:15:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:08 --> Controller Class Initialized
+INFO - 2015-06-30 10:15:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:08 --> Model Class Initialized
+INFO - 2015-06-30 10:15:08 --> Model Class Initialized
+INFO - 2015-06-30 10:15:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:08 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:15:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:08 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:15:08 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:15:08 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:14:43 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:08 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:14:43 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:08 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:14:43 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:14:43 --> Final output sent to browser
 DEBUG - 2015-06-30 11:14:43 --> Total execution time: 0.1790
@@ -4025,26 +5777,76 @@ DEBUG - 2015-06-30 11:15:41 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:15:41 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:15:41 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:15:41 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:08 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:15:08 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:15:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:15:08 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:08 --> Total execution time: 0.1890
+INFO - 2015-06-30 10:15:24 --> Config Class Initialized
+INFO - 2015-06-30 10:15:24 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:15:24 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:15:24 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:15:24 --> URI Class Initialized
+INFO - 2015-06-30 10:15:24 --> Router Class Initialized
+INFO - 2015-06-30 10:15:24 --> Output Class Initialized
+INFO - 2015-06-30 10:15:24 --> Security Class Initialized
+DEBUG - 2015-06-30 10:15:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:15:24 --> Input Class Initialized
+INFO - 2015-06-30 10:15:24 --> Language Class Initialized
+INFO - 2015-06-30 10:15:24 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:15:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:15:24 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:15:24 --> Controller Class Initialized
+INFO - 2015-06-30 10:15:24 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:15:24 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:15:24 --> Model Class Initialized
+INFO - 2015-06-30 10:15:24 --> Model Class Initialized
+INFO - 2015-06-30 10:15:24 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:15:24 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:15:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:15:24 --> Model Class Initialized
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:15:24 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:15:24 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:15:41 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:24 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:15:41 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:24 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:15:41 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:15:41 --> Final output sent to browser
 DEBUG - 2015-06-30 11:15:41 --> Total execution time: 0.1820
@@ -4121,26 +5923,88 @@ DEBUG - 2015-06-30 11:16:04 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:16:04 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:16:04 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:16:04 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:15:24 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:15:24 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:15:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:15:24 --> Final output sent to browser
+DEBUG - 2015-06-30 10:15:24 --> Total execution time: 0.2320
+INFO - 2015-06-30 10:16:04 --> Config Class Initialized
+INFO - 2015-06-30 10:16:04 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:16:04 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:16:04 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:16:04 --> URI Class Initialized
+INFO - 2015-06-30 10:16:04 --> Router Class Initialized
+INFO - 2015-06-30 10:16:04 --> Output Class Initialized
+INFO - 2015-06-30 10:16:04 --> Security Class Initialized
+DEBUG - 2015-06-30 10:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:16:04 --> Input Class Initialized
+INFO - 2015-06-30 10:16:04 --> Language Class Initialized
+ERROR - 2015-06-30 10:16:04 --> 404 Page Not Found: Yye_yhhtml/index
+INFO - 2015-06-30 10:20:55 --> Config Class Initialized
+INFO - 2015-06-30 10:20:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:20:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:20:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:20:55 --> URI Class Initialized
+INFO - 2015-06-30 10:20:55 --> Router Class Initialized
+INFO - 2015-06-30 10:20:55 --> Output Class Initialized
+INFO - 2015-06-30 10:20:55 --> Security Class Initialized
+DEBUG - 2015-06-30 10:20:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:20:55 --> Input Class Initialized
+INFO - 2015-06-30 10:20:55 --> Language Class Initialized
+INFO - 2015-06-30 10:20:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:20:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:20:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:20:55 --> Controller Class Initialized
+INFO - 2015-06-30 10:20:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:20:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:20:55 --> Model Class Initialized
+INFO - 2015-06-30 10:20:55 --> Model Class Initialized
+INFO - 2015-06-30 10:20:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:20:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:20:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:20:55 --> Model Class Initialized
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:20:55 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:20:55 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:16:04 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:20:55 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:16:04 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:20:55 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:16:04 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:16:04 --> Final output sent to browser
 DEBUG - 2015-06-30 11:16:04 --> Total execution time: 0.1810
@@ -4217,26 +6081,76 @@ DEBUG - 2015-06-30 11:24:13 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:24:13 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:24:13 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:24:13 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:20:55 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:20:55 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:20:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:20:55 --> Final output sent to browser
+DEBUG - 2015-06-30 10:20:55 --> Total execution time: 0.1490
+INFO - 2015-06-30 10:25:57 --> Config Class Initialized
+INFO - 2015-06-30 10:25:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:25:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:25:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:25:57 --> URI Class Initialized
+INFO - 2015-06-30 10:25:57 --> Router Class Initialized
+INFO - 2015-06-30 10:25:57 --> Output Class Initialized
+INFO - 2015-06-30 10:25:57 --> Security Class Initialized
+DEBUG - 2015-06-30 10:25:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:25:57 --> Input Class Initialized
+INFO - 2015-06-30 10:25:57 --> Language Class Initialized
+INFO - 2015-06-30 10:25:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:25:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:25:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:25:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:25:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:25:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:25:57 --> Model Class Initialized
+INFO - 2015-06-30 10:25:57 --> Model Class Initialized
+INFO - 2015-06-30 10:25:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:25:58 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:25:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:25:58 --> Model Class Initialized
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:25:58 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:25:58 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:24:13 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:25:58 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:24:13 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:25:58 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:24:13 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:24:13 --> Final output sent to browser
 DEBUG - 2015-06-30 11:24:13 --> Total execution time: 0.2410
@@ -4313,26 +6227,76 @@ DEBUG - 2015-06-30 11:26:37 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:26:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:26:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:26:37 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:25:58 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:25:58 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:25:58 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:25:58 --> Final output sent to browser
+DEBUG - 2015-06-30 10:25:58 --> Total execution time: 0.3320
+INFO - 2015-06-30 10:26:00 --> Config Class Initialized
+INFO - 2015-06-30 10:26:00 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:26:00 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:26:00 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:26:00 --> URI Class Initialized
+INFO - 2015-06-30 10:26:00 --> Router Class Initialized
+INFO - 2015-06-30 10:26:00 --> Output Class Initialized
+INFO - 2015-06-30 10:26:00 --> Security Class Initialized
+DEBUG - 2015-06-30 10:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:26:00 --> Input Class Initialized
+INFO - 2015-06-30 10:26:00 --> Language Class Initialized
+INFO - 2015-06-30 10:26:00 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:26:00 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:26:00 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:26:00 --> Controller Class Initialized
+INFO - 2015-06-30 10:26:00 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:26:00 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:26:00 --> Model Class Initialized
+INFO - 2015-06-30 10:26:00 --> Model Class Initialized
+INFO - 2015-06-30 10:26:00 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:26:00 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:26:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:26:00 --> Model Class Initialized
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:26:00 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:00 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:26:37 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:00 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:26:37 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:00 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:26:37 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:26:37 --> Final output sent to browser
 DEBUG - 2015-06-30 11:26:37 --> Total execution time: 0.4470
@@ -4409,26 +6373,76 @@ DEBUG - 2015-06-30 11:33:28 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:33:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:33:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:33:28 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:00 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:26:00 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:26:00 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:26:00 --> Final output sent to browser
+DEBUG - 2015-06-30 10:26:00 --> Total execution time: 0.1490
+INFO - 2015-06-30 10:26:27 --> Config Class Initialized
+INFO - 2015-06-30 10:26:27 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:26:27 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:26:27 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:26:27 --> URI Class Initialized
+INFO - 2015-06-30 10:26:27 --> Router Class Initialized
+INFO - 2015-06-30 10:26:27 --> Output Class Initialized
+INFO - 2015-06-30 10:26:27 --> Security Class Initialized
+DEBUG - 2015-06-30 10:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:26:27 --> Input Class Initialized
+INFO - 2015-06-30 10:26:27 --> Language Class Initialized
+INFO - 2015-06-30 10:26:27 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:26:27 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:26:27 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:26:27 --> Controller Class Initialized
+INFO - 2015-06-30 10:26:27 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:26:27 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:26:27 --> Model Class Initialized
+INFO - 2015-06-30 10:26:27 --> Model Class Initialized
+INFO - 2015-06-30 10:26:27 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:26:28 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:26:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:26:28 --> Model Class Initialized
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:26:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:33:28 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:33:28 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:28 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:33:28 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:33:28 --> Final output sent to browser
 DEBUG - 2015-06-30 11:33:28 --> Total execution time: 0.4030
@@ -4661,26 +6675,76 @@ DEBUG - 2015-06-30 11:34:46 --> select count(col_id) count from vm where YEAR(co
 DEBUG - 2015-06-30 11:34:46 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
 DEBUG - 2015-06-30 11:34:46 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
 DEBUG - 2015-06-30 11:34:46 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:28 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:26:28 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:26:28 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:26:28 --> Final output sent to browser
+DEBUG - 2015-06-30 10:26:28 --> Total execution time: 0.1330
+INFO - 2015-06-30 10:26:28 --> Config Class Initialized
+INFO - 2015-06-30 10:26:28 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:26:28 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:26:28 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:26:28 --> URI Class Initialized
+INFO - 2015-06-30 10:26:28 --> Router Class Initialized
+INFO - 2015-06-30 10:26:28 --> Output Class Initialized
+INFO - 2015-06-30 10:26:29 --> Security Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:26:29 --> Input Class Initialized
+INFO - 2015-06-30 10:26:29 --> Language Class Initialized
+INFO - 2015-06-30 10:26:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:26:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:26:29 --> Controller Class Initialized
+INFO - 2015-06-30 10:26:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:26:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+INFO - 2015-06-30 10:26:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:26:29 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:26:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:34:46 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
         group by script_name) k
+<<<<<<< HEAD
 DEBUG - 2015-06-30 11:34:46 --> select count(script_name) count
+=======
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+>>>>>>> gaoxu
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by script_name) k
+<<<<<<< HEAD
 INFO - 2015-06-30 11:34:46 --> File loaded: D:\xampp\htdocs\manage\application\views\report_index.php
 INFO - 2015-06-30 11:34:46 --> Final output sent to browser
 DEBUG - 2015-06-30 11:34:46 --> Total execution time: 0.1920
@@ -4841,3 +6905,8677 @@ INFO - 2015-06-30 11:35:06 --> File loaded: D:\xampp\htdocs\manage\application\v
 INFO - 2015-06-30 11:35:06 --> Final output sent to browser
 DEBUG - 2015-06-30 11:35:06 --> Total execution time: 0.1620
 >>>>>>> 432a80f73b4500ede13f06e699decdf742950727
+=======
+DEBUG - 2015-06-30 10:26:29 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:26:29 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:26:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:26:29 --> Final output sent to browser
+DEBUG - 2015-06-30 10:26:29 --> Total execution time: 0.1450
+INFO - 2015-06-30 10:26:29 --> Config Class Initialized
+INFO - 2015-06-30 10:26:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:26:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:26:29 --> URI Class Initialized
+INFO - 2015-06-30 10:26:29 --> Router Class Initialized
+INFO - 2015-06-30 10:26:29 --> Output Class Initialized
+INFO - 2015-06-30 10:26:29 --> Security Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:26:29 --> Input Class Initialized
+INFO - 2015-06-30 10:26:29 --> Language Class Initialized
+INFO - 2015-06-30 10:26:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:26:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:26:29 --> Controller Class Initialized
+INFO - 2015-06-30 10:26:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:26:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+INFO - 2015-06-30 10:26:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:26:29 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:26:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:26:29 --> Model Class Initialized
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:26:29 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:26:29 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:26:29 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:26:29 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:26:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:26:29 --> Final output sent to browser
+DEBUG - 2015-06-30 10:26:29 --> Total execution time: 0.1260
+INFO - 2015-06-30 10:27:24 --> Config Class Initialized
+INFO - 2015-06-30 10:27:24 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:27:24 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:27:24 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:27:24 --> URI Class Initialized
+INFO - 2015-06-30 10:27:24 --> Router Class Initialized
+INFO - 2015-06-30 10:27:24 --> Output Class Initialized
+INFO - 2015-06-30 10:27:24 --> Security Class Initialized
+DEBUG - 2015-06-30 10:27:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:27:24 --> Input Class Initialized
+INFO - 2015-06-30 10:27:24 --> Language Class Initialized
+INFO - 2015-06-30 10:27:24 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:27:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:27:24 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:27:24 --> Controller Class Initialized
+INFO - 2015-06-30 10:27:24 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:27:24 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:27:24 --> Model Class Initialized
+INFO - 2015-06-30 10:27:24 --> Model Class Initialized
+INFO - 2015-06-30 10:27:24 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:27:24 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:27:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:27:24 --> Model Class Initialized
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:27:24 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:27:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:24 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:27:24 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:27:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:27:24 --> Final output sent to browser
+DEBUG - 2015-06-30 10:27:24 --> Total execution time: 0.1600
+INFO - 2015-06-30 10:27:25 --> Config Class Initialized
+INFO - 2015-06-30 10:27:25 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:27:25 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:27:25 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:27:25 --> URI Class Initialized
+INFO - 2015-06-30 10:27:25 --> Router Class Initialized
+INFO - 2015-06-30 10:27:25 --> Output Class Initialized
+INFO - 2015-06-30 10:27:25 --> Security Class Initialized
+DEBUG - 2015-06-30 10:27:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:27:25 --> Input Class Initialized
+INFO - 2015-06-30 10:27:25 --> Language Class Initialized
+INFO - 2015-06-30 10:27:25 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:27:25 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:27:25 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:27:25 --> Controller Class Initialized
+INFO - 2015-06-30 10:27:25 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:27:25 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:27:25 --> Model Class Initialized
+INFO - 2015-06-30 10:27:25 --> Model Class Initialized
+INFO - 2015-06-30 10:27:25 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:27:25 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:27:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:27:25 --> Model Class Initialized
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:27:25 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:27:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:27:25 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:27:25 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:27:25 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:27:25 --> Final output sent to browser
+DEBUG - 2015-06-30 10:27:25 --> Total execution time: 0.1390
+INFO - 2015-06-30 10:29:20 --> Config Class Initialized
+INFO - 2015-06-30 10:29:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:29:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:29:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:29:20 --> URI Class Initialized
+INFO - 2015-06-30 10:29:20 --> Router Class Initialized
+INFO - 2015-06-30 10:29:20 --> Output Class Initialized
+INFO - 2015-06-30 10:29:20 --> Security Class Initialized
+DEBUG - 2015-06-30 10:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:29:20 --> Input Class Initialized
+INFO - 2015-06-30 10:29:20 --> Language Class Initialized
+INFO - 2015-06-30 10:29:20 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:29:20 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:29:20 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:29:20 --> Controller Class Initialized
+INFO - 2015-06-30 10:29:20 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:29:20 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:29:20 --> Model Class Initialized
+INFO - 2015-06-30 10:29:20 --> Model Class Initialized
+INFO - 2015-06-30 10:29:20 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:29:20 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:29:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:29:20 --> Model Class Initialized
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:29:20 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:29:20 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:29:20 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:29:20 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:29:20 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:29:20 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:29:20 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:29:20 --> Final output sent to browser
+DEBUG - 2015-06-30 10:29:20 --> Total execution time: 0.1540
+INFO - 2015-06-30 10:34:03 --> Config Class Initialized
+INFO - 2015-06-30 10:34:03 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:34:03 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:34:03 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:34:03 --> URI Class Initialized
+INFO - 2015-06-30 10:34:03 --> Router Class Initialized
+INFO - 2015-06-30 10:34:03 --> Output Class Initialized
+INFO - 2015-06-30 10:34:03 --> Security Class Initialized
+DEBUG - 2015-06-30 10:34:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:34:03 --> Input Class Initialized
+INFO - 2015-06-30 10:34:03 --> Language Class Initialized
+ERROR - 2015-06-30 10:34:03 --> 404 Page Not Found: Yye_yhhtml/index
+INFO - 2015-06-30 10:36:27 --> Config Class Initialized
+INFO - 2015-06-30 10:36:27 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:36:27 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:36:27 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:36:27 --> URI Class Initialized
+INFO - 2015-06-30 10:36:27 --> Router Class Initialized
+INFO - 2015-06-30 10:36:27 --> Output Class Initialized
+INFO - 2015-06-30 10:36:27 --> Security Class Initialized
+DEBUG - 2015-06-30 10:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:36:27 --> Input Class Initialized
+INFO - 2015-06-30 10:36:27 --> Language Class Initialized
+INFO - 2015-06-30 10:36:27 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:36:27 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:36:27 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:36:27 --> Controller Class Initialized
+INFO - 2015-06-30 10:36:27 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:36:27 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:36:27 --> Model Class Initialized
+INFO - 2015-06-30 10:36:27 --> Model Class Initialized
+INFO - 2015-06-30 10:36:27 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:36:27 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:36:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:36:27 --> Model Class Initialized
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:36:27 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:36:27 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:36:27 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:36:27 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:36:27 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:36:27 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:36:27 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:36:27 --> Final output sent to browser
+DEBUG - 2015-06-30 10:36:27 --> Total execution time: 0.1360
+INFO - 2015-06-30 10:38:28 --> Config Class Initialized
+INFO - 2015-06-30 10:38:28 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:38:28 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:38:28 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:38:28 --> URI Class Initialized
+INFO - 2015-06-30 10:38:28 --> Router Class Initialized
+INFO - 2015-06-30 10:38:28 --> Output Class Initialized
+INFO - 2015-06-30 10:38:28 --> Security Class Initialized
+DEBUG - 2015-06-30 10:38:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:38:28 --> Input Class Initialized
+INFO - 2015-06-30 10:38:28 --> Language Class Initialized
+INFO - 2015-06-30 10:38:28 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:38:28 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:38:28 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:38:28 --> Controller Class Initialized
+INFO - 2015-06-30 10:38:28 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:38:28 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:38:28 --> Model Class Initialized
+INFO - 2015-06-30 10:38:28 --> Model Class Initialized
+INFO - 2015-06-30 10:38:28 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:38:28 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:38:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:38:28 --> Model Class Initialized
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:38:28 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:38:28 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:38:28 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:38:28 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:38:28 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:38:28 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:38:28 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:38:28 --> Final output sent to browser
+DEBUG - 2015-06-30 10:38:28 --> Total execution time: 0.2060
+INFO - 2015-06-30 10:38:30 --> Config Class Initialized
+INFO - 2015-06-30 10:38:30 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:38:30 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:38:30 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:38:30 --> URI Class Initialized
+INFO - 2015-06-30 10:38:30 --> Router Class Initialized
+INFO - 2015-06-30 10:38:30 --> Output Class Initialized
+INFO - 2015-06-30 10:38:30 --> Security Class Initialized
+DEBUG - 2015-06-30 10:38:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:38:30 --> Input Class Initialized
+INFO - 2015-06-30 10:38:30 --> Language Class Initialized
+INFO - 2015-06-30 10:38:30 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:38:30 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:38:30 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:38:30 --> Controller Class Initialized
+INFO - 2015-06-30 10:38:30 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:38:30 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:38:30 --> Model Class Initialized
+INFO - 2015-06-30 10:38:30 --> Model Class Initialized
+INFO - 2015-06-30 10:38:30 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:38:30 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:38:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:38:30 --> Model Class Initialized
+INFO - 2015-06-30 10:38:30 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:38:30 --> Final output sent to browser
+DEBUG - 2015-06-30 10:38:30 --> Total execution time: 0.1040
+INFO - 2015-06-30 10:39:57 --> Config Class Initialized
+INFO - 2015-06-30 10:39:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:39:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:39:57 --> URI Class Initialized
+INFO - 2015-06-30 10:39:57 --> Router Class Initialized
+INFO - 2015-06-30 10:39:57 --> Output Class Initialized
+INFO - 2015-06-30 10:39:57 --> Security Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:39:57 --> Input Class Initialized
+INFO - 2015-06-30 10:39:57 --> Language Class Initialized
+INFO - 2015-06-30 10:39:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:39:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:39:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:39:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:39:57 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:39:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:39:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:39:57 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:39:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:39:57 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:39:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 10:39:57 --> Final output sent to browser
+DEBUG - 2015-06-30 10:39:57 --> Total execution time: 0.1160
+INFO - 2015-06-30 10:39:57 --> Config Class Initialized
+INFO - 2015-06-30 10:39:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:39:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:39:57 --> URI Class Initialized
+INFO - 2015-06-30 10:39:57 --> Router Class Initialized
+INFO - 2015-06-30 10:39:57 --> Output Class Initialized
+INFO - 2015-06-30 10:39:57 --> Security Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:39:57 --> Input Class Initialized
+INFO - 2015-06-30 10:39:57 --> Language Class Initialized
+INFO - 2015-06-30 10:39:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:39:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:39:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:39:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:39:57 --> Config Class Initialized
+INFO - 2015-06-30 10:39:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:39:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:39:57 --> URI Class Initialized
+INFO - 2015-06-30 10:39:57 --> Router Class Initialized
+INFO - 2015-06-30 10:39:57 --> Output Class Initialized
+INFO - 2015-06-30 10:39:57 --> Security Class Initialized
+INFO - 2015-06-30 10:39:57 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:39:57 --> Input Class Initialized
+INFO - 2015-06-30 10:39:57 --> Language Class Initialized
+INFO - 2015-06-30 10:39:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:39:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:39:57 --> Loader Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 10:39:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:39:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:39:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:39:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 10:39:57 --> Final output sent to browser
+DEBUG - 2015-06-30 10:39:57 --> Total execution time: 0.1150
+INFO - 2015-06-30 10:39:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:39:57 --> Config Class Initialized
+INFO - 2015-06-30 10:39:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:39:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:39:57 --> URI Class Initialized
+INFO - 2015-06-30 10:39:57 --> Router Class Initialized
+INFO - 2015-06-30 10:39:57 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:39:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:39:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+INFO - 2015-06-30 10:39:57 --> Model Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:39:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 10:39:57 --> Final output sent to browser
+DEBUG - 2015-06-30 10:39:57 --> Total execution time: 0.1290
+INFO - 2015-06-30 10:39:57 --> Output Class Initialized
+INFO - 2015-06-30 10:39:57 --> Security Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:39:57 --> Input Class Initialized
+INFO - 2015-06-30 10:39:57 --> Language Class Initialized
+INFO - 2015-06-30 10:39:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:39:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:39:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:39:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:39:58 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:39:58 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 10:39:58 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:39:58 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:39:58 --> Model Class Initialized
+INFO - 2015-06-30 10:39:58 --> Model Class Initialized
+DEBUG - 2015-06-30 10:39:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:39:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 10:39:58 --> Pagination Class Initialized
+DEBUG - 2015-06-30 10:39:58 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 10:39:58 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 10:39:58 --> Final output sent to browser
+DEBUG - 2015-06-30 10:39:58 --> Total execution time: 0.2280
+INFO - 2015-06-30 10:39:59 --> Config Class Initialized
+INFO - 2015-06-30 10:39:59 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:39:59 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:39:59 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:39:59 --> URI Class Initialized
+INFO - 2015-06-30 10:39:59 --> Router Class Initialized
+INFO - 2015-06-30 10:39:59 --> Output Class Initialized
+INFO - 2015-06-30 10:39:59 --> Security Class Initialized
+DEBUG - 2015-06-30 10:39:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:39:59 --> Input Class Initialized
+INFO - 2015-06-30 10:39:59 --> Language Class Initialized
+INFO - 2015-06-30 10:39:59 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:39:59 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:39:59 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:39:59 --> Controller Class Initialized
+INFO - 2015-06-30 10:39:59 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:39:59 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:39:59 --> Model Class Initialized
+INFO - 2015-06-30 10:39:59 --> Model Class Initialized
+INFO - 2015-06-30 10:39:59 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:39:59 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:39:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:39:59 --> Model Class Initialized
+DEBUG - 2015-06-30 10:39:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:39:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:39:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:40:00 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:40:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:40:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:40:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:40:00 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:40:00 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:40:00 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:40:00 --> Final output sent to browser
+DEBUG - 2015-06-30 10:40:00 --> Total execution time: 0.1350
+INFO - 2015-06-30 10:40:02 --> Config Class Initialized
+INFO - 2015-06-30 10:40:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:40:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:40:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:40:02 --> URI Class Initialized
+INFO - 2015-06-30 10:40:02 --> Router Class Initialized
+INFO - 2015-06-30 10:40:02 --> Output Class Initialized
+INFO - 2015-06-30 10:40:02 --> Security Class Initialized
+DEBUG - 2015-06-30 10:40:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:40:02 --> Input Class Initialized
+INFO - 2015-06-30 10:40:02 --> Language Class Initialized
+INFO - 2015-06-30 10:40:02 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:40:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:40:02 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:40:02 --> Controller Class Initialized
+INFO - 2015-06-30 10:40:02 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:40:02 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:40:02 --> Model Class Initialized
+INFO - 2015-06-30 10:40:02 --> Model Class Initialized
+INFO - 2015-06-30 10:40:02 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:40:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:40:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:40:02 --> Model Class Initialized
+INFO - 2015-06-30 10:40:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:40:02 --> Final output sent to browser
+DEBUG - 2015-06-30 10:40:02 --> Total execution time: 0.1090
+INFO - 2015-06-30 10:40:32 --> Config Class Initialized
+INFO - 2015-06-30 10:40:32 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:40:32 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:40:32 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:40:32 --> URI Class Initialized
+INFO - 2015-06-30 10:40:32 --> Router Class Initialized
+INFO - 2015-06-30 10:40:32 --> Output Class Initialized
+INFO - 2015-06-30 10:40:32 --> Security Class Initialized
+DEBUG - 2015-06-30 10:40:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:40:32 --> Input Class Initialized
+INFO - 2015-06-30 10:40:32 --> Language Class Initialized
+ERROR - 2015-06-30 10:40:32 --> 404 Page Not Found: Report/yye_yh_xq.html
+INFO - 2015-06-30 10:51:11 --> Config Class Initialized
+INFO - 2015-06-30 10:51:11 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:51:11 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:51:11 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:51:11 --> URI Class Initialized
+INFO - 2015-06-30 10:51:11 --> Router Class Initialized
+INFO - 2015-06-30 10:51:11 --> Output Class Initialized
+INFO - 2015-06-30 10:51:11 --> Security Class Initialized
+DEBUG - 2015-06-30 10:51:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:51:11 --> Input Class Initialized
+INFO - 2015-06-30 10:51:11 --> Language Class Initialized
+INFO - 2015-06-30 10:51:11 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:51:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:51:11 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:51:11 --> Controller Class Initialized
+INFO - 2015-06-30 10:51:11 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:51:11 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:51:11 --> Model Class Initialized
+INFO - 2015-06-30 10:51:11 --> Model Class Initialized
+INFO - 2015-06-30 10:51:11 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:51:12 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:51:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:51:12 --> Model Class Initialized
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:51:12 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:51:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:51:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:51:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:51:12 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:51:12 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:51:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:51:12 --> Final output sent to browser
+DEBUG - 2015-06-30 10:51:12 --> Total execution time: 0.9001
+INFO - 2015-06-30 10:51:14 --> Config Class Initialized
+INFO - 2015-06-30 10:51:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:51:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:51:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:51:14 --> URI Class Initialized
+INFO - 2015-06-30 10:51:14 --> Router Class Initialized
+INFO - 2015-06-30 10:51:14 --> Output Class Initialized
+INFO - 2015-06-30 10:51:14 --> Security Class Initialized
+DEBUG - 2015-06-30 10:51:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:51:14 --> Input Class Initialized
+INFO - 2015-06-30 10:51:14 --> Language Class Initialized
+INFO - 2015-06-30 10:51:14 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:51:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:51:14 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:51:14 --> Controller Class Initialized
+INFO - 2015-06-30 10:51:14 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:51:14 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:51:14 --> Model Class Initialized
+INFO - 2015-06-30 10:51:14 --> Model Class Initialized
+INFO - 2015-06-30 10:51:14 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:51:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:51:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:51:14 --> Model Class Initialized
+INFO - 2015-06-30 10:51:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:51:14 --> Final output sent to browser
+DEBUG - 2015-06-30 10:51:14 --> Total execution time: 0.2100
+INFO - 2015-06-30 10:51:14 --> Config Class Initialized
+INFO - 2015-06-30 10:51:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:51:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:51:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:51:14 --> URI Class Initialized
+INFO - 2015-06-30 10:51:14 --> Router Class Initialized
+INFO - 2015-06-30 10:51:14 --> Output Class Initialized
+INFO - 2015-06-30 10:51:14 --> Security Class Initialized
+DEBUG - 2015-06-30 10:51:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:51:14 --> Input Class Initialized
+INFO - 2015-06-30 10:51:14 --> Language Class Initialized
+ERROR - 2015-06-30 10:51:14 --> 404 Page Not Found: Js/exportings.js
+INFO - 2015-06-30 10:53:00 --> Config Class Initialized
+INFO - 2015-06-30 10:53:00 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:53:00 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:53:00 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:53:00 --> URI Class Initialized
+INFO - 2015-06-30 10:53:00 --> Router Class Initialized
+INFO - 2015-06-30 10:53:00 --> Output Class Initialized
+INFO - 2015-06-30 10:53:00 --> Security Class Initialized
+DEBUG - 2015-06-30 10:53:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:53:00 --> Input Class Initialized
+INFO - 2015-06-30 10:53:00 --> Language Class Initialized
+INFO - 2015-06-30 10:53:00 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:53:00 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:53:00 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:53:00 --> Controller Class Initialized
+INFO - 2015-06-30 10:53:00 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:53:00 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:53:00 --> Model Class Initialized
+INFO - 2015-06-30 10:53:00 --> Model Class Initialized
+INFO - 2015-06-30 10:53:00 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:53:00 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:53:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:53:00 --> Model Class Initialized
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:53:00 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:53:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:53:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:53:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:53:00 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:53:00 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:53:00 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:53:00 --> Final output sent to browser
+DEBUG - 2015-06-30 10:53:00 --> Total execution time: 0.1730
+INFO - 2015-06-30 10:53:02 --> Config Class Initialized
+INFO - 2015-06-30 10:53:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:53:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:53:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:53:02 --> URI Class Initialized
+INFO - 2015-06-30 10:53:02 --> Router Class Initialized
+INFO - 2015-06-30 10:53:02 --> Output Class Initialized
+INFO - 2015-06-30 10:53:02 --> Security Class Initialized
+DEBUG - 2015-06-30 10:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:53:02 --> Input Class Initialized
+INFO - 2015-06-30 10:53:02 --> Language Class Initialized
+INFO - 2015-06-30 10:53:02 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:53:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:53:02 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:53:02 --> Controller Class Initialized
+INFO - 2015-06-30 10:53:02 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:53:02 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:53:02 --> Model Class Initialized
+INFO - 2015-06-30 10:53:02 --> Model Class Initialized
+INFO - 2015-06-30 10:53:02 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:53:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:53:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:53:02 --> Model Class Initialized
+INFO - 2015-06-30 10:53:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:53:02 --> Final output sent to browser
+DEBUG - 2015-06-30 10:53:02 --> Total execution time: 0.1050
+INFO - 2015-06-30 10:53:02 --> Config Class Initialized
+INFO - 2015-06-30 10:53:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:53:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:53:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:53:02 --> URI Class Initialized
+INFO - 2015-06-30 10:53:02 --> Router Class Initialized
+INFO - 2015-06-30 10:53:02 --> Output Class Initialized
+INFO - 2015-06-30 10:53:02 --> Security Class Initialized
+DEBUG - 2015-06-30 10:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:53:02 --> Input Class Initialized
+INFO - 2015-06-30 10:53:02 --> Language Class Initialized
+ERROR - 2015-06-30 10:53:02 --> 404 Page Not Found: Js/exportings.js
+INFO - 2015-06-30 10:54:26 --> Config Class Initialized
+INFO - 2015-06-30 10:54:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:54:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:54:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:54:26 --> URI Class Initialized
+INFO - 2015-06-30 10:54:26 --> Router Class Initialized
+INFO - 2015-06-30 10:54:26 --> Output Class Initialized
+INFO - 2015-06-30 10:54:26 --> Security Class Initialized
+DEBUG - 2015-06-30 10:54:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:54:26 --> Input Class Initialized
+INFO - 2015-06-30 10:54:26 --> Language Class Initialized
+INFO - 2015-06-30 10:54:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:54:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:54:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:54:26 --> Controller Class Initialized
+INFO - 2015-06-30 10:54:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:54:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:54:26 --> Model Class Initialized
+INFO - 2015-06-30 10:54:26 --> Model Class Initialized
+INFO - 2015-06-30 10:54:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:54:26 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:54:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:54:26 --> Model Class Initialized
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:54:26 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:54:26 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:26 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:26 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:26 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:54:26 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:54:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:54:26 --> Final output sent to browser
+DEBUG - 2015-06-30 10:54:26 --> Total execution time: 0.1460
+INFO - 2015-06-30 10:54:30 --> Config Class Initialized
+INFO - 2015-06-30 10:54:30 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:54:30 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:54:30 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:54:30 --> URI Class Initialized
+INFO - 2015-06-30 10:54:30 --> Router Class Initialized
+INFO - 2015-06-30 10:54:30 --> Output Class Initialized
+INFO - 2015-06-30 10:54:30 --> Security Class Initialized
+DEBUG - 2015-06-30 10:54:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:54:30 --> Input Class Initialized
+INFO - 2015-06-30 10:54:30 --> Language Class Initialized
+INFO - 2015-06-30 10:54:30 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:54:30 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:54:30 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:54:30 --> Controller Class Initialized
+INFO - 2015-06-30 10:54:30 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:54:30 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:54:30 --> Model Class Initialized
+INFO - 2015-06-30 10:54:30 --> Model Class Initialized
+INFO - 2015-06-30 10:54:30 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:54:31 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:54:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:54:31 --> Model Class Initialized
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:54:31 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:54:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:54:31 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:54:31 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:54:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:54:31 --> Final output sent to browser
+DEBUG - 2015-06-30 10:54:31 --> Total execution time: 0.1460
+INFO - 2015-06-30 10:54:33 --> Config Class Initialized
+INFO - 2015-06-30 10:54:33 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:54:33 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:54:33 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:54:33 --> URI Class Initialized
+INFO - 2015-06-30 10:54:33 --> Router Class Initialized
+INFO - 2015-06-30 10:54:33 --> Output Class Initialized
+INFO - 2015-06-30 10:54:33 --> Security Class Initialized
+DEBUG - 2015-06-30 10:54:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:54:33 --> Input Class Initialized
+INFO - 2015-06-30 10:54:33 --> Language Class Initialized
+INFO - 2015-06-30 10:54:33 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:54:33 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:54:33 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:54:33 --> Controller Class Initialized
+INFO - 2015-06-30 10:54:33 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:54:33 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:54:33 --> Model Class Initialized
+INFO - 2015-06-30 10:54:33 --> Model Class Initialized
+INFO - 2015-06-30 10:54:33 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:54:33 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:54:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:54:33 --> Model Class Initialized
+INFO - 2015-06-30 10:54:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:54:33 --> Final output sent to browser
+DEBUG - 2015-06-30 10:54:33 --> Total execution time: 0.0970
+INFO - 2015-06-30 10:54:33 --> Config Class Initialized
+INFO - 2015-06-30 10:54:33 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:54:33 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:54:33 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:54:33 --> URI Class Initialized
+INFO - 2015-06-30 10:54:33 --> Router Class Initialized
+INFO - 2015-06-30 10:54:33 --> Output Class Initialized
+INFO - 2015-06-30 10:54:33 --> Security Class Initialized
+DEBUG - 2015-06-30 10:54:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:54:33 --> Input Class Initialized
+INFO - 2015-06-30 10:54:33 --> Language Class Initialized
+ERROR - 2015-06-30 10:54:33 --> 404 Page Not Found: Js/exportings.js
+INFO - 2015-06-30 10:55:37 --> Config Class Initialized
+INFO - 2015-06-30 10:55:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:55:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:55:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:55:37 --> URI Class Initialized
+INFO - 2015-06-30 10:55:37 --> Router Class Initialized
+INFO - 2015-06-30 10:55:37 --> Output Class Initialized
+INFO - 2015-06-30 10:55:37 --> Security Class Initialized
+DEBUG - 2015-06-30 10:55:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:55:37 --> Input Class Initialized
+INFO - 2015-06-30 10:55:37 --> Language Class Initialized
+INFO - 2015-06-30 10:55:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:55:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:55:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:55:37 --> Controller Class Initialized
+INFO - 2015-06-30 10:55:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:55:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:55:37 --> Model Class Initialized
+INFO - 2015-06-30 10:55:37 --> Model Class Initialized
+INFO - 2015-06-30 10:55:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:55:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:55:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:55:37 --> Model Class Initialized
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:55:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:55:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:55:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:55:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:55:37 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:55:37 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:55:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:55:37 --> Final output sent to browser
+DEBUG - 2015-06-30 10:55:37 --> Total execution time: 0.1290
+INFO - 2015-06-30 10:55:44 --> Config Class Initialized
+INFO - 2015-06-30 10:55:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:55:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:55:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:55:44 --> URI Class Initialized
+INFO - 2015-06-30 10:55:44 --> Router Class Initialized
+INFO - 2015-06-30 10:55:44 --> Output Class Initialized
+INFO - 2015-06-30 10:55:44 --> Security Class Initialized
+DEBUG - 2015-06-30 10:55:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:55:44 --> Input Class Initialized
+INFO - 2015-06-30 10:55:44 --> Language Class Initialized
+INFO - 2015-06-30 10:55:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:55:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:55:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:55:44 --> Controller Class Initialized
+INFO - 2015-06-30 10:55:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:55:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:55:44 --> Model Class Initialized
+INFO - 2015-06-30 10:55:44 --> Model Class Initialized
+INFO - 2015-06-30 10:55:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:55:45 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:55:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:55:45 --> Model Class Initialized
+INFO - 2015-06-30 10:55:45 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:55:45 --> Final output sent to browser
+DEBUG - 2015-06-30 10:55:45 --> Total execution time: 0.1010
+INFO - 2015-06-30 10:56:10 --> Config Class Initialized
+INFO - 2015-06-30 10:56:10 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:56:10 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:56:10 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:56:10 --> URI Class Initialized
+INFO - 2015-06-30 10:56:10 --> Router Class Initialized
+INFO - 2015-06-30 10:56:10 --> Output Class Initialized
+INFO - 2015-06-30 10:56:10 --> Security Class Initialized
+DEBUG - 2015-06-30 10:56:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:56:10 --> Input Class Initialized
+INFO - 2015-06-30 10:56:10 --> Language Class Initialized
+INFO - 2015-06-30 10:56:10 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:56:10 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:56:10 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:56:10 --> Controller Class Initialized
+INFO - 2015-06-30 10:56:10 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:56:10 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:56:10 --> Model Class Initialized
+INFO - 2015-06-30 10:56:10 --> Model Class Initialized
+INFO - 2015-06-30 10:56:10 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:56:11 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:56:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:56:11 --> Model Class Initialized
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:56:11 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:56:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:56:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:56:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:56:11 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:56:11 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:56:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:56:11 --> Final output sent to browser
+DEBUG - 2015-06-30 10:56:11 --> Total execution time: 0.1510
+INFO - 2015-06-30 10:56:13 --> Config Class Initialized
+INFO - 2015-06-30 10:56:13 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:56:13 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:56:13 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:56:13 --> URI Class Initialized
+INFO - 2015-06-30 10:56:13 --> Router Class Initialized
+INFO - 2015-06-30 10:56:13 --> Output Class Initialized
+INFO - 2015-06-30 10:56:13 --> Security Class Initialized
+DEBUG - 2015-06-30 10:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:56:13 --> Input Class Initialized
+INFO - 2015-06-30 10:56:13 --> Language Class Initialized
+INFO - 2015-06-30 10:56:13 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:56:13 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:56:13 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:56:13 --> Controller Class Initialized
+INFO - 2015-06-30 10:56:13 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:56:13 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:56:13 --> Model Class Initialized
+INFO - 2015-06-30 10:56:13 --> Model Class Initialized
+INFO - 2015-06-30 10:56:13 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:56:13 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:56:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:56:13 --> Model Class Initialized
+INFO - 2015-06-30 10:56:13 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:56:13 --> Final output sent to browser
+DEBUG - 2015-06-30 10:56:13 --> Total execution time: 0.1030
+INFO - 2015-06-30 10:57:55 --> Config Class Initialized
+INFO - 2015-06-30 10:57:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:57:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:57:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:57:55 --> URI Class Initialized
+INFO - 2015-06-30 10:57:55 --> Router Class Initialized
+INFO - 2015-06-30 10:57:55 --> Output Class Initialized
+INFO - 2015-06-30 10:57:55 --> Security Class Initialized
+DEBUG - 2015-06-30 10:57:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:57:55 --> Input Class Initialized
+INFO - 2015-06-30 10:57:55 --> Language Class Initialized
+INFO - 2015-06-30 10:57:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:57:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:57:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:57:55 --> Controller Class Initialized
+INFO - 2015-06-30 10:57:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:57:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:57:55 --> Model Class Initialized
+INFO - 2015-06-30 10:57:55 --> Model Class Initialized
+INFO - 2015-06-30 10:57:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:57:56 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:57:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:57:56 --> Model Class Initialized
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 10:57:56 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 10:57:56 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:57:56 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 10:57:56 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 10:57:56 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 10:57:56 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 10:57:56 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 10:57:56 --> Final output sent to browser
+DEBUG - 2015-06-30 10:57:56 --> Total execution time: 0.1480
+INFO - 2015-06-30 10:57:57 --> Config Class Initialized
+INFO - 2015-06-30 10:57:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:57:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:57:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:57:57 --> URI Class Initialized
+INFO - 2015-06-30 10:57:57 --> Router Class Initialized
+INFO - 2015-06-30 10:57:57 --> Output Class Initialized
+INFO - 2015-06-30 10:57:57 --> Security Class Initialized
+DEBUG - 2015-06-30 10:57:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:57:57 --> Input Class Initialized
+INFO - 2015-06-30 10:57:57 --> Language Class Initialized
+INFO - 2015-06-30 10:57:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:57:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:57:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:57:57 --> Controller Class Initialized
+INFO - 2015-06-30 10:57:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:57:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:57:57 --> Model Class Initialized
+INFO - 2015-06-30 10:57:57 --> Model Class Initialized
+INFO - 2015-06-30 10:57:57 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:57:57 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:57:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:57:57 --> Model Class Initialized
+INFO - 2015-06-30 10:57:57 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:57:57 --> Final output sent to browser
+DEBUG - 2015-06-30 10:57:57 --> Total execution time: 0.1340
+INFO - 2015-06-30 10:58:07 --> Config Class Initialized
+INFO - 2015-06-30 10:58:07 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:58:07 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:58:07 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:58:07 --> URI Class Initialized
+INFO - 2015-06-30 10:58:07 --> Router Class Initialized
+INFO - 2015-06-30 10:58:07 --> Output Class Initialized
+INFO - 2015-06-30 10:58:07 --> Security Class Initialized
+DEBUG - 2015-06-30 10:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:58:07 --> Input Class Initialized
+INFO - 2015-06-30 10:58:07 --> Language Class Initialized
+INFO - 2015-06-30 10:58:07 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:58:07 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:58:07 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:58:07 --> Controller Class Initialized
+INFO - 2015-06-30 10:58:07 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:58:07 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:58:07 --> Model Class Initialized
+INFO - 2015-06-30 10:58:07 --> Model Class Initialized
+INFO - 2015-06-30 10:58:07 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:58:07 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:58:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:58:07 --> Model Class Initialized
+INFO - 2015-06-30 10:58:07 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:58:07 --> Final output sent to browser
+DEBUG - 2015-06-30 10:58:07 --> Total execution time: 0.1140
+INFO - 2015-06-30 10:58:11 --> Config Class Initialized
+INFO - 2015-06-30 10:58:11 --> Hooks Class Initialized
+DEBUG - 2015-06-30 10:58:11 --> UTF-8 Support Enabled
+INFO - 2015-06-30 10:58:11 --> Utf8 Class Initialized
+INFO - 2015-06-30 10:58:11 --> URI Class Initialized
+INFO - 2015-06-30 10:58:11 --> Router Class Initialized
+INFO - 2015-06-30 10:58:11 --> Output Class Initialized
+INFO - 2015-06-30 10:58:11 --> Security Class Initialized
+DEBUG - 2015-06-30 10:58:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 10:58:11 --> Input Class Initialized
+INFO - 2015-06-30 10:58:11 --> Language Class Initialized
+INFO - 2015-06-30 10:58:11 --> Loader Class Initialized
+DEBUG - 2015-06-30 10:58:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 10:58:11 --> Helper loaded: url_helper
+INFO - 2015-06-30 10:58:11 --> Controller Class Initialized
+INFO - 2015-06-30 10:58:11 --> Helper loaded: form_helper
+INFO - 2015-06-30 10:58:11 --> Form Validation Class Initialized
+INFO - 2015-06-30 10:58:11 --> Model Class Initialized
+INFO - 2015-06-30 10:58:11 --> Model Class Initialized
+INFO - 2015-06-30 10:58:11 --> Database Driver Class Initialized
+INFO - 2015-06-30 10:58:11 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 10:58:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 10:58:11 --> Model Class Initialized
+INFO - 2015-06-30 10:58:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 10:58:11 --> Final output sent to browser
+DEBUG - 2015-06-30 10:58:11 --> Total execution time: 0.0950
+INFO - 2015-06-30 11:06:36 --> Config Class Initialized
+INFO - 2015-06-30 11:06:36 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:06:36 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:06:36 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:06:36 --> URI Class Initialized
+INFO - 2015-06-30 11:06:36 --> Router Class Initialized
+INFO - 2015-06-30 11:06:36 --> Output Class Initialized
+INFO - 2015-06-30 11:06:36 --> Security Class Initialized
+DEBUG - 2015-06-30 11:06:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:06:36 --> Input Class Initialized
+INFO - 2015-06-30 11:06:36 --> Language Class Initialized
+INFO - 2015-06-30 11:06:36 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:06:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:06:36 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:06:36 --> Controller Class Initialized
+INFO - 2015-06-30 11:06:36 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:06:36 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:06:36 --> Model Class Initialized
+INFO - 2015-06-30 11:06:36 --> Model Class Initialized
+INFO - 2015-06-30 11:06:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:06:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:06:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:06:36 --> Model Class Initialized
+INFO - 2015-06-30 11:06:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:06:36 --> Final output sent to browser
+DEBUG - 2015-06-30 11:06:36 --> Total execution time: 0.1160
+INFO - 2015-06-30 11:07:16 --> Config Class Initialized
+INFO - 2015-06-30 11:07:16 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:07:16 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:07:16 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:07:16 --> URI Class Initialized
+INFO - 2015-06-30 11:07:16 --> Router Class Initialized
+INFO - 2015-06-30 11:07:16 --> Output Class Initialized
+INFO - 2015-06-30 11:07:16 --> Security Class Initialized
+DEBUG - 2015-06-30 11:07:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:07:16 --> Input Class Initialized
+INFO - 2015-06-30 11:07:16 --> Language Class Initialized
+INFO - 2015-06-30 11:07:16 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:07:16 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:07:16 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:07:16 --> Controller Class Initialized
+INFO - 2015-06-30 11:07:16 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:07:16 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:07:16 --> Model Class Initialized
+INFO - 2015-06-30 11:07:16 --> Model Class Initialized
+INFO - 2015-06-30 11:07:16 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:07:16 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:07:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:07:16 --> Model Class Initialized
+INFO - 2015-06-30 11:07:16 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:07:16 --> Final output sent to browser
+DEBUG - 2015-06-30 11:07:16 --> Total execution time: 0.1270
+INFO - 2015-06-30 11:07:32 --> Config Class Initialized
+INFO - 2015-06-30 11:07:32 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:07:32 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:07:32 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:07:32 --> URI Class Initialized
+INFO - 2015-06-30 11:07:32 --> Router Class Initialized
+INFO - 2015-06-30 11:07:32 --> Output Class Initialized
+INFO - 2015-06-30 11:07:32 --> Security Class Initialized
+DEBUG - 2015-06-30 11:07:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:07:32 --> Input Class Initialized
+INFO - 2015-06-30 11:07:32 --> Language Class Initialized
+INFO - 2015-06-30 11:07:32 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:07:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:07:32 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:07:32 --> Controller Class Initialized
+INFO - 2015-06-30 11:07:32 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:07:32 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:07:32 --> Model Class Initialized
+INFO - 2015-06-30 11:07:32 --> Model Class Initialized
+INFO - 2015-06-30 11:07:32 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:07:32 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:07:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:07:32 --> Model Class Initialized
+INFO - 2015-06-30 11:07:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:07:32 --> Final output sent to browser
+DEBUG - 2015-06-30 11:07:32 --> Total execution time: 0.1060
+INFO - 2015-06-30 11:12:09 --> Config Class Initialized
+INFO - 2015-06-30 11:12:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:12:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:12:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:12:09 --> URI Class Initialized
+INFO - 2015-06-30 11:12:09 --> Router Class Initialized
+INFO - 2015-06-30 11:12:09 --> Output Class Initialized
+INFO - 2015-06-30 11:12:09 --> Security Class Initialized
+DEBUG - 2015-06-30 11:12:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:12:09 --> Input Class Initialized
+INFO - 2015-06-30 11:12:09 --> Language Class Initialized
+INFO - 2015-06-30 11:12:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:12:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:12:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:12:09 --> Controller Class Initialized
+INFO - 2015-06-30 11:12:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:12:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:12:09 --> Model Class Initialized
+INFO - 2015-06-30 11:12:09 --> Model Class Initialized
+INFO - 2015-06-30 11:12:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:12:10 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:12:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:12:10 --> Model Class Initialized
+DEBUG - 2015-06-30 11:12:10 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:12:10 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:12:10 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:12:10 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:12:10 --> Final output sent to browser
+DEBUG - 2015-06-30 11:12:10 --> Total execution time: 0.2130
+INFO - 2015-06-30 11:12:53 --> Config Class Initialized
+INFO - 2015-06-30 11:12:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:12:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:12:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:12:53 --> URI Class Initialized
+INFO - 2015-06-30 11:12:53 --> Router Class Initialized
+INFO - 2015-06-30 11:12:53 --> Output Class Initialized
+INFO - 2015-06-30 11:12:53 --> Security Class Initialized
+DEBUG - 2015-06-30 11:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:12:53 --> Input Class Initialized
+INFO - 2015-06-30 11:12:53 --> Language Class Initialized
+INFO - 2015-06-30 11:12:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:12:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:12:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:12:53 --> Controller Class Initialized
+INFO - 2015-06-30 11:12:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:12:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:12:53 --> Model Class Initialized
+INFO - 2015-06-30 11:12:53 --> Model Class Initialized
+INFO - 2015-06-30 11:12:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:12:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:12:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:12:53 --> Model Class Initialized
+DEBUG - 2015-06-30 11:12:53 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:12:53 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:12:53 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:12:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:12:53 --> Final output sent to browser
+DEBUG - 2015-06-30 11:12:53 --> Total execution time: 0.1290
+INFO - 2015-06-30 11:13:36 --> Config Class Initialized
+INFO - 2015-06-30 11:13:36 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:13:36 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:13:36 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:13:36 --> URI Class Initialized
+INFO - 2015-06-30 11:13:36 --> Router Class Initialized
+INFO - 2015-06-30 11:13:36 --> Output Class Initialized
+INFO - 2015-06-30 11:13:36 --> Security Class Initialized
+DEBUG - 2015-06-30 11:13:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:13:36 --> Input Class Initialized
+INFO - 2015-06-30 11:13:36 --> Language Class Initialized
+INFO - 2015-06-30 11:13:36 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:13:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:13:36 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:13:36 --> Controller Class Initialized
+INFO - 2015-06-30 11:13:36 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:13:36 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:13:36 --> Model Class Initialized
+INFO - 2015-06-30 11:13:36 --> Model Class Initialized
+INFO - 2015-06-30 11:13:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:13:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:13:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:13:36 --> Model Class Initialized
+DEBUG - 2015-06-30 11:13:36 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:13:36 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:13:36 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:13:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:13:36 --> Final output sent to browser
+DEBUG - 2015-06-30 11:13:36 --> Total execution time: 0.1190
+INFO - 2015-06-30 11:14:56 --> Config Class Initialized
+INFO - 2015-06-30 11:14:56 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:14:56 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:14:56 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:14:56 --> URI Class Initialized
+INFO - 2015-06-30 11:14:56 --> Router Class Initialized
+INFO - 2015-06-30 11:14:56 --> Output Class Initialized
+INFO - 2015-06-30 11:14:56 --> Security Class Initialized
+DEBUG - 2015-06-30 11:14:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:14:56 --> Input Class Initialized
+INFO - 2015-06-30 11:14:56 --> Language Class Initialized
+INFO - 2015-06-30 11:14:56 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:14:56 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:14:56 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:14:56 --> Controller Class Initialized
+INFO - 2015-06-30 11:14:56 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:14:56 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:14:56 --> Model Class Initialized
+INFO - 2015-06-30 11:14:56 --> Model Class Initialized
+INFO - 2015-06-30 11:14:56 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:14:56 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:14:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:14:56 --> Model Class Initialized
+DEBUG - 2015-06-30 11:14:56 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:14:56 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:14:56 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:14:56 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:14:56 --> Final output sent to browser
+DEBUG - 2015-06-30 11:14:56 --> Total execution time: 0.1230
+INFO - 2015-06-30 11:15:17 --> Config Class Initialized
+INFO - 2015-06-30 11:15:17 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:15:17 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:15:17 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:15:17 --> URI Class Initialized
+INFO - 2015-06-30 11:15:17 --> Router Class Initialized
+INFO - 2015-06-30 11:15:17 --> Output Class Initialized
+INFO - 2015-06-30 11:15:17 --> Security Class Initialized
+DEBUG - 2015-06-30 11:15:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:15:17 --> Input Class Initialized
+INFO - 2015-06-30 11:15:17 --> Language Class Initialized
+INFO - 2015-06-30 11:15:17 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:15:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:15:17 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:15:17 --> Controller Class Initialized
+INFO - 2015-06-30 11:15:17 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:15:17 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:15:17 --> Model Class Initialized
+INFO - 2015-06-30 11:15:17 --> Model Class Initialized
+INFO - 2015-06-30 11:15:17 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:15:17 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:15:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:15:17 --> Model Class Initialized
+DEBUG - 2015-06-30 11:15:17 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:15:17 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:15:17 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:15:17 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:15:17 --> Final output sent to browser
+DEBUG - 2015-06-30 11:15:17 --> Total execution time: 0.1210
+INFO - 2015-06-30 11:16:29 --> Config Class Initialized
+INFO - 2015-06-30 11:16:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:16:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:16:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:16:29 --> URI Class Initialized
+INFO - 2015-06-30 11:16:29 --> Router Class Initialized
+INFO - 2015-06-30 11:16:29 --> Output Class Initialized
+INFO - 2015-06-30 11:16:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:16:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:16:30 --> Input Class Initialized
+INFO - 2015-06-30 11:16:30 --> Language Class Initialized
+INFO - 2015-06-30 11:16:30 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:16:30 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:16:30 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:16:30 --> Controller Class Initialized
+INFO - 2015-06-30 11:16:30 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:16:30 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:16:30 --> Model Class Initialized
+INFO - 2015-06-30 11:16:30 --> Model Class Initialized
+INFO - 2015-06-30 11:16:30 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:16:30 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:16:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:16:30 --> Model Class Initialized
+DEBUG - 2015-06-30 11:16:30 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:16:30 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:16:30 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+ERROR - 2015-06-30 11:16:30 --> Severity: Notice --> Array to string conversion D:\soft\xampp\htdocs\manage\application\views\report_user.php 73
+ERROR - 2015-06-30 11:16:30 --> Severity: Notice --> Array to string conversion D:\soft\xampp\htdocs\manage\application\views\report_user.php 74
+INFO - 2015-06-30 11:16:30 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:16:30 --> Final output sent to browser
+DEBUG - 2015-06-30 11:16:30 --> Total execution time: 0.1230
+INFO - 2015-06-30 11:16:56 --> Config Class Initialized
+INFO - 2015-06-30 11:16:56 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:16:56 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:16:56 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:16:56 --> URI Class Initialized
+INFO - 2015-06-30 11:16:56 --> Router Class Initialized
+INFO - 2015-06-30 11:16:56 --> Output Class Initialized
+INFO - 2015-06-30 11:16:56 --> Security Class Initialized
+DEBUG - 2015-06-30 11:16:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:16:56 --> Input Class Initialized
+INFO - 2015-06-30 11:16:56 --> Language Class Initialized
+INFO - 2015-06-30 11:16:56 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:16:56 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:16:56 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:16:56 --> Controller Class Initialized
+INFO - 2015-06-30 11:16:56 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:16:56 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:16:56 --> Model Class Initialized
+INFO - 2015-06-30 11:16:56 --> Model Class Initialized
+INFO - 2015-06-30 11:16:56 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:16:56 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:16:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:16:56 --> Model Class Initialized
+DEBUG - 2015-06-30 11:16:56 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:16:56 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:16:56 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:16:56 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:16:56 --> Final output sent to browser
+DEBUG - 2015-06-30 11:16:56 --> Total execution time: 0.1020
+INFO - 2015-06-30 11:20:20 --> Config Class Initialized
+INFO - 2015-06-30 11:20:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:20:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:20:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:20:20 --> URI Class Initialized
+INFO - 2015-06-30 11:20:20 --> Router Class Initialized
+INFO - 2015-06-30 11:20:20 --> Output Class Initialized
+INFO - 2015-06-30 11:20:20 --> Security Class Initialized
+DEBUG - 2015-06-30 11:20:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:20:20 --> Input Class Initialized
+INFO - 2015-06-30 11:20:20 --> Language Class Initialized
+INFO - 2015-06-30 11:20:21 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:20:21 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:20:21 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:20:21 --> Controller Class Initialized
+INFO - 2015-06-30 11:20:21 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:20:21 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:20:21 --> Model Class Initialized
+INFO - 2015-06-30 11:20:21 --> Model Class Initialized
+INFO - 2015-06-30 11:20:21 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:20:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:20:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:20:21 --> Model Class Initialized
+DEBUG - 2015-06-30 11:20:21 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:20:21 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:20:21 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:20:21 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:20:21 --> Final output sent to browser
+DEBUG - 2015-06-30 11:20:21 --> Total execution time: 0.1210
+INFO - 2015-06-30 11:22:40 --> Config Class Initialized
+INFO - 2015-06-30 11:22:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:22:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:22:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:22:40 --> URI Class Initialized
+INFO - 2015-06-30 11:22:40 --> Router Class Initialized
+INFO - 2015-06-30 11:22:40 --> Output Class Initialized
+INFO - 2015-06-30 11:22:40 --> Security Class Initialized
+DEBUG - 2015-06-30 11:22:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:22:40 --> Input Class Initialized
+INFO - 2015-06-30 11:22:40 --> Language Class Initialized
+INFO - 2015-06-30 11:22:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:22:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:22:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:22:40 --> Controller Class Initialized
+INFO - 2015-06-30 11:22:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:22:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:22:40 --> Model Class Initialized
+INFO - 2015-06-30 11:22:40 --> Model Class Initialized
+INFO - 2015-06-30 11:22:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:22:40 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:22:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:22:40 --> Model Class Initialized
+DEBUG - 2015-06-30 11:22:40 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:22:40 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:22:40 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:22:40 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:22:40 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:22:40 --> Final output sent to browser
+DEBUG - 2015-06-30 11:22:40 --> Total execution time: 0.2630
+INFO - 2015-06-30 11:22:42 --> Config Class Initialized
+INFO - 2015-06-30 11:22:42 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:22:43 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:22:43 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:22:43 --> URI Class Initialized
+INFO - 2015-06-30 11:22:43 --> Router Class Initialized
+INFO - 2015-06-30 11:22:43 --> Output Class Initialized
+INFO - 2015-06-30 11:22:43 --> Security Class Initialized
+DEBUG - 2015-06-30 11:22:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:22:43 --> Input Class Initialized
+INFO - 2015-06-30 11:22:43 --> Language Class Initialized
+INFO - 2015-06-30 11:22:43 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:22:43 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:22:43 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:22:43 --> Controller Class Initialized
+INFO - 2015-06-30 11:22:43 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:22:43 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:22:43 --> Model Class Initialized
+INFO - 2015-06-30 11:22:43 --> Model Class Initialized
+INFO - 2015-06-30 11:22:43 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:22:43 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:22:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:22:43 --> Model Class Initialized
+DEBUG - 2015-06-30 11:22:43 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:22:43 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:22:43 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:22:43 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:22:43 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:22:43 --> Final output sent to browser
+DEBUG - 2015-06-30 11:22:43 --> Total execution time: 0.1030
+INFO - 2015-06-30 11:22:44 --> Config Class Initialized
+INFO - 2015-06-30 11:22:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:22:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:22:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:22:44 --> URI Class Initialized
+INFO - 2015-06-30 11:22:44 --> Router Class Initialized
+INFO - 2015-06-30 11:22:44 --> Output Class Initialized
+INFO - 2015-06-30 11:22:44 --> Security Class Initialized
+DEBUG - 2015-06-30 11:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:22:44 --> Input Class Initialized
+INFO - 2015-06-30 11:22:44 --> Language Class Initialized
+INFO - 2015-06-30 11:22:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:22:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:22:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:22:44 --> Controller Class Initialized
+INFO - 2015-06-30 11:22:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:22:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:22:44 --> Model Class Initialized
+INFO - 2015-06-30 11:22:44 --> Model Class Initialized
+INFO - 2015-06-30 11:22:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:22:44 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:22:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:22:44 --> Model Class Initialized
+DEBUG - 2015-06-30 11:22:44 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:22:44 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:22:44 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:22:44 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:22:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:22:44 --> Final output sent to browser
+DEBUG - 2015-06-30 11:22:44 --> Total execution time: 0.1130
+INFO - 2015-06-30 11:22:56 --> Config Class Initialized
+INFO - 2015-06-30 11:22:56 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:22:56 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:22:56 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:22:56 --> URI Class Initialized
+INFO - 2015-06-30 11:22:56 --> Router Class Initialized
+INFO - 2015-06-30 11:22:56 --> Output Class Initialized
+INFO - 2015-06-30 11:22:56 --> Security Class Initialized
+DEBUG - 2015-06-30 11:22:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:22:56 --> Input Class Initialized
+INFO - 2015-06-30 11:22:56 --> Language Class Initialized
+INFO - 2015-06-30 11:22:56 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:22:56 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:22:56 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:22:56 --> Controller Class Initialized
+INFO - 2015-06-30 11:22:56 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:22:56 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:22:56 --> Model Class Initialized
+INFO - 2015-06-30 11:22:56 --> Model Class Initialized
+INFO - 2015-06-30 11:22:56 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:22:56 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:22:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:22:56 --> Model Class Initialized
+DEBUG - 2015-06-30 11:22:56 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:22:56 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:22:56 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:22:56 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:22:56 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:22:56 --> Final output sent to browser
+DEBUG - 2015-06-30 11:22:56 --> Total execution time: 0.1140
+INFO - 2015-06-30 11:22:58 --> Config Class Initialized
+INFO - 2015-06-30 11:22:58 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:22:58 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:22:58 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:22:58 --> URI Class Initialized
+INFO - 2015-06-30 11:22:58 --> Router Class Initialized
+INFO - 2015-06-30 11:22:59 --> Output Class Initialized
+INFO - 2015-06-30 11:22:59 --> Security Class Initialized
+DEBUG - 2015-06-30 11:22:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:22:59 --> Input Class Initialized
+INFO - 2015-06-30 11:22:59 --> Language Class Initialized
+INFO - 2015-06-30 11:22:59 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:22:59 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:22:59 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:22:59 --> Controller Class Initialized
+INFO - 2015-06-30 11:22:59 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:22:59 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:22:59 --> Model Class Initialized
+INFO - 2015-06-30 11:22:59 --> Model Class Initialized
+INFO - 2015-06-30 11:22:59 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:22:59 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:22:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:22:59 --> Model Class Initialized
+DEBUG - 2015-06-30 11:22:59 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:22:59 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:22:59 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:22:59 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:22:59 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:22:59 --> Final output sent to browser
+DEBUG - 2015-06-30 11:22:59 --> Total execution time: 0.1140
+INFO - 2015-06-30 11:23:00 --> Config Class Initialized
+INFO - 2015-06-30 11:23:00 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:23:00 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:23:00 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:23:00 --> URI Class Initialized
+INFO - 2015-06-30 11:23:00 --> Router Class Initialized
+INFO - 2015-06-30 11:23:00 --> Output Class Initialized
+INFO - 2015-06-30 11:23:00 --> Security Class Initialized
+DEBUG - 2015-06-30 11:23:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:23:00 --> Input Class Initialized
+INFO - 2015-06-30 11:23:00 --> Language Class Initialized
+INFO - 2015-06-30 11:23:00 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:23:00 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:23:00 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:23:00 --> Controller Class Initialized
+INFO - 2015-06-30 11:23:00 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:23:00 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:23:00 --> Model Class Initialized
+INFO - 2015-06-30 11:23:00 --> Model Class Initialized
+INFO - 2015-06-30 11:23:00 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:23:00 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:23:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:23:00 --> Model Class Initialized
+DEBUG - 2015-06-30 11:23:00 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:23:00 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:23:00 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:23:00 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:23:00 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:23:00 --> Final output sent to browser
+DEBUG - 2015-06-30 11:23:00 --> Total execution time: 0.1270
+INFO - 2015-06-30 11:23:52 --> Config Class Initialized
+INFO - 2015-06-30 11:23:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:23:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:23:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:23:52 --> URI Class Initialized
+INFO - 2015-06-30 11:23:52 --> Router Class Initialized
+INFO - 2015-06-30 11:23:52 --> Output Class Initialized
+INFO - 2015-06-30 11:23:52 --> Security Class Initialized
+DEBUG - 2015-06-30 11:23:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:23:52 --> Input Class Initialized
+INFO - 2015-06-30 11:23:52 --> Language Class Initialized
+INFO - 2015-06-30 11:23:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:23:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:23:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:23:52 --> Controller Class Initialized
+INFO - 2015-06-30 11:23:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:23:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:23:52 --> Model Class Initialized
+INFO - 2015-06-30 11:23:52 --> Model Class Initialized
+INFO - 2015-06-30 11:23:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:23:52 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:23:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:23:52 --> Model Class Initialized
+DEBUG - 2015-06-30 11:23:52 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:23:52 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+DEBUG - 2015-06-30 11:23:52 --> select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())
+DEBUG - 2015-06-30 11:23:52 --> select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10
+INFO - 2015-06-30 11:23:52 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_user.php
+INFO - 2015-06-30 11:23:52 --> Final output sent to browser
+DEBUG - 2015-06-30 11:23:52 --> Total execution time: 0.1260
+>>>>>>> gaoxu
+INFO - 2015-06-30 11:44:02 --> Config Class Initialized
+INFO - 2015-06-30 11:44:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:02 --> URI Class Initialized
+INFO - 2015-06-30 11:44:02 --> Router Class Initialized
+INFO - 2015-06-30 11:44:02 --> Output Class Initialized
+INFO - 2015-06-30 11:44:02 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:02 --> Input Class Initialized
+INFO - 2015-06-30 11:44:02 --> Language Class Initialized
+INFO - 2015-06-30 11:44:02 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:02 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:02 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:02 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:02 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:02 --> Model Class Initialized
+INFO - 2015-06-30 11:44:02 --> Model Class Initialized
+INFO - 2015-06-30 11:44:02 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:44:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-06-30 11:44:02 --> Severity: Compile Error --> Cannot redefine class constant Report_mdl::month_tickets D:\soft\xampp\htdocs\manage\application\models\Report_mdl.php 31
+INFO - 2015-06-30 11:44:20 --> Config Class Initialized
+INFO - 2015-06-30 11:44:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:20 --> URI Class Initialized
+DEBUG - 2015-06-30 11:44:20 --> No URI present. Default controller set.
+INFO - 2015-06-30 11:44:20 --> Router Class Initialized
+INFO - 2015-06-30 11:44:20 --> Output Class Initialized
+INFO - 2015-06-30 11:44:20 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:20 --> Input Class Initialized
+INFO - 2015-06-30 11:44:20 --> Language Class Initialized
+INFO - 2015-06-30 11:44:20 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:20 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:20 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:20 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:20 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:20 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:20 --> Model Class Initialized
+INFO - 2015-06-30 11:44:20 --> Model Class Initialized
+INFO - 2015-06-30 11:44:20 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:20 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:44:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:20 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 11:44:20 --> Final output sent to browser
+DEBUG - 2015-06-30 11:44:20 --> Total execution time: 0.0950
+INFO - 2015-06-30 11:44:29 --> Config Class Initialized
+INFO - 2015-06-30 11:44:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:29 --> URI Class Initialized
+INFO - 2015-06-30 11:44:29 --> Router Class Initialized
+INFO - 2015-06-30 11:44:29 --> Output Class Initialized
+INFO - 2015-06-30 11:44:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:29 --> Input Class Initialized
+INFO - 2015-06-30 11:44:29 --> Language Class Initialized
+INFO - 2015-06-30 11:44:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:29 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:29 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> user 18 login at 2015-06-30 11:06:29
+INFO - 2015-06-30 11:44:29 --> Config Class Initialized
+INFO - 2015-06-30 11:44:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:29 --> URI Class Initialized
+INFO - 2015-06-30 11:44:29 --> Router Class Initialized
+INFO - 2015-06-30 11:44:29 --> Output Class Initialized
+INFO - 2015-06-30 11:44:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:29 --> Input Class Initialized
+INFO - 2015-06-30 11:44:29 --> Language Class Initialized
+INFO - 2015-06-30 11:44:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:29 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:29 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 11:44:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 11:44:29 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 11:44:29 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 11:44:29 --> Final output sent to browser
+DEBUG - 2015-06-30 11:44:29 --> Total execution time: 0.1200
+INFO - 2015-06-30 11:44:29 --> Config Class Initialized
+INFO - 2015-06-30 11:44:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:29 --> URI Class Initialized
+INFO - 2015-06-30 11:44:29 --> Router Class Initialized
+INFO - 2015-06-30 11:44:29 --> Output Class Initialized
+INFO - 2015-06-30 11:44:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:29 --> Input Class Initialized
+INFO - 2015-06-30 11:44:29 --> Language Class Initialized
+INFO - 2015-06-30 11:44:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:29 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:29 --> Config Class Initialized
+INFO - 2015-06-30 11:44:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:29 --> URI Class Initialized
+INFO - 2015-06-30 11:44:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:29 --> Router Class Initialized
+INFO - 2015-06-30 11:44:29 --> Output Class Initialized
+INFO - 2015-06-30 11:44:29 --> Config Class Initialized
+INFO - 2015-06-30 11:44:29 --> Hooks Class Initialized
+INFO - 2015-06-30 11:44:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:29 --> Utf8 Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:29 --> Input Class Initialized
+INFO - 2015-06-30 11:44:29 --> URI Class Initialized
+INFO - 2015-06-30 11:44:29 --> Language Class Initialized
+INFO - 2015-06-30 11:44:29 --> Router Class Initialized
+INFO - 2015-06-30 11:44:29 --> Output Class Initialized
+INFO - 2015-06-30 11:44:29 --> Loader Class Initialized
+INFO - 2015-06-30 11:44:29 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+DEBUG - 2015-06-30 11:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:29 --> Input Class Initialized
+INFO - 2015-06-30 11:44:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:29 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:29 --> Language Class Initialized
+INFO - 2015-06-30 11:44:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:29 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:29 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 11:44:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 11:44:29 --> Final output sent to browser
+DEBUG - 2015-06-30 11:44:29 --> Total execution time: 0.1130
+INFO - 2015-06-30 11:44:29 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 11:44:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 11:44:29 --> Pagination Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 11:44:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 11:44:29 --> Final output sent to browser
+DEBUG - 2015-06-30 11:44:29 --> Total execution time: 0.1480
+INFO - 2015-06-30 11:44:29 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 11:44:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+INFO - 2015-06-30 11:44:29 --> Model Class Initialized
+DEBUG - 2015-06-30 11:44:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:44:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 11:44:29 --> Final output sent to browser
+DEBUG - 2015-06-30 11:44:29 --> Total execution time: 0.2090
+INFO - 2015-06-30 11:44:31 --> Config Class Initialized
+INFO - 2015-06-30 11:44:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:44:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:44:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:44:31 --> URI Class Initialized
+INFO - 2015-06-30 11:44:31 --> Router Class Initialized
+INFO - 2015-06-30 11:44:31 --> Output Class Initialized
+INFO - 2015-06-30 11:44:31 --> Security Class Initialized
+DEBUG - 2015-06-30 11:44:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:44:31 --> Input Class Initialized
+INFO - 2015-06-30 11:44:31 --> Language Class Initialized
+INFO - 2015-06-30 11:44:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:44:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:44:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:44:31 --> Controller Class Initialized
+INFO - 2015-06-30 11:44:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:44:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:44:31 --> Model Class Initialized
+INFO - 2015-06-30 11:44:31 --> Model Class Initialized
+INFO - 2015-06-30 11:44:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:44:31 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:44:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-06-30 11:44:31 --> Severity: Compile Error --> Cannot redefine class constant Report_mdl::month_tickets D:\soft\xampp\htdocs\manage\application\models\Report_mdl.php 31
+INFO - 2015-06-30 11:46:20 --> Config Class Initialized
+INFO - 2015-06-30 11:46:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:46:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:46:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:46:20 --> URI Class Initialized
+INFO - 2015-06-30 11:46:20 --> Router Class Initialized
+INFO - 2015-06-30 11:46:20 --> Output Class Initialized
+INFO - 2015-06-30 11:46:20 --> Security Class Initialized
+DEBUG - 2015-06-30 11:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:46:20 --> Input Class Initialized
+INFO - 2015-06-30 11:46:20 --> Language Class Initialized
+INFO - 2015-06-30 11:46:20 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:46:20 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:46:20 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:46:20 --> Controller Class Initialized
+INFO - 2015-06-30 11:46:20 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:46:20 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:46:20 --> Model Class Initialized
+INFO - 2015-06-30 11:46:20 --> Model Class Initialized
+INFO - 2015-06-30 11:46:20 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:46:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:46:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-06-30 11:46:21 --> Severity: Parsing Error --> syntax error, unexpected '===' (T_IS_IDENTICAL), expecting function (T_FUNCTION) D:\soft\xampp\htdocs\manage\application\models\Report_mdl.php 221
+INFO - 2015-06-30 11:47:02 --> Config Class Initialized
+INFO - 2015-06-30 11:47:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:47:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:47:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:47:02 --> URI Class Initialized
+INFO - 2015-06-30 11:47:02 --> Router Class Initialized
+INFO - 2015-06-30 11:47:02 --> Output Class Initialized
+INFO - 2015-06-30 11:47:02 --> Security Class Initialized
+DEBUG - 2015-06-30 11:47:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:47:02 --> Input Class Initialized
+INFO - 2015-06-30 11:47:02 --> Language Class Initialized
+INFO - 2015-06-30 11:47:02 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:47:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:47:02 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:47:02 --> Controller Class Initialized
+INFO - 2015-06-30 11:47:02 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:47:02 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:47:02 --> Model Class Initialized
+INFO - 2015-06-30 11:47:02 --> Model Class Initialized
+INFO - 2015-06-30 11:47:02 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:47:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:47:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:47:02 --> Model Class Initialized
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:47:02 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:02 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:02 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:02 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:02 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:47:02 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:47:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:47:02 --> Final output sent to browser
+DEBUG - 2015-06-30 11:47:02 --> Total execution time: 0.1550
+INFO - 2015-06-30 11:47:18 --> Config Class Initialized
+INFO - 2015-06-30 11:47:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:47:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:47:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:47:18 --> URI Class Initialized
+INFO - 2015-06-30 11:47:18 --> Router Class Initialized
+INFO - 2015-06-30 11:47:18 --> Output Class Initialized
+INFO - 2015-06-30 11:47:18 --> Security Class Initialized
+DEBUG - 2015-06-30 11:47:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:47:18 --> Input Class Initialized
+INFO - 2015-06-30 11:47:18 --> Language Class Initialized
+INFO - 2015-06-30 11:47:19 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:47:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:47:19 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:47:19 --> Controller Class Initialized
+INFO - 2015-06-30 11:47:19 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:47:19 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:47:19 --> Model Class Initialized
+INFO - 2015-06-30 11:47:19 --> Model Class Initialized
+INFO - 2015-06-30 11:47:19 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:47:19 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:47:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:47:19 --> Model Class Initialized
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:47:19 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:19 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:19 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:19 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:19 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:47:19 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:47:19 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:47:19 --> Final output sent to browser
+DEBUG - 2015-06-30 11:47:19 --> Total execution time: 0.1540
+INFO - 2015-06-30 11:47:34 --> Config Class Initialized
+INFO - 2015-06-30 11:47:34 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:47:34 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:47:34 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:47:34 --> URI Class Initialized
+INFO - 2015-06-30 11:47:34 --> Router Class Initialized
+INFO - 2015-06-30 11:47:34 --> Output Class Initialized
+INFO - 2015-06-30 11:47:34 --> Security Class Initialized
+DEBUG - 2015-06-30 11:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:47:34 --> Input Class Initialized
+INFO - 2015-06-30 11:47:34 --> Language Class Initialized
+INFO - 2015-06-30 11:47:34 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:47:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:47:34 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:47:34 --> Controller Class Initialized
+INFO - 2015-06-30 11:47:34 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:47:34 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:47:34 --> Model Class Initialized
+INFO - 2015-06-30 11:47:34 --> Model Class Initialized
+INFO - 2015-06-30 11:47:34 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:47:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:47:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:47:34 --> Model Class Initialized
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:47:34 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:34 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:47:34 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:47:34 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:47:34 --> Final output sent to browser
+DEBUG - 2015-06-30 11:47:34 --> Total execution time: 0.1410
+INFO - 2015-06-30 11:47:35 --> Config Class Initialized
+INFO - 2015-06-30 11:47:35 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:47:35 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:47:35 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:47:35 --> URI Class Initialized
+INFO - 2015-06-30 11:47:35 --> Router Class Initialized
+INFO - 2015-06-30 11:47:35 --> Output Class Initialized
+INFO - 2015-06-30 11:47:35 --> Security Class Initialized
+DEBUG - 2015-06-30 11:47:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:47:35 --> Input Class Initialized
+INFO - 2015-06-30 11:47:35 --> Language Class Initialized
+INFO - 2015-06-30 11:47:35 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:47:35 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:47:35 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:47:35 --> Controller Class Initialized
+INFO - 2015-06-30 11:47:35 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:47:35 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:47:35 --> Model Class Initialized
+INFO - 2015-06-30 11:47:35 --> Model Class Initialized
+INFO - 2015-06-30 11:47:35 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:47:35 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:47:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:47:35 --> Model Class Initialized
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:47:35 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:47:35 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:47:35 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:47:35 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:47:35 --> Final output sent to browser
+DEBUG - 2015-06-30 11:47:35 --> Total execution time: 0.1960
+INFO - 2015-06-30 11:47:38 --> Config Class Initialized
+INFO - 2015-06-30 11:47:38 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:47:38 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:47:38 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:47:38 --> URI Class Initialized
+INFO - 2015-06-30 11:47:38 --> Router Class Initialized
+INFO - 2015-06-30 11:47:38 --> Output Class Initialized
+INFO - 2015-06-30 11:47:38 --> Security Class Initialized
+DEBUG - 2015-06-30 11:47:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:47:38 --> Input Class Initialized
+INFO - 2015-06-30 11:47:38 --> Language Class Initialized
+INFO - 2015-06-30 11:47:38 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:47:38 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:47:38 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:47:38 --> Controller Class Initialized
+INFO - 2015-06-30 11:47:38 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:47:38 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:47:38 --> Model Class Initialized
+INFO - 2015-06-30 11:47:38 --> Model Class Initialized
+INFO - 2015-06-30 11:47:38 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:47:38 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:47:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:47:38 --> Model Class Initialized
+DEBUG - 2015-06-30 11:47:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:47:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:47:38 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:47:38 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:47:38 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+INFO - 2015-06-30 11:47:38 --> Final output sent to browser
+DEBUG - 2015-06-30 11:47:38 --> Total execution time: 0.1190
+INFO - 2015-06-30 11:48:37 --> Config Class Initialized
+INFO - 2015-06-30 11:48:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:48:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:48:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:48:37 --> URI Class Initialized
+INFO - 2015-06-30 11:48:37 --> Router Class Initialized
+INFO - 2015-06-30 11:48:37 --> Output Class Initialized
+INFO - 2015-06-30 11:48:37 --> Security Class Initialized
+DEBUG - 2015-06-30 11:48:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:48:37 --> Input Class Initialized
+INFO - 2015-06-30 11:48:37 --> Language Class Initialized
+INFO - 2015-06-30 11:48:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:48:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:48:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:48:37 --> Controller Class Initialized
+INFO - 2015-06-30 11:48:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:48:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:48:37 --> Model Class Initialized
+INFO - 2015-06-30 11:48:37 --> Model Class Initialized
+INFO - 2015-06-30 11:48:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:48:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:48:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:48:37 --> Model Class Initialized
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:48:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:48:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:37 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:48:37 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:48:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:48:37 --> Final output sent to browser
+DEBUG - 2015-06-30 11:48:37 --> Total execution time: 0.1710
+INFO - 2015-06-30 11:48:40 --> Config Class Initialized
+INFO - 2015-06-30 11:48:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:48:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:48:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:48:40 --> URI Class Initialized
+INFO - 2015-06-30 11:48:40 --> Router Class Initialized
+INFO - 2015-06-30 11:48:40 --> Output Class Initialized
+INFO - 2015-06-30 11:48:40 --> Security Class Initialized
+DEBUG - 2015-06-30 11:48:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:48:40 --> Input Class Initialized
+INFO - 2015-06-30 11:48:40 --> Language Class Initialized
+INFO - 2015-06-30 11:48:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:48:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:48:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:48:40 --> Controller Class Initialized
+INFO - 2015-06-30 11:48:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:48:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:48:40 --> Model Class Initialized
+INFO - 2015-06-30 11:48:40 --> Model Class Initialized
+INFO - 2015-06-30 11:48:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:48:40 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:48:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:48:40 --> Model Class Initialized
+DEBUG - 2015-06-30 11:48:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:48:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:48:40 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:48:40 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:40 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+INFO - 2015-06-30 11:48:40 --> Final output sent to browser
+DEBUG - 2015-06-30 11:48:40 --> Total execution time: 0.1140
+INFO - 2015-06-30 11:48:47 --> Config Class Initialized
+INFO - 2015-06-30 11:48:47 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:48:47 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:48:47 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:48:47 --> URI Class Initialized
+INFO - 2015-06-30 11:48:47 --> Router Class Initialized
+INFO - 2015-06-30 11:48:47 --> Output Class Initialized
+INFO - 2015-06-30 11:48:47 --> Security Class Initialized
+DEBUG - 2015-06-30 11:48:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:48:47 --> Input Class Initialized
+INFO - 2015-06-30 11:48:47 --> Language Class Initialized
+INFO - 2015-06-30 11:48:47 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:48:47 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:48:47 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:48:47 --> Controller Class Initialized
+INFO - 2015-06-30 11:48:47 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:48:47 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:48:47 --> Model Class Initialized
+INFO - 2015-06-30 11:48:47 --> Model Class Initialized
+INFO - 2015-06-30 11:48:47 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:48:47 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:48:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:48:47 --> Model Class Initialized
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:48:47 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:48:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:48:47 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:48:47 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:48:47 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:48:47 --> Final output sent to browser
+DEBUG - 2015-06-30 11:48:47 --> Total execution time: 0.1720
+INFO - 2015-06-30 11:49:25 --> Config Class Initialized
+INFO - 2015-06-30 11:49:25 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:49:25 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:49:25 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:49:25 --> URI Class Initialized
+INFO - 2015-06-30 11:49:25 --> Router Class Initialized
+INFO - 2015-06-30 11:49:25 --> Output Class Initialized
+INFO - 2015-06-30 11:49:25 --> Security Class Initialized
+DEBUG - 2015-06-30 11:49:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:49:25 --> Input Class Initialized
+INFO - 2015-06-30 11:49:25 --> Language Class Initialized
+INFO - 2015-06-30 11:49:25 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:49:25 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:49:25 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:49:25 --> Controller Class Initialized
+INFO - 2015-06-30 11:49:25 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:49:25 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:49:25 --> Model Class Initialized
+INFO - 2015-06-30 11:49:25 --> Model Class Initialized
+INFO - 2015-06-30 11:49:25 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:49:25 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:49:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:49:25 --> Model Class Initialized
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:49:25 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:49:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:49:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:49:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:49:25 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:49:25 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:49:25 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:49:25 --> Final output sent to browser
+DEBUG - 2015-06-30 11:49:25 --> Total execution time: 0.1760
+INFO - 2015-06-30 11:49:28 --> Config Class Initialized
+INFO - 2015-06-30 11:49:28 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:49:28 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:49:28 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:49:28 --> URI Class Initialized
+INFO - 2015-06-30 11:49:28 --> Router Class Initialized
+INFO - 2015-06-30 11:49:28 --> Output Class Initialized
+INFO - 2015-06-30 11:49:28 --> Security Class Initialized
+DEBUG - 2015-06-30 11:49:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:49:28 --> Input Class Initialized
+INFO - 2015-06-30 11:49:28 --> Language Class Initialized
+INFO - 2015-06-30 11:49:28 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:49:28 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:49:28 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:49:28 --> Controller Class Initialized
+INFO - 2015-06-30 11:49:28 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:49:28 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:49:28 --> Model Class Initialized
+INFO - 2015-06-30 11:49:28 --> Model Class Initialized
+INFO - 2015-06-30 11:49:28 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:49:28 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:49:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:49:28 --> Model Class Initialized
+DEBUG - 2015-06-30 11:49:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:49:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:49:28 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:49:28 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:49:28 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:49:28 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+INFO - 2015-06-30 11:49:28 --> Final output sent to browser
+DEBUG - 2015-06-30 11:49:28 --> Total execution time: 0.1130
+INFO - 2015-06-30 11:51:06 --> Config Class Initialized
+INFO - 2015-06-30 11:51:06 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:51:06 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:51:06 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:51:06 --> URI Class Initialized
+INFO - 2015-06-30 11:51:06 --> Router Class Initialized
+INFO - 2015-06-30 11:51:06 --> Output Class Initialized
+INFO - 2015-06-30 11:51:06 --> Security Class Initialized
+DEBUG - 2015-06-30 11:51:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:51:06 --> Input Class Initialized
+INFO - 2015-06-30 11:51:06 --> Language Class Initialized
+INFO - 2015-06-30 11:51:06 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:51:06 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:51:06 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:51:06 --> Controller Class Initialized
+INFO - 2015-06-30 11:51:06 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:51:06 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:51:06 --> Model Class Initialized
+INFO - 2015-06-30 11:51:06 --> Model Class Initialized
+INFO - 2015-06-30 11:51:06 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:51:07 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:51:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:51:07 --> Model Class Initialized
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:51:07 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:51:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:51:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:51:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:51:07 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:51:07 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:51:07 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:51:07 --> Final output sent to browser
+DEBUG - 2015-06-30 11:51:07 --> Total execution time: 0.1480
+INFO - 2015-06-30 11:51:09 --> Config Class Initialized
+INFO - 2015-06-30 11:51:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:51:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:51:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:51:09 --> URI Class Initialized
+INFO - 2015-06-30 11:51:09 --> Router Class Initialized
+INFO - 2015-06-30 11:51:09 --> Output Class Initialized
+INFO - 2015-06-30 11:51:09 --> Security Class Initialized
+DEBUG - 2015-06-30 11:51:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:51:09 --> Input Class Initialized
+INFO - 2015-06-30 11:51:09 --> Language Class Initialized
+INFO - 2015-06-30 11:51:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:51:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:51:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:51:09 --> Controller Class Initialized
+INFO - 2015-06-30 11:51:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:51:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:51:09 --> Model Class Initialized
+INFO - 2015-06-30 11:51:09 --> Model Class Initialized
+INFO - 2015-06-30 11:51:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:51:09 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:51:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:51:09 --> Model Class Initialized
+DEBUG - 2015-06-30 11:51:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:51:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:51:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:51:09 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:51:09 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:51:09 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 11:51:09 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 11:51:09 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 11:51:09 --> Final output sent to browser
+DEBUG - 2015-06-30 11:51:09 --> Total execution time: 0.1140
+INFO - 2015-06-30 11:58:50 --> Config Class Initialized
+INFO - 2015-06-30 11:58:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:58:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:58:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:58:50 --> URI Class Initialized
+INFO - 2015-06-30 11:58:50 --> Router Class Initialized
+INFO - 2015-06-30 11:58:50 --> Output Class Initialized
+INFO - 2015-06-30 11:58:50 --> Security Class Initialized
+DEBUG - 2015-06-30 11:58:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:58:50 --> Input Class Initialized
+INFO - 2015-06-30 11:58:50 --> Language Class Initialized
+INFO - 2015-06-30 11:58:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:58:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:58:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:58:50 --> Controller Class Initialized
+INFO - 2015-06-30 11:58:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:58:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:58:50 --> Model Class Initialized
+INFO - 2015-06-30 11:58:50 --> Model Class Initialized
+INFO - 2015-06-30 11:58:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:58:50 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:58:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:58:50 --> Model Class Initialized
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 11:58:50 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 11:58:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:58:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 11:58:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 11:58:50 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 11:58:50 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 11:58:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 11:58:50 --> Final output sent to browser
+DEBUG - 2015-06-30 11:58:50 --> Total execution time: 0.1460
+INFO - 2015-06-30 11:58:52 --> Config Class Initialized
+INFO - 2015-06-30 11:58:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 11:58:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 11:58:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 11:58:52 --> URI Class Initialized
+INFO - 2015-06-30 11:58:52 --> Router Class Initialized
+INFO - 2015-06-30 11:58:52 --> Output Class Initialized
+INFO - 2015-06-30 11:58:52 --> Security Class Initialized
+DEBUG - 2015-06-30 11:58:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 11:58:52 --> Input Class Initialized
+INFO - 2015-06-30 11:58:52 --> Language Class Initialized
+INFO - 2015-06-30 11:58:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 11:58:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 11:58:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 11:58:52 --> Controller Class Initialized
+INFO - 2015-06-30 11:58:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 11:58:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 11:58:52 --> Model Class Initialized
+INFO - 2015-06-30 11:58:52 --> Model Class Initialized
+INFO - 2015-06-30 11:58:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 11:58:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 11:58:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 11:58:53 --> Model Class Initialized
+DEBUG - 2015-06-30 11:58:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 11:58:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:58:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 11:58:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 11:58:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 11:58:53 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 11:58:53 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 11:58:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 11:58:53 --> Final output sent to browser
+DEBUG - 2015-06-30 11:58:53 --> Total execution time: 0.1360
+INFO - 2015-06-30 12:01:52 --> Config Class Initialized
+INFO - 2015-06-30 12:01:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:01:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:01:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:01:52 --> URI Class Initialized
+INFO - 2015-06-30 12:01:52 --> Router Class Initialized
+INFO - 2015-06-30 12:01:52 --> Output Class Initialized
+INFO - 2015-06-30 12:01:52 --> Security Class Initialized
+DEBUG - 2015-06-30 12:01:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:01:52 --> Input Class Initialized
+INFO - 2015-06-30 12:01:52 --> Language Class Initialized
+INFO - 2015-06-30 12:01:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:01:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:01:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:01:52 --> Controller Class Initialized
+INFO - 2015-06-30 12:01:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:01:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:01:52 --> Model Class Initialized
+INFO - 2015-06-30 12:01:52 --> Model Class Initialized
+INFO - 2015-06-30 12:01:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:01:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:01:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:01:55 --> Model Class Initialized
+DEBUG - 2015-06-30 12:01:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:01:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:01:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:01:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:01:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:01:55 --> select WEEK(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by WEEK(col_time)
+DEBUG - 2015-06-30 12:01:55 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:01:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:01:55 --> Final output sent to browser
+DEBUG - 2015-06-30 12:01:55 --> Total execution time: 2.5811
+INFO - 2015-06-30 12:03:34 --> Config Class Initialized
+INFO - 2015-06-30 12:03:34 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:03:34 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:03:34 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:03:34 --> URI Class Initialized
+INFO - 2015-06-30 12:03:34 --> Router Class Initialized
+INFO - 2015-06-30 12:03:34 --> Output Class Initialized
+INFO - 2015-06-30 12:03:34 --> Security Class Initialized
+DEBUG - 2015-06-30 12:03:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:03:34 --> Input Class Initialized
+INFO - 2015-06-30 12:03:34 --> Language Class Initialized
+INFO - 2015-06-30 12:03:34 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:03:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:03:34 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:03:34 --> Controller Class Initialized
+INFO - 2015-06-30 12:03:34 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:03:34 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:03:34 --> Model Class Initialized
+INFO - 2015-06-30 12:03:34 --> Model Class Initialized
+INFO - 2015-06-30 12:03:34 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:03:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:03:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:03:34 --> Model Class Initialized
+DEBUG - 2015-06-30 12:03:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:03:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:03:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:03:34 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:03:34 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:03:34 --> select WEEKDAY(col_time)+1 mon,count(col_id) count ,
+        (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='Y') county ,
+        (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='N') countn
+         from ticket where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_time) group by WEEKDAY(col_time) order by col_time
+DEBUG - 2015-06-30 12:03:34 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:03:34 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:03:34 --> Final output sent to browser
+DEBUG - 2015-06-30 12:03:34 --> Total execution time: 0.1470
+INFO - 2015-06-30 12:03:53 --> Config Class Initialized
+INFO - 2015-06-30 12:03:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:03:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:03:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:03:53 --> URI Class Initialized
+INFO - 2015-06-30 12:03:53 --> Router Class Initialized
+INFO - 2015-06-30 12:03:53 --> Output Class Initialized
+INFO - 2015-06-30 12:03:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:03:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:03:53 --> Input Class Initialized
+INFO - 2015-06-30 12:03:53 --> Language Class Initialized
+INFO - 2015-06-30 12:03:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:03:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:03:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:03:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:03:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:03:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:03:53 --> Model Class Initialized
+INFO - 2015-06-30 12:03:53 --> Model Class Initialized
+INFO - 2015-06-30 12:03:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:03:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:03:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:03:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:03:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:03:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:03:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:03:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:03:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:03:53 --> select DAYOFMONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='N') countn
+        from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) group by DAYOFMONTH(col_time) order by col_time
+DEBUG - 2015-06-30 12:03:53 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:03:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:03:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:03:53 --> Total execution time: 0.1310
+INFO - 2015-06-30 12:05:29 --> Config Class Initialized
+INFO - 2015-06-30 12:05:29 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:05:29 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:05:29 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:05:29 --> URI Class Initialized
+INFO - 2015-06-30 12:05:29 --> Router Class Initialized
+INFO - 2015-06-30 12:05:29 --> Output Class Initialized
+INFO - 2015-06-30 12:05:29 --> Security Class Initialized
+DEBUG - 2015-06-30 12:05:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:05:29 --> Input Class Initialized
+INFO - 2015-06-30 12:05:29 --> Language Class Initialized
+INFO - 2015-06-30 12:05:29 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:05:29 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:05:29 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:05:29 --> Controller Class Initialized
+INFO - 2015-06-30 12:05:29 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:05:29 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:05:29 --> Model Class Initialized
+INFO - 2015-06-30 12:05:29 --> Model Class Initialized
+INFO - 2015-06-30 12:05:29 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:05:29 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:05:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:05:29 --> Model Class Initialized
+DEBUG - 2015-06-30 12:05:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:05:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:05:29 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:05:29 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:05:29 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:05:29 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:05:29 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:05:29 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:05:29 --> Final output sent to browser
+DEBUG - 2015-06-30 12:05:29 --> Total execution time: 0.1180
+INFO - 2015-06-30 12:06:07 --> Config Class Initialized
+INFO - 2015-06-30 12:06:07 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:06:07 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:06:07 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:06:07 --> URI Class Initialized
+INFO - 2015-06-30 12:06:07 --> Router Class Initialized
+INFO - 2015-06-30 12:06:07 --> Output Class Initialized
+INFO - 2015-06-30 12:06:07 --> Security Class Initialized
+DEBUG - 2015-06-30 12:06:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:06:07 --> Input Class Initialized
+INFO - 2015-06-30 12:06:07 --> Language Class Initialized
+INFO - 2015-06-30 12:06:07 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:06:07 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:06:07 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:06:07 --> Controller Class Initialized
+INFO - 2015-06-30 12:06:07 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:06:07 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:06:07 --> Model Class Initialized
+INFO - 2015-06-30 12:06:07 --> Model Class Initialized
+INFO - 2015-06-30 12:06:07 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:06:07 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:06:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:06:07 --> Model Class Initialized
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:06:07 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:06:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:06:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:06:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:06:07 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:06:07 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:06:07 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:06:07 --> Final output sent to browser
+DEBUG - 2015-06-30 12:06:07 --> Total execution time: 0.1560
+INFO - 2015-06-30 12:07:48 --> Config Class Initialized
+INFO - 2015-06-30 12:07:48 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:48 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:48 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:48 --> URI Class Initialized
+INFO - 2015-06-30 12:07:48 --> Router Class Initialized
+INFO - 2015-06-30 12:07:48 --> Output Class Initialized
+INFO - 2015-06-30 12:07:48 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:48 --> Input Class Initialized
+INFO - 2015-06-30 12:07:48 --> Language Class Initialized
+INFO - 2015-06-30 12:07:48 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:48 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:48 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:48 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:48 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:07:48 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:48 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:48 --> Model Class Initialized
+INFO - 2015-06-30 12:07:48 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:07:48 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:07:48 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 12:07:48 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:07:48 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:48 --> Total execution time: 0.1250
+INFO - 2015-06-30 12:07:52 --> Config Class Initialized
+INFO - 2015-06-30 12:07:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:52 --> URI Class Initialized
+INFO - 2015-06-30 12:07:52 --> Router Class Initialized
+INFO - 2015-06-30 12:07:52 --> Output Class Initialized
+INFO - 2015-06-30 12:07:52 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:52 --> Input Class Initialized
+INFO - 2015-06-30 12:07:52 --> Language Class Initialized
+INFO - 2015-06-30 12:07:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:52 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:52 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:07:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:52 --> Model Class Initialized
+INFO - 2015-06-30 12:07:52 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:07:52 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:07:52 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2, 2
+INFO - 2015-06-30 12:07:52 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:07:52 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:52 --> Total execution time: 0.2050
+INFO - 2015-06-30 12:07:53 --> Config Class Initialized
+INFO - 2015-06-30 12:07:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:53 --> URI Class Initialized
+INFO - 2015-06-30 12:07:53 --> Router Class Initialized
+INFO - 2015-06-30 12:07:53 --> Output Class Initialized
+INFO - 2015-06-30 12:07:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:53 --> Input Class Initialized
+INFO - 2015-06-30 12:07:53 --> Language Class Initialized
+INFO - 2015-06-30 12:07:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:53 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:07:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:53 --> Model Class Initialized
+INFO - 2015-06-30 12:07:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:07:53 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 4, 2
+INFO - 2015-06-30 12:07:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:07:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:53 --> Total execution time: 0.2020
+INFO - 2015-06-30 12:07:53 --> Config Class Initialized
+INFO - 2015-06-30 12:07:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:53 --> URI Class Initialized
+INFO - 2015-06-30 12:07:53 --> Router Class Initialized
+INFO - 2015-06-30 12:07:53 --> Output Class Initialized
+INFO - 2015-06-30 12:07:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:53 --> Input Class Initialized
+INFO - 2015-06-30 12:07:53 --> Language Class Initialized
+INFO - 2015-06-30 12:07:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:53 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:07:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:53 --> Model Class Initialized
+INFO - 2015-06-30 12:07:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:07:53 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:07:53 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 6, 2
+INFO - 2015-06-30 12:07:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:07:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:53 --> Total execution time: 0.2300
+INFO - 2015-06-30 12:07:55 --> Config Class Initialized
+INFO - 2015-06-30 12:07:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:55 --> URI Class Initialized
+INFO - 2015-06-30 12:07:55 --> Router Class Initialized
+INFO - 2015-06-30 12:07:55 --> Output Class Initialized
+INFO - 2015-06-30 12:07:55 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:55 --> Input Class Initialized
+INFO - 2015-06-30 12:07:55 --> Language Class Initialized
+INFO - 2015-06-30 12:07:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:55 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:55 --> Model Class Initialized
+INFO - 2015-06-30 12:07:55 --> Model Class Initialized
+INFO - 2015-06-30 12:07:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:07:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:55 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:07:55 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:07:55 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:07:55 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:07:55 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:07:55 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:07:55 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:07:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:07:55 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:55 --> Total execution time: 0.2110
+INFO - 2015-06-30 12:07:55 --> Config Class Initialized
+INFO - 2015-06-30 12:07:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:07:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:07:55 --> URI Class Initialized
+INFO - 2015-06-30 12:07:55 --> Router Class Initialized
+INFO - 2015-06-30 12:07:55 --> Output Class Initialized
+INFO - 2015-06-30 12:07:55 --> Security Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:07:55 --> Input Class Initialized
+INFO - 2015-06-30 12:07:55 --> Language Class Initialized
+INFO - 2015-06-30 12:07:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:07:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:07:55 --> Controller Class Initialized
+INFO - 2015-06-30 12:07:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:07:55 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:07:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:07:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:07:55 --> Model Class Initialized
+INFO - 2015-06-30 12:07:55 --> Model Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:07:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:07:55 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:07:55 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 12:07:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:07:55 --> Final output sent to browser
+DEBUG - 2015-06-30 12:07:55 --> Total execution time: 0.1350
+INFO - 2015-06-30 12:09:32 --> Config Class Initialized
+INFO - 2015-06-30 12:09:32 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:09:32 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:09:32 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:09:32 --> URI Class Initialized
+INFO - 2015-06-30 12:09:32 --> Router Class Initialized
+INFO - 2015-06-30 12:09:32 --> Output Class Initialized
+INFO - 2015-06-30 12:09:32 --> Security Class Initialized
+DEBUG - 2015-06-30 12:09:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:09:32 --> Input Class Initialized
+INFO - 2015-06-30 12:09:32 --> Language Class Initialized
+INFO - 2015-06-30 12:09:32 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:09:32 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:09:32 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:09:32 --> Controller Class Initialized
+INFO - 2015-06-30 12:09:32 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:09:32 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:09:32 --> Model Class Initialized
+INFO - 2015-06-30 12:09:32 --> Model Class Initialized
+INFO - 2015-06-30 12:09:32 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:09:32 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:09:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:09:32 --> Model Class Initialized
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:09:32 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:09:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:09:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:09:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:09:32 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:09:32 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:09:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:09:32 --> Final output sent to browser
+DEBUG - 2015-06-30 12:09:32 --> Total execution time: 0.1650
+INFO - 2015-06-30 12:16:53 --> Config Class Initialized
+INFO - 2015-06-30 12:16:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:16:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:16:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:16:53 --> URI Class Initialized
+INFO - 2015-06-30 12:16:53 --> Router Class Initialized
+INFO - 2015-06-30 12:16:53 --> Output Class Initialized
+INFO - 2015-06-30 12:16:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:16:53 --> Input Class Initialized
+INFO - 2015-06-30 12:16:53 --> Language Class Initialized
+INFO - 2015-06-30 12:16:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:16:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:16:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:16:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:16:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:16:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:16:53 --> Model Class Initialized
+INFO - 2015-06-30 12:16:53 --> Model Class Initialized
+INFO - 2015-06-30 12:16:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:16:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:16:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:16:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:16:53 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:16:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:16:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:16:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:16:53 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:16:53 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:16:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:16:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:16:53 --> Total execution time: 0.1550
+INFO - 2015-06-30 12:16:55 --> Config Class Initialized
+INFO - 2015-06-30 12:16:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:16:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:16:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:16:55 --> URI Class Initialized
+INFO - 2015-06-30 12:16:55 --> Router Class Initialized
+INFO - 2015-06-30 12:16:55 --> Output Class Initialized
+INFO - 2015-06-30 12:16:55 --> Security Class Initialized
+DEBUG - 2015-06-30 12:16:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:16:55 --> Input Class Initialized
+INFO - 2015-06-30 12:16:55 --> Language Class Initialized
+INFO - 2015-06-30 12:16:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:16:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:16:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:16:55 --> Controller Class Initialized
+INFO - 2015-06-30 12:16:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:16:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:16:55 --> Model Class Initialized
+INFO - 2015-06-30 12:16:55 --> Model Class Initialized
+INFO - 2015-06-30 12:16:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:16:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:16:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:16:55 --> Model Class Initialized
+DEBUG - 2015-06-30 12:16:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:16:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:16:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:16:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:16:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:16:55 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:16:55 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:16:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:16:55 --> Final output sent to browser
+DEBUG - 2015-06-30 12:16:55 --> Total execution time: 0.1220
+INFO - 2015-06-30 12:17:51 --> Config Class Initialized
+INFO - 2015-06-30 12:17:51 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:17:51 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:17:51 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:17:51 --> URI Class Initialized
+INFO - 2015-06-30 12:17:51 --> Router Class Initialized
+INFO - 2015-06-30 12:17:51 --> Output Class Initialized
+INFO - 2015-06-30 12:17:51 --> Security Class Initialized
+DEBUG - 2015-06-30 12:17:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:17:51 --> Input Class Initialized
+INFO - 2015-06-30 12:17:51 --> Language Class Initialized
+INFO - 2015-06-30 12:17:51 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:17:51 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:17:51 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:17:51 --> Controller Class Initialized
+INFO - 2015-06-30 12:17:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:17:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:17:51 --> Model Class Initialized
+INFO - 2015-06-30 12:17:51 --> Model Class Initialized
+INFO - 2015-06-30 12:17:51 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:17:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:17:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:17:51 --> Model Class Initialized
+DEBUG - 2015-06-30 12:17:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:17:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:17:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:17:51 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:17:51 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:17:51 --> select WEEK(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where WEEK(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by WEEK(col_time)
+DEBUG - 2015-06-30 12:17:51 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:17:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:17:51 --> Final output sent to browser
+DEBUG - 2015-06-30 12:17:51 --> Total execution time: 0.1180
+INFO - 2015-06-30 12:18:46 --> Config Class Initialized
+INFO - 2015-06-30 12:18:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:18:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:18:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:18:46 --> URI Class Initialized
+INFO - 2015-06-30 12:18:46 --> Router Class Initialized
+INFO - 2015-06-30 12:18:46 --> Output Class Initialized
+INFO - 2015-06-30 12:18:46 --> Security Class Initialized
+DEBUG - 2015-06-30 12:18:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:18:46 --> Input Class Initialized
+INFO - 2015-06-30 12:18:46 --> Language Class Initialized
+INFO - 2015-06-30 12:18:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:18:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:18:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:18:46 --> Controller Class Initialized
+INFO - 2015-06-30 12:18:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:18:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:18:46 --> Model Class Initialized
+INFO - 2015-06-30 12:18:46 --> Model Class Initialized
+INFO - 2015-06-30 12:18:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:18:46 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:18:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:18:46 --> Model Class Initialized
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:18:46 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:18:46 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:18:46 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:18:46 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:18:46 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:18:46 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:18:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:18:46 --> Final output sent to browser
+DEBUG - 2015-06-30 12:18:46 --> Total execution time: 0.1570
+INFO - 2015-06-30 12:18:48 --> Config Class Initialized
+INFO - 2015-06-30 12:18:48 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:18:48 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:18:48 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:18:48 --> URI Class Initialized
+INFO - 2015-06-30 12:18:48 --> Router Class Initialized
+INFO - 2015-06-30 12:18:48 --> Output Class Initialized
+INFO - 2015-06-30 12:18:48 --> Security Class Initialized
+DEBUG - 2015-06-30 12:18:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:18:48 --> Input Class Initialized
+INFO - 2015-06-30 12:18:48 --> Language Class Initialized
+INFO - 2015-06-30 12:18:48 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:18:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:18:48 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:18:48 --> Controller Class Initialized
+INFO - 2015-06-30 12:18:48 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:18:48 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:18:48 --> Model Class Initialized
+INFO - 2015-06-30 12:18:48 --> Model Class Initialized
+INFO - 2015-06-30 12:18:48 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:18:48 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:18:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:18:48 --> Model Class Initialized
+DEBUG - 2015-06-30 12:18:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:18:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:18:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:18:48 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:18:48 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:18:48 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:18:48 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:18:48 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:18:48 --> Final output sent to browser
+DEBUG - 2015-06-30 12:18:48 --> Total execution time: 0.1080
+INFO - 2015-06-30 12:19:44 --> Config Class Initialized
+INFO - 2015-06-30 12:19:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:19:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:19:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:19:44 --> URI Class Initialized
+INFO - 2015-06-30 12:19:44 --> Router Class Initialized
+INFO - 2015-06-30 12:19:44 --> Output Class Initialized
+INFO - 2015-06-30 12:19:44 --> Security Class Initialized
+DEBUG - 2015-06-30 12:19:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:19:44 --> Input Class Initialized
+INFO - 2015-06-30 12:19:44 --> Language Class Initialized
+INFO - 2015-06-30 12:19:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:19:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:19:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:19:44 --> Controller Class Initialized
+INFO - 2015-06-30 12:19:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:19:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:19:44 --> Model Class Initialized
+INFO - 2015-06-30 12:19:44 --> Model Class Initialized
+INFO - 2015-06-30 12:19:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:19:44 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:19:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:19:44 --> Model Class Initialized
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:19:44 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:19:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:19:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:19:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:19:44 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:19:44 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:19:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:19:44 --> Final output sent to browser
+DEBUG - 2015-06-30 12:19:44 --> Total execution time: 0.1600
+INFO - 2015-06-30 12:19:46 --> Config Class Initialized
+INFO - 2015-06-30 12:19:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:19:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:19:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:19:46 --> URI Class Initialized
+INFO - 2015-06-30 12:19:46 --> Router Class Initialized
+INFO - 2015-06-30 12:19:46 --> Output Class Initialized
+INFO - 2015-06-30 12:19:46 --> Security Class Initialized
+DEBUG - 2015-06-30 12:19:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:19:46 --> Input Class Initialized
+INFO - 2015-06-30 12:19:46 --> Language Class Initialized
+INFO - 2015-06-30 12:19:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:19:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:19:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:19:46 --> Controller Class Initialized
+INFO - 2015-06-30 12:19:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:19:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:19:46 --> Model Class Initialized
+INFO - 2015-06-30 12:19:46 --> Model Class Initialized
+INFO - 2015-06-30 12:19:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:19:46 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:19:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:19:46 --> Model Class Initialized
+DEBUG - 2015-06-30 12:19:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:19:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:19:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:19:46 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:19:46 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:19:46 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:19:46 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:19:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:19:46 --> Final output sent to browser
+DEBUG - 2015-06-30 12:19:46 --> Total execution time: 0.1300
+INFO - 2015-06-30 12:21:14 --> Config Class Initialized
+INFO - 2015-06-30 12:21:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:21:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:21:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:21:14 --> URI Class Initialized
+INFO - 2015-06-30 12:21:14 --> Router Class Initialized
+INFO - 2015-06-30 12:21:14 --> Output Class Initialized
+INFO - 2015-06-30 12:21:14 --> Security Class Initialized
+DEBUG - 2015-06-30 12:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:21:14 --> Input Class Initialized
+INFO - 2015-06-30 12:21:14 --> Language Class Initialized
+INFO - 2015-06-30 12:21:14 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:21:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:21:14 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:21:14 --> Controller Class Initialized
+INFO - 2015-06-30 12:21:14 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:21:14 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:21:14 --> Model Class Initialized
+INFO - 2015-06-30 12:21:14 --> Model Class Initialized
+INFO - 2015-06-30 12:21:14 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:21:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:21:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:21:14 --> Model Class Initialized
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:21:14 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:21:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:21:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:21:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:21:14 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:21:14 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:21:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:21:14 --> Final output sent to browser
+DEBUG - 2015-06-30 12:21:14 --> Total execution time: 0.1710
+INFO - 2015-06-30 12:21:17 --> Config Class Initialized
+INFO - 2015-06-30 12:21:17 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:21:17 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:21:17 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:21:17 --> URI Class Initialized
+INFO - 2015-06-30 12:21:17 --> Router Class Initialized
+INFO - 2015-06-30 12:21:17 --> Output Class Initialized
+INFO - 2015-06-30 12:21:17 --> Security Class Initialized
+DEBUG - 2015-06-30 12:21:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:21:17 --> Input Class Initialized
+INFO - 2015-06-30 12:21:17 --> Language Class Initialized
+INFO - 2015-06-30 12:21:17 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:21:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:21:17 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:21:17 --> Controller Class Initialized
+INFO - 2015-06-30 12:21:17 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:21:17 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:21:17 --> Model Class Initialized
+INFO - 2015-06-30 12:21:17 --> Model Class Initialized
+INFO - 2015-06-30 12:21:17 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:21:17 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:21:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:21:17 --> Model Class Initialized
+DEBUG - 2015-06-30 12:21:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:21:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:21:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:21:17 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:21:17 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:21:17 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:21:17 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:21:17 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:21:17 --> Final output sent to browser
+DEBUG - 2015-06-30 12:21:17 --> Total execution time: 0.1300
+INFO - 2015-06-30 12:23:43 --> Config Class Initialized
+INFO - 2015-06-30 12:23:43 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:23:43 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:23:43 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:23:43 --> URI Class Initialized
+INFO - 2015-06-30 12:23:43 --> Router Class Initialized
+INFO - 2015-06-30 12:23:43 --> Output Class Initialized
+INFO - 2015-06-30 12:23:43 --> Security Class Initialized
+DEBUG - 2015-06-30 12:23:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:23:43 --> Input Class Initialized
+INFO - 2015-06-30 12:23:43 --> Language Class Initialized
+INFO - 2015-06-30 12:23:43 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:23:43 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:23:43 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:23:43 --> Controller Class Initialized
+INFO - 2015-06-30 12:23:43 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:23:43 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:23:43 --> Model Class Initialized
+INFO - 2015-06-30 12:23:43 --> Model Class Initialized
+INFO - 2015-06-30 12:23:43 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:23:43 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:23:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:23:43 --> Model Class Initialized
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:23:43 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:23:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:23:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:23:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:23:43 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:23:43 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:23:43 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:23:43 --> Final output sent to browser
+DEBUG - 2015-06-30 12:23:43 --> Total execution time: 0.1610
+INFO - 2015-06-30 12:23:48 --> Config Class Initialized
+INFO - 2015-06-30 12:23:48 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:23:48 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:23:48 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:23:48 --> URI Class Initialized
+INFO - 2015-06-30 12:23:48 --> Router Class Initialized
+INFO - 2015-06-30 12:23:48 --> Output Class Initialized
+INFO - 2015-06-30 12:23:48 --> Security Class Initialized
+DEBUG - 2015-06-30 12:23:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:23:48 --> Input Class Initialized
+INFO - 2015-06-30 12:23:48 --> Language Class Initialized
+INFO - 2015-06-30 12:23:48 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:23:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:23:48 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:23:48 --> Controller Class Initialized
+INFO - 2015-06-30 12:23:48 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:23:48 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:23:48 --> Model Class Initialized
+INFO - 2015-06-30 12:23:48 --> Model Class Initialized
+INFO - 2015-06-30 12:23:48 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:23:48 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:23:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:23:48 --> Model Class Initialized
+DEBUG - 2015-06-30 12:23:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:23:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:23:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:23:48 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:23:48 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:23:48 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:23:48 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:23:48 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:23:48 --> Final output sent to browser
+DEBUG - 2015-06-30 12:23:48 --> Total execution time: 0.1250
+INFO - 2015-06-30 12:24:03 --> Config Class Initialized
+INFO - 2015-06-30 12:24:03 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:24:03 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:24:03 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:24:03 --> URI Class Initialized
+INFO - 2015-06-30 12:24:03 --> Router Class Initialized
+INFO - 2015-06-30 12:24:03 --> Output Class Initialized
+INFO - 2015-06-30 12:24:03 --> Security Class Initialized
+DEBUG - 2015-06-30 12:24:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:24:03 --> Input Class Initialized
+INFO - 2015-06-30 12:24:03 --> Language Class Initialized
+INFO - 2015-06-30 12:24:03 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:24:03 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:24:03 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:24:03 --> Controller Class Initialized
+INFO - 2015-06-30 12:24:03 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:24:03 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:24:03 --> Model Class Initialized
+INFO - 2015-06-30 12:24:03 --> Model Class Initialized
+INFO - 2015-06-30 12:24:03 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:24:03 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:24:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:24:03 --> Model Class Initialized
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:24:03 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:24:03 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:24:03 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:24:03 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:24:03 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:24:03 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:24:03 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:24:03 --> Final output sent to browser
+DEBUG - 2015-06-30 12:24:03 --> Total execution time: 0.1490
+INFO - 2015-06-30 12:24:06 --> Config Class Initialized
+INFO - 2015-06-30 12:24:06 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:24:06 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:24:06 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:24:06 --> URI Class Initialized
+INFO - 2015-06-30 12:24:06 --> Router Class Initialized
+INFO - 2015-06-30 12:24:06 --> Output Class Initialized
+INFO - 2015-06-30 12:24:06 --> Security Class Initialized
+DEBUG - 2015-06-30 12:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:24:06 --> Input Class Initialized
+INFO - 2015-06-30 12:24:06 --> Language Class Initialized
+INFO - 2015-06-30 12:24:06 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:24:06 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:24:06 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:24:06 --> Controller Class Initialized
+INFO - 2015-06-30 12:24:06 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:24:06 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:24:06 --> Model Class Initialized
+INFO - 2015-06-30 12:24:06 --> Model Class Initialized
+INFO - 2015-06-30 12:24:06 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:24:06 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:24:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:24:06 --> Model Class Initialized
+DEBUG - 2015-06-30 12:24:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:24:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:24:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:24:06 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:24:06 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:24:06 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:24:06 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:24:06 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:24:06 --> Final output sent to browser
+DEBUG - 2015-06-30 12:24:06 --> Total execution time: 0.1260
+INFO - 2015-06-30 12:26:48 --> Config Class Initialized
+INFO - 2015-06-30 12:26:48 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:26:48 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:26:48 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:26:48 --> URI Class Initialized
+INFO - 2015-06-30 12:26:48 --> Router Class Initialized
+INFO - 2015-06-30 12:26:48 --> Output Class Initialized
+INFO - 2015-06-30 12:26:48 --> Security Class Initialized
+DEBUG - 2015-06-30 12:26:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:26:48 --> Input Class Initialized
+INFO - 2015-06-30 12:26:48 --> Language Class Initialized
+INFO - 2015-06-30 12:26:48 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:26:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:26:48 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:26:48 --> Controller Class Initialized
+INFO - 2015-06-30 12:26:48 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:26:48 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:26:48 --> Model Class Initialized
+INFO - 2015-06-30 12:26:48 --> Model Class Initialized
+INFO - 2015-06-30 12:26:48 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:26:50 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:26:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:26:50 --> Model Class Initialized
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:26:50 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:26:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:26:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:26:50 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:26:50 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:26:50 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:26:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:26:50 --> Final output sent to browser
+DEBUG - 2015-06-30 12:26:50 --> Total execution time: 2.5781
+INFO - 2015-06-30 12:26:53 --> Config Class Initialized
+INFO - 2015-06-30 12:26:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:26:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:26:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:26:53 --> URI Class Initialized
+INFO - 2015-06-30 12:26:53 --> Router Class Initialized
+INFO - 2015-06-30 12:26:53 --> Output Class Initialized
+INFO - 2015-06-30 12:26:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:26:53 --> Input Class Initialized
+INFO - 2015-06-30 12:26:53 --> Language Class Initialized
+INFO - 2015-06-30 12:26:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:26:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:26:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:26:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:26:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:26:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:26:53 --> Model Class Initialized
+INFO - 2015-06-30 12:26:53 --> Model Class Initialized
+INFO - 2015-06-30 12:26:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:26:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:26:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:26:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:26:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:26:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:26:53 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:26:53 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:26:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:26:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:26:53 --> Total execution time: 0.1280
+INFO - 2015-06-30 12:32:31 --> Config Class Initialized
+INFO - 2015-06-30 12:32:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:31 --> URI Class Initialized
+INFO - 2015-06-30 12:32:31 --> Router Class Initialized
+INFO - 2015-06-30 12:32:31 --> Output Class Initialized
+INFO - 2015-06-30 12:32:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:31 --> Input Class Initialized
+INFO - 2015-06-30 12:32:31 --> Language Class Initialized
+INFO - 2015-06-30 12:32:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:31 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:32:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 12:32:31 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 12:32:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 12:32:31 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 12:32:31 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:31 --> Total execution time: 0.0990
+INFO - 2015-06-30 12:32:31 --> Config Class Initialized
+INFO - 2015-06-30 12:32:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:31 --> URI Class Initialized
+INFO - 2015-06-30 12:32:31 --> Router Class Initialized
+INFO - 2015-06-30 12:32:31 --> Output Class Initialized
+INFO - 2015-06-30 12:32:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:31 --> Input Class Initialized
+INFO - 2015-06-30 12:32:31 --> Language Class Initialized
+INFO - 2015-06-30 12:32:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:31 --> Config Class Initialized
+INFO - 2015-06-30 12:32:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:31 --> URI Class Initialized
+INFO - 2015-06-30 12:32:31 --> Router Class Initialized
+INFO - 2015-06-30 12:32:31 --> Output Class Initialized
+INFO - 2015-06-30 12:32:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:31 --> Input Class Initialized
+INFO - 2015-06-30 12:32:31 --> Language Class Initialized
+INFO - 2015-06-30 12:32:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:31 --> Config Class Initialized
+INFO - 2015-06-30 12:32:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:31 --> URI Class Initialized
+INFO - 2015-06-30 12:32:31 --> Router Class Initialized
+INFO - 2015-06-30 12:32:31 --> Output Class Initialized
+INFO - 2015-06-30 12:32:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:31 --> Input Class Initialized
+INFO - 2015-06-30 12:32:31 --> Language Class Initialized
+INFO - 2015-06-30 12:32:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:31 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:32:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 12:32:31 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:31 --> Total execution time: 0.1830
+INFO - 2015-06-30 12:32:31 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:32:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 12:32:31 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:31 --> Total execution time: 0.1890
+INFO - 2015-06-30 12:32:31 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 12:32:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+INFO - 2015-06-30 12:32:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 12:32:31 --> Pagination Class Initialized
+DEBUG - 2015-06-30 12:32:31 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 12:32:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 12:32:31 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:31 --> Total execution time: 0.1990
+INFO - 2015-06-30 12:32:33 --> Config Class Initialized
+INFO - 2015-06-30 12:32:33 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:33 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:33 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:33 --> URI Class Initialized
+INFO - 2015-06-30 12:32:33 --> Router Class Initialized
+INFO - 2015-06-30 12:32:33 --> Output Class Initialized
+INFO - 2015-06-30 12:32:33 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:33 --> Input Class Initialized
+INFO - 2015-06-30 12:32:33 --> Language Class Initialized
+INFO - 2015-06-30 12:32:33 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:33 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:33 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:33 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:33 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:33 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:33 --> Model Class Initialized
+INFO - 2015-06-30 12:32:33 --> Model Class Initialized
+INFO - 2015-06-30 12:32:33 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:33 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:32:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:33 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:32:33 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:32:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:32:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:32:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:32:33 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:32:33 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:32:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:32:33 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:33 --> Total execution time: 0.1530
+INFO - 2015-06-30 12:32:35 --> Config Class Initialized
+INFO - 2015-06-30 12:32:35 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:32:35 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:32:35 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:32:35 --> URI Class Initialized
+INFO - 2015-06-30 12:32:35 --> Router Class Initialized
+INFO - 2015-06-30 12:32:35 --> Output Class Initialized
+INFO - 2015-06-30 12:32:35 --> Security Class Initialized
+DEBUG - 2015-06-30 12:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:32:35 --> Input Class Initialized
+INFO - 2015-06-30 12:32:35 --> Language Class Initialized
+INFO - 2015-06-30 12:32:35 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:32:35 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:32:35 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:32:35 --> Controller Class Initialized
+INFO - 2015-06-30 12:32:35 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:32:35 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:32:35 --> Model Class Initialized
+INFO - 2015-06-30 12:32:35 --> Model Class Initialized
+INFO - 2015-06-30 12:32:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:32:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:32:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:32:36 --> Model Class Initialized
+DEBUG - 2015-06-30 12:32:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:32:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:32:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:32:36 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:32:36 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:32:36 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:32:36 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:32:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:32:36 --> Final output sent to browser
+DEBUG - 2015-06-30 12:32:36 --> Total execution time: 0.1340
+INFO - 2015-06-30 12:33:35 --> Config Class Initialized
+INFO - 2015-06-30 12:33:35 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:33:35 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:33:35 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:33:35 --> URI Class Initialized
+INFO - 2015-06-30 12:33:35 --> Router Class Initialized
+INFO - 2015-06-30 12:33:35 --> Output Class Initialized
+INFO - 2015-06-30 12:33:35 --> Security Class Initialized
+DEBUG - 2015-06-30 12:33:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:33:35 --> Input Class Initialized
+INFO - 2015-06-30 12:33:35 --> Language Class Initialized
+INFO - 2015-06-30 12:33:35 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:33:35 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:33:35 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:33:35 --> Controller Class Initialized
+INFO - 2015-06-30 12:33:35 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:33:35 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:33:35 --> Model Class Initialized
+INFO - 2015-06-30 12:33:35 --> Model Class Initialized
+INFO - 2015-06-30 12:33:35 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:33:35 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:33:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:33:35 --> Model Class Initialized
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:33:35 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:33:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:33:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:33:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:33:35 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:33:35 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:33:35 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:33:35 --> Final output sent to browser
+DEBUG - 2015-06-30 12:33:35 --> Total execution time: 0.1480
+INFO - 2015-06-30 12:33:37 --> Config Class Initialized
+INFO - 2015-06-30 12:33:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:33:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:33:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:33:37 --> URI Class Initialized
+INFO - 2015-06-30 12:33:37 --> Router Class Initialized
+INFO - 2015-06-30 12:33:37 --> Output Class Initialized
+INFO - 2015-06-30 12:33:37 --> Security Class Initialized
+DEBUG - 2015-06-30 12:33:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:33:37 --> Input Class Initialized
+INFO - 2015-06-30 12:33:37 --> Language Class Initialized
+INFO - 2015-06-30 12:33:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:33:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:33:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:33:37 --> Controller Class Initialized
+INFO - 2015-06-30 12:33:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:33:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:33:37 --> Model Class Initialized
+INFO - 2015-06-30 12:33:37 --> Model Class Initialized
+INFO - 2015-06-30 12:33:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:33:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:33:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:33:37 --> Model Class Initialized
+DEBUG - 2015-06-30 12:33:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:33:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:33:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:33:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:33:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:33:37 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:33:37 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:33:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:33:37 --> Final output sent to browser
+DEBUG - 2015-06-30 12:33:37 --> Total execution time: 0.1490
+INFO - 2015-06-30 12:34:52 --> Config Class Initialized
+INFO - 2015-06-30 12:34:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:34:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:34:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:34:52 --> URI Class Initialized
+INFO - 2015-06-30 12:34:52 --> Router Class Initialized
+INFO - 2015-06-30 12:34:52 --> Output Class Initialized
+INFO - 2015-06-30 12:34:52 --> Security Class Initialized
+DEBUG - 2015-06-30 12:34:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:34:52 --> Input Class Initialized
+INFO - 2015-06-30 12:34:52 --> Language Class Initialized
+INFO - 2015-06-30 12:34:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:34:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:34:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:34:52 --> Controller Class Initialized
+INFO - 2015-06-30 12:34:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:34:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:34:52 --> Model Class Initialized
+INFO - 2015-06-30 12:34:52 --> Model Class Initialized
+INFO - 2015-06-30 12:34:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:34:52 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:34:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:34:52 --> Model Class Initialized
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:34:52 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:34:52 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:34:52 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:34:52 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:34:52 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:34:52 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:34:52 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:34:52 --> Final output sent to browser
+DEBUG - 2015-06-30 12:34:52 --> Total execution time: 0.2160
+INFO - 2015-06-30 12:34:54 --> Config Class Initialized
+INFO - 2015-06-30 12:34:54 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:34:54 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:34:54 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:34:54 --> URI Class Initialized
+INFO - 2015-06-30 12:34:54 --> Router Class Initialized
+INFO - 2015-06-30 12:34:54 --> Output Class Initialized
+INFO - 2015-06-30 12:34:54 --> Security Class Initialized
+DEBUG - 2015-06-30 12:34:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:34:54 --> Input Class Initialized
+INFO - 2015-06-30 12:34:54 --> Language Class Initialized
+INFO - 2015-06-30 12:34:54 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:34:54 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:34:54 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:34:54 --> Controller Class Initialized
+INFO - 2015-06-30 12:34:54 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:34:54 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:34:54 --> Model Class Initialized
+INFO - 2015-06-30 12:34:54 --> Model Class Initialized
+INFO - 2015-06-30 12:34:54 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:34:54 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:34:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:34:54 --> Model Class Initialized
+DEBUG - 2015-06-30 12:34:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:34:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:34:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:34:54 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:34:54 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:34:54 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:34:54 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:34:54 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:34:54 --> Final output sent to browser
+DEBUG - 2015-06-30 12:34:54 --> Total execution time: 0.1360
+INFO - 2015-06-30 12:35:07 --> Config Class Initialized
+INFO - 2015-06-30 12:35:07 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:35:07 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:35:07 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:35:07 --> URI Class Initialized
+INFO - 2015-06-30 12:35:07 --> Router Class Initialized
+INFO - 2015-06-30 12:35:07 --> Output Class Initialized
+INFO - 2015-06-30 12:35:07 --> Security Class Initialized
+DEBUG - 2015-06-30 12:35:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:35:07 --> Input Class Initialized
+INFO - 2015-06-30 12:35:07 --> Language Class Initialized
+INFO - 2015-06-30 12:35:07 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:35:07 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:35:07 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:35:07 --> Controller Class Initialized
+INFO - 2015-06-30 12:35:07 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:35:07 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:35:07 --> Model Class Initialized
+INFO - 2015-06-30 12:35:07 --> Model Class Initialized
+INFO - 2015-06-30 12:35:07 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:35:07 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:35:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:35:07 --> Model Class Initialized
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:35:07 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:07 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:07 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:35:07 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:35:07 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:35:07 --> Final output sent to browser
+DEBUG - 2015-06-30 12:35:07 --> Total execution time: 0.1310
+INFO - 2015-06-30 12:35:09 --> Config Class Initialized
+INFO - 2015-06-30 12:35:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:35:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:35:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:35:09 --> URI Class Initialized
+INFO - 2015-06-30 12:35:09 --> Router Class Initialized
+INFO - 2015-06-30 12:35:09 --> Output Class Initialized
+INFO - 2015-06-30 12:35:09 --> Security Class Initialized
+DEBUG - 2015-06-30 12:35:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:35:09 --> Input Class Initialized
+INFO - 2015-06-30 12:35:09 --> Language Class Initialized
+INFO - 2015-06-30 12:35:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:35:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:35:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:35:09 --> Controller Class Initialized
+INFO - 2015-06-30 12:35:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:35:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:35:09 --> Model Class Initialized
+INFO - 2015-06-30 12:35:09 --> Model Class Initialized
+INFO - 2015-06-30 12:35:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:35:09 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:35:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:35:09 --> Model Class Initialized
+DEBUG - 2015-06-30 12:35:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:35:09 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:35:09 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:09 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:35:09 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:35:09 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:35:09 --> Final output sent to browser
+DEBUG - 2015-06-30 12:35:09 --> Total execution time: 0.1460
+INFO - 2015-06-30 12:35:45 --> Config Class Initialized
+INFO - 2015-06-30 12:35:45 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:35:45 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:35:45 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:35:45 --> URI Class Initialized
+INFO - 2015-06-30 12:35:45 --> Router Class Initialized
+INFO - 2015-06-30 12:35:45 --> Output Class Initialized
+INFO - 2015-06-30 12:35:45 --> Security Class Initialized
+DEBUG - 2015-06-30 12:35:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:35:45 --> Input Class Initialized
+INFO - 2015-06-30 12:35:45 --> Language Class Initialized
+INFO - 2015-06-30 12:35:45 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:35:45 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:35:45 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:35:45 --> Controller Class Initialized
+INFO - 2015-06-30 12:35:45 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:35:45 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:35:45 --> Model Class Initialized
+INFO - 2015-06-30 12:35:45 --> Model Class Initialized
+INFO - 2015-06-30 12:35:45 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:35:45 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:35:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:35:45 --> Model Class Initialized
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:35:45 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:45 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:45 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:45 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:35:45 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:35:45 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:35:45 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:35:45 --> Final output sent to browser
+DEBUG - 2015-06-30 12:35:45 --> Total execution time: 0.1750
+INFO - 2015-06-30 12:35:48 --> Config Class Initialized
+INFO - 2015-06-30 12:35:48 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:35:48 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:35:48 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:35:48 --> URI Class Initialized
+INFO - 2015-06-30 12:35:48 --> Router Class Initialized
+INFO - 2015-06-30 12:35:48 --> Output Class Initialized
+INFO - 2015-06-30 12:35:48 --> Security Class Initialized
+DEBUG - 2015-06-30 12:35:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:35:48 --> Input Class Initialized
+INFO - 2015-06-30 12:35:48 --> Language Class Initialized
+INFO - 2015-06-30 12:35:48 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:35:48 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:35:48 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:35:48 --> Controller Class Initialized
+INFO - 2015-06-30 12:35:48 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:35:48 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:35:48 --> Model Class Initialized
+INFO - 2015-06-30 12:35:48 --> Model Class Initialized
+INFO - 2015-06-30 12:35:48 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:35:48 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:35:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:35:48 --> Model Class Initialized
+DEBUG - 2015-06-30 12:35:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:35:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:48 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:35:48 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:35:48 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:35:48 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:35:48 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:35:48 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:35:48 --> Final output sent to browser
+DEBUG - 2015-06-30 12:35:48 --> Total execution time: 0.1620
+INFO - 2015-06-30 12:39:14 --> Config Class Initialized
+INFO - 2015-06-30 12:39:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:39:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:39:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:39:14 --> URI Class Initialized
+INFO - 2015-06-30 12:39:14 --> Router Class Initialized
+INFO - 2015-06-30 12:39:14 --> Output Class Initialized
+INFO - 2015-06-30 12:39:14 --> Security Class Initialized
+DEBUG - 2015-06-30 12:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:39:14 --> Input Class Initialized
+INFO - 2015-06-30 12:39:14 --> Language Class Initialized
+INFO - 2015-06-30 12:39:14 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:39:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:39:14 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:39:14 --> Controller Class Initialized
+INFO - 2015-06-30 12:39:14 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:39:14 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:39:14 --> Model Class Initialized
+INFO - 2015-06-30 12:39:14 --> Model Class Initialized
+INFO - 2015-06-30 12:39:14 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:39:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:39:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:39:15 --> Model Class Initialized
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:39:15 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:39:15 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:39:15 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:39:15 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:39:15 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:39:15 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:39:15 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:39:15 --> Final output sent to browser
+DEBUG - 2015-06-30 12:39:15 --> Total execution time: 0.2340
+INFO - 2015-06-30 12:39:17 --> Config Class Initialized
+INFO - 2015-06-30 12:39:17 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:39:17 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:39:17 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:39:17 --> URI Class Initialized
+INFO - 2015-06-30 12:39:17 --> Router Class Initialized
+INFO - 2015-06-30 12:39:17 --> Output Class Initialized
+INFO - 2015-06-30 12:39:17 --> Security Class Initialized
+DEBUG - 2015-06-30 12:39:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:39:17 --> Input Class Initialized
+INFO - 2015-06-30 12:39:17 --> Language Class Initialized
+INFO - 2015-06-30 12:39:17 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:39:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:39:17 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:39:17 --> Controller Class Initialized
+INFO - 2015-06-30 12:39:17 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:39:17 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:39:17 --> Model Class Initialized
+INFO - 2015-06-30 12:39:17 --> Model Class Initialized
+INFO - 2015-06-30 12:39:17 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:39:17 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:39:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:39:17 --> Model Class Initialized
+DEBUG - 2015-06-30 12:39:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:39:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:39:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:39:17 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:39:17 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:39:17 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:39:17 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:39:17 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:39:17 --> Final output sent to browser
+DEBUG - 2015-06-30 12:39:17 --> Total execution time: 0.1220
+INFO - 2015-06-30 12:41:05 --> Config Class Initialized
+INFO - 2015-06-30 12:41:05 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:05 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:05 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:05 --> URI Class Initialized
+INFO - 2015-06-30 12:41:05 --> Router Class Initialized
+INFO - 2015-06-30 12:41:05 --> Output Class Initialized
+INFO - 2015-06-30 12:41:05 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:05 --> Input Class Initialized
+INFO - 2015-06-30 12:41:05 --> Language Class Initialized
+INFO - 2015-06-30 12:41:05 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:05 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:05 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:05 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:05 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:05 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:05 --> Model Class Initialized
+INFO - 2015-06-30 12:41:05 --> Model Class Initialized
+INFO - 2015-06-30 12:41:05 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:05 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:05 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:41:05 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:05 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:05 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:05 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:05 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:41:05 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:41:05 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:41:05 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:05 --> Total execution time: 0.1460
+INFO - 2015-06-30 12:41:06 --> Config Class Initialized
+INFO - 2015-06-30 12:41:06 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:06 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:06 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:06 --> URI Class Initialized
+INFO - 2015-06-30 12:41:06 --> Router Class Initialized
+INFO - 2015-06-30 12:41:06 --> Output Class Initialized
+INFO - 2015-06-30 12:41:06 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:06 --> Input Class Initialized
+INFO - 2015-06-30 12:41:06 --> Language Class Initialized
+ERROR - 2015-06-30 12:41:06 --> 404 Page Not Found: Yye_xnjhtml/index
+INFO - 2015-06-30 12:41:08 --> Config Class Initialized
+INFO - 2015-06-30 12:41:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:08 --> URI Class Initialized
+INFO - 2015-06-30 12:41:08 --> Router Class Initialized
+INFO - 2015-06-30 12:41:08 --> Output Class Initialized
+INFO - 2015-06-30 12:41:08 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:08 --> Input Class Initialized
+INFO - 2015-06-30 12:41:08 --> Language Class Initialized
+INFO - 2015-06-30 12:41:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:08 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:08 --> Model Class Initialized
+INFO - 2015-06-30 12:41:08 --> Model Class Initialized
+INFO - 2015-06-30 12:41:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:08 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:08 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:41:08 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:08 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:41:08 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:41:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:41:08 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:08 --> Total execution time: 0.1790
+INFO - 2015-06-30 12:41:09 --> Config Class Initialized
+INFO - 2015-06-30 12:41:09 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:09 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:09 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:09 --> URI Class Initialized
+INFO - 2015-06-30 12:41:09 --> Router Class Initialized
+INFO - 2015-06-30 12:41:09 --> Output Class Initialized
+INFO - 2015-06-30 12:41:09 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:09 --> Input Class Initialized
+INFO - 2015-06-30 12:41:09 --> Language Class Initialized
+INFO - 2015-06-30 12:41:09 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:09 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:09 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:09 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:09 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:09 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:09 --> Model Class Initialized
+INFO - 2015-06-30 12:41:09 --> Model Class Initialized
+INFO - 2015-06-30 12:41:09 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:09 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:09 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:09 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:09 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:09 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:09 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:41:09 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:41:09 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:41:09 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:09 --> Total execution time: 0.1380
+INFO - 2015-06-30 12:41:31 --> Config Class Initialized
+INFO - 2015-06-30 12:41:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:31 --> URI Class Initialized
+INFO - 2015-06-30 12:41:31 --> Router Class Initialized
+INFO - 2015-06-30 12:41:31 --> Output Class Initialized
+INFO - 2015-06-30 12:41:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:31 --> Input Class Initialized
+INFO - 2015-06-30 12:41:31 --> Language Class Initialized
+INFO - 2015-06-30 12:41:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:31 --> Model Class Initialized
+INFO - 2015-06-30 12:41:31 --> Model Class Initialized
+INFO - 2015-06-30 12:41:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:31 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:41:31 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:31 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:31 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:41:31 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:41:31 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:41:31 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:31 --> Total execution time: 0.1570
+INFO - 2015-06-30 12:41:32 --> Config Class Initialized
+INFO - 2015-06-30 12:41:32 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:32 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:32 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:32 --> URI Class Initialized
+INFO - 2015-06-30 12:41:32 --> Router Class Initialized
+INFO - 2015-06-30 12:41:32 --> Output Class Initialized
+INFO - 2015-06-30 12:41:32 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:33 --> Input Class Initialized
+INFO - 2015-06-30 12:41:33 --> Language Class Initialized
+INFO - 2015-06-30 12:41:33 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:33 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:33 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:33 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:33 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:33 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:33 --> Model Class Initialized
+INFO - 2015-06-30 12:41:33 --> Model Class Initialized
+INFO - 2015-06-30 12:41:33 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:33 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:33 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:33 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:33 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:33 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:41:33 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:41:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:41:33 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:33 --> Total execution time: 0.2330
+INFO - 2015-06-30 12:41:50 --> Config Class Initialized
+INFO - 2015-06-30 12:41:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:50 --> URI Class Initialized
+INFO - 2015-06-30 12:41:50 --> Router Class Initialized
+INFO - 2015-06-30 12:41:50 --> Output Class Initialized
+INFO - 2015-06-30 12:41:50 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:50 --> Input Class Initialized
+INFO - 2015-06-30 12:41:50 --> Language Class Initialized
+INFO - 2015-06-30 12:41:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:50 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:51 --> Model Class Initialized
+INFO - 2015-06-30 12:41:51 --> Model Class Initialized
+INFO - 2015-06-30 12:41:51 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:51 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:41:51 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:41:51 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:41:51 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:41:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:41:51 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:51 --> Total execution time: 0.1450
+INFO - 2015-06-30 12:41:52 --> Config Class Initialized
+INFO - 2015-06-30 12:41:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:41:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:41:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:41:52 --> URI Class Initialized
+INFO - 2015-06-30 12:41:52 --> Router Class Initialized
+INFO - 2015-06-30 12:41:52 --> Output Class Initialized
+INFO - 2015-06-30 12:41:52 --> Security Class Initialized
+DEBUG - 2015-06-30 12:41:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:41:52 --> Input Class Initialized
+INFO - 2015-06-30 12:41:52 --> Language Class Initialized
+INFO - 2015-06-30 12:41:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:41:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:41:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:41:52 --> Controller Class Initialized
+INFO - 2015-06-30 12:41:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:41:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:41:52 --> Model Class Initialized
+INFO - 2015-06-30 12:41:52 --> Model Class Initialized
+INFO - 2015-06-30 12:41:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:41:52 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:41:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:41:52 --> Model Class Initialized
+DEBUG - 2015-06-30 12:41:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:41:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:52 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:41:52 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:41:52 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:41:52 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:41:52 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:41:52 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:41:52 --> Final output sent to browser
+DEBUG - 2015-06-30 12:41:52 --> Total execution time: 0.1120
+INFO - 2015-06-30 12:42:11 --> Config Class Initialized
+INFO - 2015-06-30 12:42:11 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:42:11 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:42:11 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:42:11 --> URI Class Initialized
+INFO - 2015-06-30 12:42:11 --> Router Class Initialized
+INFO - 2015-06-30 12:42:11 --> Output Class Initialized
+INFO - 2015-06-30 12:42:11 --> Security Class Initialized
+DEBUG - 2015-06-30 12:42:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:42:11 --> Input Class Initialized
+INFO - 2015-06-30 12:42:11 --> Language Class Initialized
+INFO - 2015-06-30 12:42:11 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:42:11 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:42:11 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:42:11 --> Controller Class Initialized
+INFO - 2015-06-30 12:42:11 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:42:11 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:42:11 --> Model Class Initialized
+INFO - 2015-06-30 12:42:11 --> Model Class Initialized
+INFO - 2015-06-30 12:42:11 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:42:11 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:42:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:42:11 --> Model Class Initialized
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:42:11 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:42:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:42:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:42:11 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:42:11 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:42:11 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:42:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:42:11 --> Final output sent to browser
+DEBUG - 2015-06-30 12:42:11 --> Total execution time: 0.1430
+INFO - 2015-06-30 12:42:13 --> Config Class Initialized
+INFO - 2015-06-30 12:42:13 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:42:13 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:42:13 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:42:13 --> URI Class Initialized
+INFO - 2015-06-30 12:42:13 --> Router Class Initialized
+INFO - 2015-06-30 12:42:13 --> Output Class Initialized
+INFO - 2015-06-30 12:42:13 --> Security Class Initialized
+DEBUG - 2015-06-30 12:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:42:13 --> Input Class Initialized
+INFO - 2015-06-30 12:42:13 --> Language Class Initialized
+INFO - 2015-06-30 12:42:13 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:42:13 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:42:13 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:42:13 --> Controller Class Initialized
+INFO - 2015-06-30 12:42:13 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:42:13 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:42:13 --> Model Class Initialized
+INFO - 2015-06-30 12:42:13 --> Model Class Initialized
+INFO - 2015-06-30 12:42:13 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:42:13 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:42:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:42:13 --> Model Class Initialized
+DEBUG - 2015-06-30 12:42:13 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:42:13 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:42:13 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:42:13 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:42:13 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:42:13 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:42:13 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:42:13 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:42:13 --> Final output sent to browser
+DEBUG - 2015-06-30 12:42:13 --> Total execution time: 0.1330
+INFO - 2015-06-30 12:44:06 --> Config Class Initialized
+INFO - 2015-06-30 12:44:06 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:44:06 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:44:06 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:44:06 --> URI Class Initialized
+INFO - 2015-06-30 12:44:06 --> Router Class Initialized
+INFO - 2015-06-30 12:44:06 --> Output Class Initialized
+INFO - 2015-06-30 12:44:06 --> Security Class Initialized
+DEBUG - 2015-06-30 12:44:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:44:06 --> Input Class Initialized
+INFO - 2015-06-30 12:44:06 --> Language Class Initialized
+INFO - 2015-06-30 12:44:06 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:44:06 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:44:06 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:44:06 --> Controller Class Initialized
+INFO - 2015-06-30 12:44:06 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:44:06 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:44:06 --> Model Class Initialized
+INFO - 2015-06-30 12:44:06 --> Model Class Initialized
+INFO - 2015-06-30 12:44:06 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:44:06 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:44:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:44:06 --> Model Class Initialized
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:44:06 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:06 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:06 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:06 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:06 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:44:06 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:44:06 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:44:06 --> Final output sent to browser
+DEBUG - 2015-06-30 12:44:06 --> Total execution time: 0.1580
+INFO - 2015-06-30 12:44:08 --> Config Class Initialized
+INFO - 2015-06-30 12:44:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:44:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:44:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:44:08 --> URI Class Initialized
+INFO - 2015-06-30 12:44:08 --> Router Class Initialized
+INFO - 2015-06-30 12:44:08 --> Output Class Initialized
+INFO - 2015-06-30 12:44:08 --> Security Class Initialized
+DEBUG - 2015-06-30 12:44:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:44:08 --> Input Class Initialized
+INFO - 2015-06-30 12:44:08 --> Language Class Initialized
+INFO - 2015-06-30 12:44:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:44:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:44:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:44:08 --> Controller Class Initialized
+INFO - 2015-06-30 12:44:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:44:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:44:08 --> Model Class Initialized
+INFO - 2015-06-30 12:44:08 --> Model Class Initialized
+INFO - 2015-06-30 12:44:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:44:08 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:44:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:44:08 --> Model Class Initialized
+DEBUG - 2015-06-30 12:44:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:44:08 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:44:08 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:08 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:44:08 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:44:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:44:08 --> Final output sent to browser
+DEBUG - 2015-06-30 12:44:08 --> Total execution time: 0.1340
+INFO - 2015-06-30 12:44:47 --> Config Class Initialized
+INFO - 2015-06-30 12:44:47 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:44:47 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:44:47 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:44:47 --> URI Class Initialized
+INFO - 2015-06-30 12:44:47 --> Router Class Initialized
+INFO - 2015-06-30 12:44:47 --> Output Class Initialized
+INFO - 2015-06-30 12:44:47 --> Security Class Initialized
+DEBUG - 2015-06-30 12:44:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:44:47 --> Input Class Initialized
+INFO - 2015-06-30 12:44:47 --> Language Class Initialized
+INFO - 2015-06-30 12:44:47 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:44:47 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:44:47 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:44:47 --> Controller Class Initialized
+INFO - 2015-06-30 12:44:47 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:44:47 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:44:47 --> Model Class Initialized
+INFO - 2015-06-30 12:44:47 --> Model Class Initialized
+INFO - 2015-06-30 12:44:47 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:44:47 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:44:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:44:47 --> Model Class Initialized
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:44:47 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:44:47 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:44:47 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:44:47 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:44:47 --> Final output sent to browser
+DEBUG - 2015-06-30 12:44:47 --> Total execution time: 0.2790
+INFO - 2015-06-30 12:44:50 --> Config Class Initialized
+INFO - 2015-06-30 12:44:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:44:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:44:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:44:50 --> URI Class Initialized
+INFO - 2015-06-30 12:44:50 --> Router Class Initialized
+INFO - 2015-06-30 12:44:50 --> Output Class Initialized
+INFO - 2015-06-30 12:44:50 --> Security Class Initialized
+DEBUG - 2015-06-30 12:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:44:50 --> Input Class Initialized
+INFO - 2015-06-30 12:44:50 --> Language Class Initialized
+INFO - 2015-06-30 12:44:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:44:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:44:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:44:50 --> Controller Class Initialized
+INFO - 2015-06-30 12:44:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:44:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:44:50 --> Model Class Initialized
+INFO - 2015-06-30 12:44:50 --> Model Class Initialized
+INFO - 2015-06-30 12:44:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:44:50 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:44:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:44:50 --> Model Class Initialized
+DEBUG - 2015-06-30 12:44:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:44:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:44:50 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:44:50 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:44:50 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:44:50 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:44:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:44:50 --> Final output sent to browser
+DEBUG - 2015-06-30 12:44:50 --> Total execution time: 0.1280
+INFO - 2015-06-30 12:45:37 --> Config Class Initialized
+INFO - 2015-06-30 12:45:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:45:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:45:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:45:37 --> URI Class Initialized
+INFO - 2015-06-30 12:45:37 --> Router Class Initialized
+INFO - 2015-06-30 12:45:37 --> Output Class Initialized
+INFO - 2015-06-30 12:45:37 --> Security Class Initialized
+DEBUG - 2015-06-30 12:45:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:45:37 --> Input Class Initialized
+INFO - 2015-06-30 12:45:37 --> Language Class Initialized
+INFO - 2015-06-30 12:45:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:45:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:45:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:45:37 --> Controller Class Initialized
+INFO - 2015-06-30 12:45:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:45:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:45:37 --> Model Class Initialized
+INFO - 2015-06-30 12:45:37 --> Model Class Initialized
+INFO - 2015-06-30 12:45:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:45:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:45:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:45:37 --> Model Class Initialized
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:45:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:45:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:45:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:45:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:45:37 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:45:37 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:45:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:45:37 --> Final output sent to browser
+DEBUG - 2015-06-30 12:45:37 --> Total execution time: 0.1490
+INFO - 2015-06-30 12:45:39 --> Config Class Initialized
+INFO - 2015-06-30 12:45:39 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:45:39 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:45:39 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:45:39 --> URI Class Initialized
+INFO - 2015-06-30 12:45:39 --> Router Class Initialized
+INFO - 2015-06-30 12:45:39 --> Output Class Initialized
+INFO - 2015-06-30 12:45:39 --> Security Class Initialized
+DEBUG - 2015-06-30 12:45:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:45:39 --> Input Class Initialized
+INFO - 2015-06-30 12:45:39 --> Language Class Initialized
+INFO - 2015-06-30 12:45:39 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:45:39 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:45:39 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:45:39 --> Controller Class Initialized
+INFO - 2015-06-30 12:45:39 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:45:39 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:45:39 --> Model Class Initialized
+INFO - 2015-06-30 12:45:39 --> Model Class Initialized
+INFO - 2015-06-30 12:45:39 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:45:39 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:45:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:45:39 --> Model Class Initialized
+DEBUG - 2015-06-30 12:45:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:45:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:45:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:45:39 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:45:39 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:45:39 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:45:39 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:45:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:45:39 --> Final output sent to browser
+DEBUG - 2015-06-30 12:45:39 --> Total execution time: 0.1460
+INFO - 2015-06-30 12:47:31 --> Config Class Initialized
+INFO - 2015-06-30 12:47:31 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:47:31 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:47:31 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:47:31 --> URI Class Initialized
+INFO - 2015-06-30 12:47:31 --> Router Class Initialized
+INFO - 2015-06-30 12:47:31 --> Output Class Initialized
+INFO - 2015-06-30 12:47:31 --> Security Class Initialized
+DEBUG - 2015-06-30 12:47:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:47:31 --> Input Class Initialized
+INFO - 2015-06-30 12:47:31 --> Language Class Initialized
+INFO - 2015-06-30 12:47:31 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:47:31 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:47:31 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:47:31 --> Controller Class Initialized
+INFO - 2015-06-30 12:47:31 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:47:31 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:47:31 --> Model Class Initialized
+INFO - 2015-06-30 12:47:31 --> Model Class Initialized
+INFO - 2015-06-30 12:47:31 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:47:31 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:47:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:47:31 --> Model Class Initialized
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:47:31 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:47:32 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:47:32 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:32 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:32 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:47:32 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:47:32 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:47:32 --> Final output sent to browser
+DEBUG - 2015-06-30 12:47:32 --> Total execution time: 0.1270
+INFO - 2015-06-30 12:47:34 --> Config Class Initialized
+INFO - 2015-06-30 12:47:34 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:47:34 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:47:34 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:47:34 --> URI Class Initialized
+INFO - 2015-06-30 12:47:34 --> Router Class Initialized
+INFO - 2015-06-30 12:47:34 --> Output Class Initialized
+INFO - 2015-06-30 12:47:34 --> Security Class Initialized
+DEBUG - 2015-06-30 12:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:47:34 --> Input Class Initialized
+INFO - 2015-06-30 12:47:34 --> Language Class Initialized
+INFO - 2015-06-30 12:47:34 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:47:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:47:34 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:47:34 --> Controller Class Initialized
+INFO - 2015-06-30 12:47:34 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:47:34 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:47:34 --> Model Class Initialized
+INFO - 2015-06-30 12:47:34 --> Model Class Initialized
+INFO - 2015-06-30 12:47:34 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:47:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:47:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:47:34 --> Model Class Initialized
+DEBUG - 2015-06-30 12:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:47:34 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:47:34 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:34 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:47:34 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:47:34 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:47:34 --> Final output sent to browser
+DEBUG - 2015-06-30 12:47:34 --> Total execution time: 0.1390
+INFO - 2015-06-30 12:47:51 --> Config Class Initialized
+INFO - 2015-06-30 12:47:51 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:47:51 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:47:51 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:47:51 --> URI Class Initialized
+INFO - 2015-06-30 12:47:51 --> Router Class Initialized
+INFO - 2015-06-30 12:47:51 --> Output Class Initialized
+INFO - 2015-06-30 12:47:51 --> Security Class Initialized
+DEBUG - 2015-06-30 12:47:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:47:51 --> Input Class Initialized
+INFO - 2015-06-30 12:47:51 --> Language Class Initialized
+INFO - 2015-06-30 12:47:51 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:47:51 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:47:51 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:47:51 --> Controller Class Initialized
+INFO - 2015-06-30 12:47:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:47:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:47:51 --> Model Class Initialized
+INFO - 2015-06-30 12:47:51 --> Model Class Initialized
+INFO - 2015-06-30 12:47:51 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:47:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:47:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:47:51 --> Model Class Initialized
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:47:51 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:47:51 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:47:51 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:47:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:47:51 --> Final output sent to browser
+DEBUG - 2015-06-30 12:47:51 --> Total execution time: 0.1510
+INFO - 2015-06-30 12:47:54 --> Config Class Initialized
+INFO - 2015-06-30 12:47:54 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:47:54 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:47:54 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:47:54 --> URI Class Initialized
+INFO - 2015-06-30 12:47:54 --> Router Class Initialized
+INFO - 2015-06-30 12:47:54 --> Output Class Initialized
+INFO - 2015-06-30 12:47:54 --> Security Class Initialized
+DEBUG - 2015-06-30 12:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:47:54 --> Input Class Initialized
+INFO - 2015-06-30 12:47:54 --> Language Class Initialized
+INFO - 2015-06-30 12:47:54 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:47:54 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:47:54 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:47:54 --> Controller Class Initialized
+INFO - 2015-06-30 12:47:54 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:47:54 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:47:54 --> Model Class Initialized
+INFO - 2015-06-30 12:47:54 --> Model Class Initialized
+INFO - 2015-06-30 12:47:54 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:47:54 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:47:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:47:54 --> Model Class Initialized
+DEBUG - 2015-06-30 12:47:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:47:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:47:54 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:47:54 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:47:54 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:47:54 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:47:54 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:47:54 --> Final output sent to browser
+DEBUG - 2015-06-30 12:47:54 --> Total execution time: 0.1300
+INFO - 2015-06-30 12:48:44 --> Config Class Initialized
+INFO - 2015-06-30 12:48:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:48:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:48:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:48:44 --> URI Class Initialized
+INFO - 2015-06-30 12:48:44 --> Router Class Initialized
+INFO - 2015-06-30 12:48:44 --> Output Class Initialized
+INFO - 2015-06-30 12:48:44 --> Security Class Initialized
+DEBUG - 2015-06-30 12:48:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:48:44 --> Input Class Initialized
+INFO - 2015-06-30 12:48:44 --> Language Class Initialized
+INFO - 2015-06-30 12:48:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:48:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:48:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:48:44 --> Controller Class Initialized
+INFO - 2015-06-30 12:48:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:48:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:48:44 --> Model Class Initialized
+INFO - 2015-06-30 12:48:44 --> Model Class Initialized
+INFO - 2015-06-30 12:48:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:48:44 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:48:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:48:44 --> Model Class Initialized
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:48:44 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:48:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:48:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:48:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:48:44 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:48:44 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:48:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:48:44 --> Final output sent to browser
+DEBUG - 2015-06-30 12:48:44 --> Total execution time: 0.1440
+INFO - 2015-06-30 12:48:46 --> Config Class Initialized
+INFO - 2015-06-30 12:48:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:48:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:48:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:48:46 --> URI Class Initialized
+INFO - 2015-06-30 12:48:46 --> Router Class Initialized
+INFO - 2015-06-30 12:48:46 --> Output Class Initialized
+INFO - 2015-06-30 12:48:46 --> Security Class Initialized
+DEBUG - 2015-06-30 12:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:48:46 --> Input Class Initialized
+INFO - 2015-06-30 12:48:46 --> Language Class Initialized
+INFO - 2015-06-30 12:48:47 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:48:47 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:48:47 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:48:47 --> Controller Class Initialized
+INFO - 2015-06-30 12:48:47 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:48:47 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:48:47 --> Model Class Initialized
+INFO - 2015-06-30 12:48:47 --> Model Class Initialized
+INFO - 2015-06-30 12:48:47 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:48:47 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:48:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:48:47 --> Model Class Initialized
+DEBUG - 2015-06-30 12:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:48:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:48:47 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:48:47 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:48:47 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:48:47 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:48:47 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:48:47 --> Final output sent to browser
+DEBUG - 2015-06-30 12:48:47 --> Total execution time: 0.1290
+INFO - 2015-06-30 12:49:50 --> Config Class Initialized
+INFO - 2015-06-30 12:49:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:49:51 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:49:51 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:49:51 --> URI Class Initialized
+INFO - 2015-06-30 12:49:51 --> Router Class Initialized
+INFO - 2015-06-30 12:49:51 --> Output Class Initialized
+INFO - 2015-06-30 12:49:51 --> Security Class Initialized
+DEBUG - 2015-06-30 12:49:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:49:51 --> Input Class Initialized
+INFO - 2015-06-30 12:49:51 --> Language Class Initialized
+INFO - 2015-06-30 12:49:51 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:49:51 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:49:51 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:49:51 --> Controller Class Initialized
+INFO - 2015-06-30 12:49:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:49:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:49:51 --> Model Class Initialized
+INFO - 2015-06-30 12:49:51 --> Model Class Initialized
+INFO - 2015-06-30 12:49:51 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:49:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:49:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:49:51 --> Model Class Initialized
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 12:49:51 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 12:49:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:49:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 12:49:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 12:49:51 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 12:49:51 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 12:49:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 12:49:51 --> Final output sent to browser
+DEBUG - 2015-06-30 12:49:51 --> Total execution time: 0.1550
+INFO - 2015-06-30 12:49:53 --> Config Class Initialized
+INFO - 2015-06-30 12:49:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 12:49:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 12:49:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 12:49:53 --> URI Class Initialized
+INFO - 2015-06-30 12:49:53 --> Router Class Initialized
+INFO - 2015-06-30 12:49:53 --> Output Class Initialized
+INFO - 2015-06-30 12:49:53 --> Security Class Initialized
+DEBUG - 2015-06-30 12:49:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 12:49:53 --> Input Class Initialized
+INFO - 2015-06-30 12:49:53 --> Language Class Initialized
+INFO - 2015-06-30 12:49:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 12:49:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 12:49:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 12:49:53 --> Controller Class Initialized
+INFO - 2015-06-30 12:49:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 12:49:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 12:49:53 --> Model Class Initialized
+INFO - 2015-06-30 12:49:53 --> Model Class Initialized
+INFO - 2015-06-30 12:49:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 12:49:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 12:49:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 12:49:53 --> Model Class Initialized
+DEBUG - 2015-06-30 12:49:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 12:49:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:49:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 12:49:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 12:49:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 12:49:53 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 12:49:53 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 12:49:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 12:49:53 --> Final output sent to browser
+DEBUG - 2015-06-30 12:49:53 --> Total execution time: 0.1450
+INFO - 2015-06-30 13:09:46 --> Config Class Initialized
+INFO - 2015-06-30 13:09:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:46 --> URI Class Initialized
+INFO - 2015-06-30 13:09:46 --> Router Class Initialized
+INFO - 2015-06-30 13:09:46 --> Output Class Initialized
+INFO - 2015-06-30 13:09:46 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:46 --> Input Class Initialized
+INFO - 2015-06-30 13:09:46 --> Language Class Initialized
+INFO - 2015-06-30 13:09:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:46 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:46 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:09:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:46 --> Model Class Initialized
+INFO - 2015-06-30 13:09:46 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:46 --> Config Class Initialized
+INFO - 2015-06-30 13:09:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:46 --> URI Class Initialized
+INFO - 2015-06-30 13:09:46 --> Router Class Initialized
+INFO - 2015-06-30 13:09:46 --> Output Class Initialized
+INFO - 2015-06-30 13:09:46 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:46 --> Input Class Initialized
+INFO - 2015-06-30 13:09:46 --> Language Class Initialized
+INFO - 2015-06-30 13:09:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:46 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:46 --> Model Class Initialized
+INFO - 2015-06-30 13:09:46 --> Model Class Initialized
+INFO - 2015-06-30 13:09:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:46 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:09:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\login.php
+INFO - 2015-06-30 13:09:46 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:46 --> Total execution time: 0.1590
+INFO - 2015-06-30 13:09:50 --> Config Class Initialized
+INFO - 2015-06-30 13:09:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:50 --> URI Class Initialized
+INFO - 2015-06-30 13:09:50 --> Router Class Initialized
+INFO - 2015-06-30 13:09:50 --> Output Class Initialized
+INFO - 2015-06-30 13:09:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:50 --> Input Class Initialized
+INFO - 2015-06-30 13:09:50 --> Language Class Initialized
+INFO - 2015-06-30 13:09:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+INFO - 2015-06-30 13:09:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:50 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:09:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:50 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+INFO - 2015-06-30 13:09:50 --> user 18 login at 2015-06-30 13:06:50
+INFO - 2015-06-30 13:09:50 --> Config Class Initialized
+INFO - 2015-06-30 13:09:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:50 --> URI Class Initialized
+INFO - 2015-06-30 13:09:50 --> Router Class Initialized
+INFO - 2015-06-30 13:09:50 --> Output Class Initialized
+INFO - 2015-06-30 13:09:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:50 --> Input Class Initialized
+INFO - 2015-06-30 13:09:50 --> Language Class Initialized
+INFO - 2015-06-30 13:09:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:50 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:09:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:09:50 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:09:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:09:50 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 13:09:50 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:50 --> Total execution time: 0.1200
+INFO - 2015-06-30 13:09:50 --> Config Class Initialized
+INFO - 2015-06-30 13:09:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:50 --> URI Class Initialized
+INFO - 2015-06-30 13:09:50 --> Router Class Initialized
+INFO - 2015-06-30 13:09:50 --> Output Class Initialized
+INFO - 2015-06-30 13:09:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:50 --> Input Class Initialized
+INFO - 2015-06-30 13:09:50 --> Language Class Initialized
+INFO - 2015-06-30 13:09:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:50 --> Config Class Initialized
+INFO - 2015-06-30 13:09:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:50 --> Config Class Initialized
+INFO - 2015-06-30 13:09:50 --> Hooks Class Initialized
+INFO - 2015-06-30 13:09:50 --> URI Class Initialized
+INFO - 2015-06-30 13:09:50 --> Router Class Initialized
+INFO - 2015-06-30 13:09:50 --> Output Class Initialized
+INFO - 2015-06-30 13:09:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:50 --> Utf8 Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:50 --> Input Class Initialized
+INFO - 2015-06-30 13:09:50 --> Language Class Initialized
+INFO - 2015-06-30 13:09:50 --> URI Class Initialized
+INFO - 2015-06-30 13:09:50 --> Router Class Initialized
+INFO - 2015-06-30 13:09:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:50 --> Output Class Initialized
+INFO - 2015-06-30 13:09:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:50 --> Input Class Initialized
+INFO - 2015-06-30 13:09:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:50 --> Language Class Initialized
+INFO - 2015-06-30 13:09:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:50 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:09:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+INFO - 2015-06-30 13:09:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 13:09:51 --> Pagination Class Initialized
+DEBUG - 2015-06-30 13:09:51 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 13:09:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 13:09:51 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:51 --> Total execution time: 0.1490
+INFO - 2015-06-30 13:09:51 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:09:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:51 --> Model Class Initialized
+INFO - 2015-06-30 13:09:51 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 13:09:51 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:51 --> Total execution time: 0.2030
+INFO - 2015-06-30 13:09:51 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:09:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:51 --> Model Class Initialized
+INFO - 2015-06-30 13:09:51 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:51 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 13:09:51 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:51 --> Total execution time: 0.2140
+INFO - 2015-06-30 13:09:52 --> Config Class Initialized
+INFO - 2015-06-30 13:09:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:52 --> URI Class Initialized
+INFO - 2015-06-30 13:09:52 --> Router Class Initialized
+INFO - 2015-06-30 13:09:52 --> Output Class Initialized
+INFO - 2015-06-30 13:09:52 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:52 --> Input Class Initialized
+INFO - 2015-06-30 13:09:52 --> Language Class Initialized
+INFO - 2015-06-30 13:09:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:52 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:53 --> Model Class Initialized
+INFO - 2015-06-30 13:09:53 --> Model Class Initialized
+INFO - 2015-06-30 13:09:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:09:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:53 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:09:53 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:09:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:09:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:09:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:09:53 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:09:53 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:09:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:09:53 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:53 --> Total execution time: 0.1790
+INFO - 2015-06-30 13:09:55 --> Config Class Initialized
+INFO - 2015-06-30 13:09:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:09:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:09:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:09:55 --> URI Class Initialized
+INFO - 2015-06-30 13:09:55 --> Router Class Initialized
+INFO - 2015-06-30 13:09:55 --> Output Class Initialized
+INFO - 2015-06-30 13:09:55 --> Security Class Initialized
+DEBUG - 2015-06-30 13:09:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:09:55 --> Input Class Initialized
+INFO - 2015-06-30 13:09:55 --> Language Class Initialized
+INFO - 2015-06-30 13:09:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:09:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:09:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:09:55 --> Controller Class Initialized
+INFO - 2015-06-30 13:09:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:09:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:09:55 --> Model Class Initialized
+INFO - 2015-06-30 13:09:55 --> Model Class Initialized
+INFO - 2015-06-30 13:09:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:09:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:09:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:09:55 --> Model Class Initialized
+DEBUG - 2015-06-30 13:09:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:09:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:09:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:09:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:09:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:09:55 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:09:55 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:09:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:09:55 --> Final output sent to browser
+DEBUG - 2015-06-30 13:09:55 --> Total execution time: 0.1370
+INFO - 2015-06-30 13:10:33 --> Config Class Initialized
+INFO - 2015-06-30 13:10:33 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:10:33 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:10:33 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:10:33 --> URI Class Initialized
+INFO - 2015-06-30 13:10:33 --> Router Class Initialized
+INFO - 2015-06-30 13:10:33 --> Output Class Initialized
+INFO - 2015-06-30 13:10:33 --> Security Class Initialized
+DEBUG - 2015-06-30 13:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:10:33 --> Input Class Initialized
+INFO - 2015-06-30 13:10:33 --> Language Class Initialized
+INFO - 2015-06-30 13:10:33 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:10:33 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:10:33 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:10:33 --> Controller Class Initialized
+INFO - 2015-06-30 13:10:33 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:10:33 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:10:33 --> Model Class Initialized
+INFO - 2015-06-30 13:10:33 --> Model Class Initialized
+INFO - 2015-06-30 13:10:33 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:10:33 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:10:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:10:33 --> Model Class Initialized
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:10:33 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:10:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:10:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:10:33 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:10:33 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:10:33 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:10:33 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:10:33 --> Final output sent to browser
+DEBUG - 2015-06-30 13:10:33 --> Total execution time: 0.1640
+INFO - 2015-06-30 13:10:36 --> Config Class Initialized
+INFO - 2015-06-30 13:10:36 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:10:36 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:10:36 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:10:36 --> URI Class Initialized
+INFO - 2015-06-30 13:10:36 --> Router Class Initialized
+INFO - 2015-06-30 13:10:36 --> Output Class Initialized
+INFO - 2015-06-30 13:10:36 --> Security Class Initialized
+DEBUG - 2015-06-30 13:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:10:36 --> Input Class Initialized
+INFO - 2015-06-30 13:10:36 --> Language Class Initialized
+INFO - 2015-06-30 13:10:36 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:10:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:10:36 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:10:36 --> Controller Class Initialized
+INFO - 2015-06-30 13:10:36 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:10:36 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:10:36 --> Model Class Initialized
+INFO - 2015-06-30 13:10:36 --> Model Class Initialized
+INFO - 2015-06-30 13:10:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:10:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:10:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:10:36 --> Model Class Initialized
+DEBUG - 2015-06-30 13:10:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:10:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:10:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:10:36 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:10:36 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:10:36 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:10:36 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:10:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:10:36 --> Final output sent to browser
+DEBUG - 2015-06-30 13:10:36 --> Total execution time: 0.1570
+INFO - 2015-06-30 13:11:12 --> Config Class Initialized
+INFO - 2015-06-30 13:11:12 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:11:12 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:11:12 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:11:12 --> URI Class Initialized
+INFO - 2015-06-30 13:11:12 --> Router Class Initialized
+INFO - 2015-06-30 13:11:12 --> Output Class Initialized
+INFO - 2015-06-30 13:11:12 --> Security Class Initialized
+DEBUG - 2015-06-30 13:11:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:11:12 --> Input Class Initialized
+INFO - 2015-06-30 13:11:12 --> Language Class Initialized
+INFO - 2015-06-30 13:11:12 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:11:12 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:11:12 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:11:12 --> Controller Class Initialized
+INFO - 2015-06-30 13:11:12 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:11:12 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:11:12 --> Model Class Initialized
+INFO - 2015-06-30 13:11:12 --> Model Class Initialized
+INFO - 2015-06-30 13:11:12 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:11:12 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:11:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:11:12 --> Model Class Initialized
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:11:12 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:11:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:11:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:11:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:11:12 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:11:12 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:11:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:11:12 --> Final output sent to browser
+DEBUG - 2015-06-30 13:11:12 --> Total execution time: 0.1910
+INFO - 2015-06-30 13:11:15 --> Config Class Initialized
+INFO - 2015-06-30 13:11:15 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:11:15 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:11:15 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:11:15 --> URI Class Initialized
+INFO - 2015-06-30 13:11:15 --> Router Class Initialized
+INFO - 2015-06-30 13:11:15 --> Output Class Initialized
+INFO - 2015-06-30 13:11:15 --> Security Class Initialized
+DEBUG - 2015-06-30 13:11:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:11:15 --> Input Class Initialized
+INFO - 2015-06-30 13:11:15 --> Language Class Initialized
+INFO - 2015-06-30 13:11:15 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:11:15 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:11:15 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:11:15 --> Controller Class Initialized
+INFO - 2015-06-30 13:11:15 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:11:15 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:11:15 --> Model Class Initialized
+INFO - 2015-06-30 13:11:15 --> Model Class Initialized
+INFO - 2015-06-30 13:11:15 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:11:15 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:11:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:11:15 --> Model Class Initialized
+DEBUG - 2015-06-30 13:11:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:11:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:11:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:11:15 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:11:15 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:11:15 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:11:15 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:11:15 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:11:15 --> Final output sent to browser
+DEBUG - 2015-06-30 13:11:15 --> Total execution time: 0.1160
+INFO - 2015-06-30 13:12:24 --> Config Class Initialized
+INFO - 2015-06-30 13:12:24 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:12:24 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:12:24 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:12:24 --> URI Class Initialized
+INFO - 2015-06-30 13:12:24 --> Router Class Initialized
+INFO - 2015-06-30 13:12:24 --> Output Class Initialized
+INFO - 2015-06-30 13:12:24 --> Security Class Initialized
+DEBUG - 2015-06-30 13:12:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:12:24 --> Input Class Initialized
+INFO - 2015-06-30 13:12:24 --> Language Class Initialized
+INFO - 2015-06-30 13:12:24 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:12:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:12:24 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:12:24 --> Controller Class Initialized
+INFO - 2015-06-30 13:12:24 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:12:24 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:12:24 --> Model Class Initialized
+INFO - 2015-06-30 13:12:24 --> Model Class Initialized
+INFO - 2015-06-30 13:12:25 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:12:26 --> Config Class Initialized
+INFO - 2015-06-30 13:12:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:12:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:12:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:12:26 --> URI Class Initialized
+INFO - 2015-06-30 13:12:26 --> Router Class Initialized
+INFO - 2015-06-30 13:12:26 --> Output Class Initialized
+INFO - 2015-06-30 13:12:26 --> Security Class Initialized
+DEBUG - 2015-06-30 13:12:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:12:26 --> Input Class Initialized
+INFO - 2015-06-30 13:12:26 --> Language Class Initialized
+INFO - 2015-06-30 13:12:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:12:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:12:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:12:26 --> Controller Class Initialized
+INFO - 2015-06-30 13:12:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:12:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:12:26 --> Model Class Initialized
+INFO - 2015-06-30 13:12:26 --> Model Class Initialized
+INFO - 2015-06-30 13:12:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:12:30 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:12:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:12:30 --> Model Class Initialized
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:12:30 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:30 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:30 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:30 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:30 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:12:30 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:12:30 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:12:30 --> Final output sent to browser
+DEBUG - 2015-06-30 13:12:30 --> Total execution time: 5.2273
+INFO - 2015-06-30 13:12:34 --> Config Class Initialized
+INFO - 2015-06-30 13:12:34 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:12:34 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:12:34 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:12:34 --> URI Class Initialized
+INFO - 2015-06-30 13:12:34 --> Router Class Initialized
+INFO - 2015-06-30 13:12:34 --> Output Class Initialized
+INFO - 2015-06-30 13:12:34 --> Security Class Initialized
+DEBUG - 2015-06-30 13:12:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:12:34 --> Input Class Initialized
+INFO - 2015-06-30 13:12:34 --> Language Class Initialized
+INFO - 2015-06-30 13:12:34 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:12:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:12:34 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:12:34 --> Controller Class Initialized
+INFO - 2015-06-30 13:12:34 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:12:35 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:12:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:12:35 --> Model Class Initialized
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:12:35 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:35 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:35 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:12:35 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:12:35 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:12:35 --> Final output sent to browser
+DEBUG - 2015-06-30 13:12:35 --> Total execution time: 8.4215
+INFO - 2015-06-30 13:12:35 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:12:35 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:12:35 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:12:35 --> Model Class Initialized
+INFO - 2015-06-30 13:12:35 --> Model Class Initialized
+DEBUG - 2015-06-30 13:12:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:12:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 13:12:35 --> Pagination Class Initialized
+DEBUG - 2015-06-30 13:12:35 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 13:12:35 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 13:12:35 --> Final output sent to browser
+DEBUG - 2015-06-30 13:12:35 --> Total execution time: 0.5250
+INFO - 2015-06-30 13:12:37 --> Config Class Initialized
+INFO - 2015-06-30 13:12:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:12:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:12:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:12:37 --> URI Class Initialized
+INFO - 2015-06-30 13:12:37 --> Router Class Initialized
+INFO - 2015-06-30 13:12:37 --> Output Class Initialized
+INFO - 2015-06-30 13:12:37 --> Security Class Initialized
+DEBUG - 2015-06-30 13:12:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:12:37 --> Input Class Initialized
+INFO - 2015-06-30 13:12:37 --> Language Class Initialized
+INFO - 2015-06-30 13:12:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:12:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:12:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:12:37 --> Controller Class Initialized
+INFO - 2015-06-30 13:12:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:12:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:12:37 --> Model Class Initialized
+INFO - 2015-06-30 13:12:37 --> Model Class Initialized
+INFO - 2015-06-30 13:12:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:12:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:12:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:12:37 --> Model Class Initialized
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:12:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:12:37 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:12:37 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:12:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:12:37 --> Final output sent to browser
+DEBUG - 2015-06-30 13:12:37 --> Total execution time: 0.1830
+INFO - 2015-06-30 13:12:39 --> Config Class Initialized
+INFO - 2015-06-30 13:12:39 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:12:39 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:12:39 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:12:39 --> URI Class Initialized
+INFO - 2015-06-30 13:12:39 --> Router Class Initialized
+INFO - 2015-06-30 13:12:39 --> Output Class Initialized
+INFO - 2015-06-30 13:12:39 --> Security Class Initialized
+DEBUG - 2015-06-30 13:12:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:12:39 --> Input Class Initialized
+INFO - 2015-06-30 13:12:39 --> Language Class Initialized
+INFO - 2015-06-30 13:12:39 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:12:39 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:12:39 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:12:39 --> Controller Class Initialized
+INFO - 2015-06-30 13:12:39 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:12:39 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:12:39 --> Model Class Initialized
+INFO - 2015-06-30 13:12:39 --> Model Class Initialized
+INFO - 2015-06-30 13:12:39 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:12:39 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:12:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:12:39 --> Model Class Initialized
+DEBUG - 2015-06-30 13:12:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:12:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:12:39 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:12:39 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:12:39 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:12:39 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:12:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:12:39 --> Final output sent to browser
+DEBUG - 2015-06-30 13:12:39 --> Total execution time: 0.1150
+INFO - 2015-06-30 13:13:34 --> Config Class Initialized
+INFO - 2015-06-30 13:13:34 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:13:34 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:13:34 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:13:34 --> URI Class Initialized
+INFO - 2015-06-30 13:13:34 --> Router Class Initialized
+INFO - 2015-06-30 13:13:34 --> Output Class Initialized
+INFO - 2015-06-30 13:13:34 --> Security Class Initialized
+DEBUG - 2015-06-30 13:13:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:13:34 --> Input Class Initialized
+INFO - 2015-06-30 13:13:34 --> Language Class Initialized
+INFO - 2015-06-30 13:13:34 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:13:34 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:13:34 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:13:34 --> Controller Class Initialized
+INFO - 2015-06-30 13:13:34 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:13:34 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:13:34 --> Model Class Initialized
+INFO - 2015-06-30 13:13:34 --> Model Class Initialized
+INFO - 2015-06-30 13:13:34 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:13:34 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:13:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:13:34 --> Model Class Initialized
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:13:34 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:13:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:13:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:13:34 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:13:34 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:13:34 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:13:34 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:13:34 --> Final output sent to browser
+DEBUG - 2015-06-30 13:13:34 --> Total execution time: 0.1540
+INFO - 2015-06-30 13:13:37 --> Config Class Initialized
+INFO - 2015-06-30 13:13:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:13:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:13:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:13:37 --> URI Class Initialized
+INFO - 2015-06-30 13:13:37 --> Router Class Initialized
+INFO - 2015-06-30 13:13:37 --> Output Class Initialized
+INFO - 2015-06-30 13:13:37 --> Security Class Initialized
+DEBUG - 2015-06-30 13:13:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:13:37 --> Input Class Initialized
+INFO - 2015-06-30 13:13:37 --> Language Class Initialized
+INFO - 2015-06-30 13:13:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:13:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:13:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:13:37 --> Controller Class Initialized
+INFO - 2015-06-30 13:13:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:13:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:13:37 --> Model Class Initialized
+INFO - 2015-06-30 13:13:37 --> Model Class Initialized
+INFO - 2015-06-30 13:13:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:13:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:13:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:13:37 --> Model Class Initialized
+DEBUG - 2015-06-30 13:13:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:13:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:13:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:13:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:13:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:13:37 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:13:37 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:13:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:13:37 --> Final output sent to browser
+DEBUG - 2015-06-30 13:13:37 --> Total execution time: 0.1280
+INFO - 2015-06-30 13:14:18 --> Config Class Initialized
+INFO - 2015-06-30 13:14:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:14:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:14:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:14:18 --> URI Class Initialized
+INFO - 2015-06-30 13:14:18 --> Router Class Initialized
+INFO - 2015-06-30 13:14:18 --> Output Class Initialized
+INFO - 2015-06-30 13:14:18 --> Security Class Initialized
+DEBUG - 2015-06-30 13:14:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:14:18 --> Input Class Initialized
+INFO - 2015-06-30 13:14:18 --> Language Class Initialized
+INFO - 2015-06-30 13:14:18 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:14:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:14:18 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:14:18 --> Controller Class Initialized
+INFO - 2015-06-30 13:14:18 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:14:18 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:14:18 --> Model Class Initialized
+INFO - 2015-06-30 13:14:18 --> Model Class Initialized
+INFO - 2015-06-30 13:14:18 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:14:18 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:14:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:14:18 --> Model Class Initialized
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:14:18 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:18 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:18 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:18 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:18 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:14:18 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:14:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:14:18 --> Final output sent to browser
+DEBUG - 2015-06-30 13:14:18 --> Total execution time: 0.1860
+INFO - 2015-06-30 13:14:19 --> Config Class Initialized
+INFO - 2015-06-30 13:14:19 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:14:19 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:14:19 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:14:19 --> URI Class Initialized
+INFO - 2015-06-30 13:14:19 --> Router Class Initialized
+INFO - 2015-06-30 13:14:19 --> Output Class Initialized
+INFO - 2015-06-30 13:14:19 --> Security Class Initialized
+DEBUG - 2015-06-30 13:14:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:14:19 --> Input Class Initialized
+INFO - 2015-06-30 13:14:19 --> Language Class Initialized
+INFO - 2015-06-30 13:14:19 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:14:19 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:14:19 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:14:19 --> Controller Class Initialized
+INFO - 2015-06-30 13:14:19 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:14:19 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:14:19 --> Model Class Initialized
+INFO - 2015-06-30 13:14:19 --> Model Class Initialized
+INFO - 2015-06-30 13:14:19 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:14:20 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:14:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:14:20 --> Model Class Initialized
+DEBUG - 2015-06-30 13:14:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:20 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:14:20 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:14:20 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:20 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:14:20 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:14:20 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:14:20 --> Final output sent to browser
+DEBUG - 2015-06-30 13:14:20 --> Total execution time: 0.1450
+INFO - 2015-06-30 13:14:44 --> Config Class Initialized
+INFO - 2015-06-30 13:14:44 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:14:44 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:14:44 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:14:44 --> URI Class Initialized
+INFO - 2015-06-30 13:14:44 --> Router Class Initialized
+INFO - 2015-06-30 13:14:44 --> Output Class Initialized
+INFO - 2015-06-30 13:14:44 --> Security Class Initialized
+DEBUG - 2015-06-30 13:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:14:44 --> Input Class Initialized
+INFO - 2015-06-30 13:14:44 --> Language Class Initialized
+INFO - 2015-06-30 13:14:44 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:14:44 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:14:44 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:14:44 --> Controller Class Initialized
+INFO - 2015-06-30 13:14:44 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:14:44 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:14:44 --> Model Class Initialized
+INFO - 2015-06-30 13:14:44 --> Model Class Initialized
+INFO - 2015-06-30 13:14:44 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:14:44 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:14:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:14:44 --> Model Class Initialized
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:14:44 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:44 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:14:44 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:14:44 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:14:44 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:14:44 --> Final output sent to browser
+DEBUG - 2015-06-30 13:14:44 --> Total execution time: 0.2670
+INFO - 2015-06-30 13:14:46 --> Config Class Initialized
+INFO - 2015-06-30 13:14:46 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:14:46 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:14:46 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:14:46 --> URI Class Initialized
+INFO - 2015-06-30 13:14:46 --> Router Class Initialized
+INFO - 2015-06-30 13:14:46 --> Output Class Initialized
+INFO - 2015-06-30 13:14:46 --> Security Class Initialized
+DEBUG - 2015-06-30 13:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:14:46 --> Input Class Initialized
+INFO - 2015-06-30 13:14:46 --> Language Class Initialized
+INFO - 2015-06-30 13:14:46 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:14:46 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:14:46 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:14:46 --> Controller Class Initialized
+INFO - 2015-06-30 13:14:46 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:14:46 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:14:46 --> Model Class Initialized
+INFO - 2015-06-30 13:14:46 --> Model Class Initialized
+INFO - 2015-06-30 13:14:46 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:14:46 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:14:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:14:46 --> Model Class Initialized
+DEBUG - 2015-06-30 13:14:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:14:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:46 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:14:46 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:14:46 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:14:46 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:14:46 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:14:46 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:14:46 --> Final output sent to browser
+DEBUG - 2015-06-30 13:14:46 --> Total execution time: 0.1190
+INFO - 2015-06-30 13:15:49 --> Config Class Initialized
+INFO - 2015-06-30 13:15:49 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:15:49 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:49 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:49 --> URI Class Initialized
+INFO - 2015-06-30 13:15:49 --> Router Class Initialized
+INFO - 2015-06-30 13:15:49 --> Output Class Initialized
+INFO - 2015-06-30 13:15:49 --> Security Class Initialized
+DEBUG - 2015-06-30 13:15:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:49 --> Input Class Initialized
+INFO - 2015-06-30 13:15:49 --> Language Class Initialized
+INFO - 2015-06-30 13:15:49 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:49 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:15:49 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:49 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:49 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:15:49 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:15:49 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:49 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:49 --> Model Class Initialized
+INFO - 2015-06-30 13:15:49 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:15:49 --> Common class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:15:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-06-30 13:15:49 --> Auth class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:49 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\main.php
+INFO - 2015-06-30 13:15:49 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:49 --> Total execution time: 0.1330
+INFO - 2015-06-30 13:15:49 --> Config Class Initialized
+INFO - 2015-06-30 13:15:49 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:15:49 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:49 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:49 --> URI Class Initialized
+INFO - 2015-06-30 13:15:49 --> Router Class Initialized
+INFO - 2015-06-30 13:15:50 --> Output Class Initialized
+INFO - 2015-06-30 13:15:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:50 --> Input Class Initialized
+INFO - 2015-06-30 13:15:50 --> Language Class Initialized
+INFO - 2015-06-30 13:15:50 --> Config Class Initialized
+INFO - 2015-06-30 13:15:50 --> Hooks Class Initialized
+INFO - 2015-06-30 13:15:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+DEBUG - 2015-06-30 13:15:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:50 --> URI Class Initialized
+INFO - 2015-06-30 13:15:50 --> Router Class Initialized
+INFO - 2015-06-30 13:15:50 --> Output Class Initialized
+INFO - 2015-06-30 13:15:50 --> Security Class Initialized
+INFO - 2015-06-30 13:15:50 --> Database Driver Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:50 --> Input Class Initialized
+INFO - 2015-06-30 13:15:50 --> Language Class Initialized
+INFO - 2015-06-30 13:15:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:15:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:15:50 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:15:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\top.php
+INFO - 2015-06-30 13:15:50 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:50 --> Total execution time: 0.1260
+INFO - 2015-06-30 13:15:50 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:15:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\left_yy.php
+INFO - 2015-06-30 13:15:50 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:50 --> Total execution time: 0.1650
+INFO - 2015-06-30 13:15:50 --> Config Class Initialized
+INFO - 2015-06-30 13:15:50 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:50 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:50 --> URI Class Initialized
+INFO - 2015-06-30 13:15:50 --> Router Class Initialized
+INFO - 2015-06-30 13:15:50 --> Output Class Initialized
+INFO - 2015-06-30 13:15:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:50 --> Input Class Initialized
+INFO - 2015-06-30 13:15:50 --> Language Class Initialized
+INFO - 2015-06-30 13:15:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:15:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:15:50 --> Session: Class initialized using 'database' driver.
+INFO - 2015-06-30 13:15:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+INFO - 2015-06-30 13:15:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2015-06-30 13:15:50 --> Pagination Class Initialized
+DEBUG - 2015-06-30 13:15:50 --> SELECT *
+FROM `user`
+WHERE `col_role` != 'author'
+AND `col_role` != 'user'
+ LIMIT 2
+INFO - 2015-06-30 13:15:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\list_user.php
+INFO - 2015-06-30 13:15:50 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:50 --> Total execution time: 0.2050
+INFO - 2015-06-30 13:15:51 --> Config Class Initialized
+INFO - 2015-06-30 13:15:51 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:15:51 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:51 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:51 --> URI Class Initialized
+INFO - 2015-06-30 13:15:51 --> Router Class Initialized
+INFO - 2015-06-30 13:15:51 --> Output Class Initialized
+INFO - 2015-06-30 13:15:51 --> Security Class Initialized
+DEBUG - 2015-06-30 13:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:51 --> Input Class Initialized
+INFO - 2015-06-30 13:15:51 --> Language Class Initialized
+INFO - 2015-06-30 13:15:51 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:51 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:15:51 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:51 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:51 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:51 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:51 --> Model Class Initialized
+INFO - 2015-06-30 13:15:51 --> Model Class Initialized
+INFO - 2015-06-30 13:15:51 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:15:51 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:15:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:51 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:15:51 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:15:51 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:15:52 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:15:52 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:15:52 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:15:52 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:15:52 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:15:52 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:52 --> Total execution time: 0.1630
+INFO - 2015-06-30 13:15:54 --> Config Class Initialized
+INFO - 2015-06-30 13:15:54 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:15:54 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:15:54 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:15:54 --> URI Class Initialized
+INFO - 2015-06-30 13:15:54 --> Router Class Initialized
+INFO - 2015-06-30 13:15:54 --> Output Class Initialized
+INFO - 2015-06-30 13:15:54 --> Security Class Initialized
+DEBUG - 2015-06-30 13:15:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:15:54 --> Input Class Initialized
+INFO - 2015-06-30 13:15:54 --> Language Class Initialized
+INFO - 2015-06-30 13:15:54 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:15:54 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:15:54 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:15:54 --> Controller Class Initialized
+INFO - 2015-06-30 13:15:54 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:15:54 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:15:54 --> Model Class Initialized
+INFO - 2015-06-30 13:15:54 --> Model Class Initialized
+INFO - 2015-06-30 13:15:54 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:15:54 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:15:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:15:54 --> Model Class Initialized
+DEBUG - 2015-06-30 13:15:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:15:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:15:54 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:15:54 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:15:54 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:15:54 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:15:54 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:15:54 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:15:54 --> Final output sent to browser
+DEBUG - 2015-06-30 13:15:54 --> Total execution time: 0.1270
+INFO - 2015-06-30 13:16:37 --> Config Class Initialized
+INFO - 2015-06-30 13:16:37 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:16:37 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:16:37 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:16:37 --> URI Class Initialized
+INFO - 2015-06-30 13:16:37 --> Router Class Initialized
+INFO - 2015-06-30 13:16:37 --> Output Class Initialized
+INFO - 2015-06-30 13:16:37 --> Security Class Initialized
+DEBUG - 2015-06-30 13:16:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:16:37 --> Input Class Initialized
+INFO - 2015-06-30 13:16:37 --> Language Class Initialized
+INFO - 2015-06-30 13:16:37 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:16:37 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:16:37 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:16:37 --> Controller Class Initialized
+INFO - 2015-06-30 13:16:37 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:16:37 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:16:37 --> Model Class Initialized
+INFO - 2015-06-30 13:16:37 --> Model Class Initialized
+INFO - 2015-06-30 13:16:37 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:16:37 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:16:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:16:37 --> Model Class Initialized
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:16:37 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:16:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:16:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:16:37 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:16:37 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:16:37 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:16:37 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:16:37 --> Final output sent to browser
+DEBUG - 2015-06-30 13:16:37 --> Total execution time: 0.1640
+INFO - 2015-06-30 13:16:39 --> Config Class Initialized
+INFO - 2015-06-30 13:16:39 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:16:39 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:16:39 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:16:39 --> URI Class Initialized
+INFO - 2015-06-30 13:16:39 --> Router Class Initialized
+INFO - 2015-06-30 13:16:39 --> Output Class Initialized
+INFO - 2015-06-30 13:16:39 --> Security Class Initialized
+DEBUG - 2015-06-30 13:16:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:16:39 --> Input Class Initialized
+INFO - 2015-06-30 13:16:39 --> Language Class Initialized
+INFO - 2015-06-30 13:16:39 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:16:39 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:16:39 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:16:39 --> Controller Class Initialized
+INFO - 2015-06-30 13:16:39 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:16:39 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:16:39 --> Model Class Initialized
+INFO - 2015-06-30 13:16:39 --> Model Class Initialized
+INFO - 2015-06-30 13:16:39 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:16:39 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:16:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:16:39 --> Model Class Initialized
+DEBUG - 2015-06-30 13:16:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:16:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:16:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:16:39 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:16:39 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:16:39 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:16:39 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:16:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:16:39 --> Final output sent to browser
+DEBUG - 2015-06-30 13:16:39 --> Total execution time: 0.1360
+INFO - 2015-06-30 13:17:15 --> Config Class Initialized
+INFO - 2015-06-30 13:17:15 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:17:15 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:17:15 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:17:15 --> URI Class Initialized
+INFO - 2015-06-30 13:17:15 --> Router Class Initialized
+INFO - 2015-06-30 13:17:15 --> Output Class Initialized
+INFO - 2015-06-30 13:17:15 --> Security Class Initialized
+DEBUG - 2015-06-30 13:17:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:17:15 --> Input Class Initialized
+INFO - 2015-06-30 13:17:15 --> Language Class Initialized
+INFO - 2015-06-30 13:17:15 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:17:15 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:17:15 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:17:15 --> Controller Class Initialized
+INFO - 2015-06-30 13:17:15 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:17:15 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:17:15 --> Model Class Initialized
+INFO - 2015-06-30 13:17:15 --> Model Class Initialized
+INFO - 2015-06-30 13:17:15 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:17:15 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:17:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:17:15 --> Model Class Initialized
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:15 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:17:16 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:17:16 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:17:16 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:17:16 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:16 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:16 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:16 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:16 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:17:16 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:17:16 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:17:16 --> Final output sent to browser
+DEBUG - 2015-06-30 13:17:16 --> Total execution time: 0.1880
+INFO - 2015-06-30 13:17:18 --> Config Class Initialized
+INFO - 2015-06-30 13:17:18 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:17:18 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:17:18 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:17:18 --> URI Class Initialized
+INFO - 2015-06-30 13:17:18 --> Router Class Initialized
+INFO - 2015-06-30 13:17:18 --> Output Class Initialized
+INFO - 2015-06-30 13:17:18 --> Security Class Initialized
+DEBUG - 2015-06-30 13:17:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:17:18 --> Input Class Initialized
+INFO - 2015-06-30 13:17:18 --> Language Class Initialized
+INFO - 2015-06-30 13:17:18 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:17:18 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:17:18 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:17:18 --> Controller Class Initialized
+INFO - 2015-06-30 13:17:18 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:17:18 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:17:18 --> Model Class Initialized
+INFO - 2015-06-30 13:17:18 --> Model Class Initialized
+INFO - 2015-06-30 13:17:18 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:17:18 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:17:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:17:18 --> Model Class Initialized
+DEBUG - 2015-06-30 13:17:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:18 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:17:18 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:17:18 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:18 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:17:18 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:17:18 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:17:18 --> Final output sent to browser
+DEBUG - 2015-06-30 13:17:18 --> Total execution time: 0.1340
+INFO - 2015-06-30 13:17:39 --> Config Class Initialized
+INFO - 2015-06-30 13:17:39 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:17:39 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:17:39 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:17:39 --> URI Class Initialized
+INFO - 2015-06-30 13:17:39 --> Router Class Initialized
+INFO - 2015-06-30 13:17:39 --> Output Class Initialized
+INFO - 2015-06-30 13:17:39 --> Security Class Initialized
+DEBUG - 2015-06-30 13:17:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:17:39 --> Input Class Initialized
+INFO - 2015-06-30 13:17:39 --> Language Class Initialized
+INFO - 2015-06-30 13:17:39 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:17:39 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:17:39 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:17:39 --> Controller Class Initialized
+INFO - 2015-06-30 13:17:39 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:17:39 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:17:39 --> Model Class Initialized
+INFO - 2015-06-30 13:17:39 --> Model Class Initialized
+INFO - 2015-06-30 13:17:39 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:17:39 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:17:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:17:39 --> Model Class Initialized
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:17:39 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:39 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:39 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:39 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:17:39 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:17:39 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:17:39 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:17:39 --> Final output sent to browser
+DEBUG - 2015-06-30 13:17:39 --> Total execution time: 0.1940
+INFO - 2015-06-30 13:17:41 --> Config Class Initialized
+INFO - 2015-06-30 13:17:41 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:17:41 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:17:41 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:17:41 --> URI Class Initialized
+INFO - 2015-06-30 13:17:41 --> Router Class Initialized
+INFO - 2015-06-30 13:17:41 --> Output Class Initialized
+INFO - 2015-06-30 13:17:41 --> Security Class Initialized
+DEBUG - 2015-06-30 13:17:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:17:41 --> Input Class Initialized
+INFO - 2015-06-30 13:17:41 --> Language Class Initialized
+INFO - 2015-06-30 13:17:41 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:17:41 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:17:41 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:17:41 --> Controller Class Initialized
+INFO - 2015-06-30 13:17:41 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:17:41 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:17:41 --> Model Class Initialized
+INFO - 2015-06-30 13:17:41 --> Model Class Initialized
+INFO - 2015-06-30 13:17:41 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:17:41 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:17:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:17:41 --> Model Class Initialized
+DEBUG - 2015-06-30 13:17:41 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:17:41 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:41 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:17:41 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:17:41 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:17:41 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:17:41 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:17:41 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:17:41 --> Final output sent to browser
+DEBUG - 2015-06-30 13:17:41 --> Total execution time: 0.1210
+INFO - 2015-06-30 13:18:40 --> Config Class Initialized
+INFO - 2015-06-30 13:18:40 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:18:40 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:18:40 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:18:40 --> URI Class Initialized
+INFO - 2015-06-30 13:18:40 --> Router Class Initialized
+INFO - 2015-06-30 13:18:40 --> Output Class Initialized
+INFO - 2015-06-30 13:18:40 --> Security Class Initialized
+DEBUG - 2015-06-30 13:18:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:18:40 --> Input Class Initialized
+INFO - 2015-06-30 13:18:40 --> Language Class Initialized
+INFO - 2015-06-30 13:18:40 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:18:40 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:18:40 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:18:40 --> Controller Class Initialized
+INFO - 2015-06-30 13:18:40 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:18:40 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:18:40 --> Model Class Initialized
+INFO - 2015-06-30 13:18:40 --> Model Class Initialized
+INFO - 2015-06-30 13:18:40 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:18:40 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:18:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:18:40 --> Model Class Initialized
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:18:40 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:18:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:18:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:18:40 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:18:40 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:18:40 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:18:40 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:18:40 --> Final output sent to browser
+DEBUG - 2015-06-30 13:18:40 --> Total execution time: 0.1960
+INFO - 2015-06-30 13:18:42 --> Config Class Initialized
+INFO - 2015-06-30 13:18:42 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:18:42 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:18:42 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:18:42 --> URI Class Initialized
+INFO - 2015-06-30 13:18:42 --> Router Class Initialized
+INFO - 2015-06-30 13:18:42 --> Output Class Initialized
+INFO - 2015-06-30 13:18:42 --> Security Class Initialized
+DEBUG - 2015-06-30 13:18:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:18:42 --> Input Class Initialized
+INFO - 2015-06-30 13:18:42 --> Language Class Initialized
+INFO - 2015-06-30 13:18:42 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:18:42 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:18:42 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:18:42 --> Controller Class Initialized
+INFO - 2015-06-30 13:18:42 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:18:42 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:18:42 --> Model Class Initialized
+INFO - 2015-06-30 13:18:42 --> Model Class Initialized
+INFO - 2015-06-30 13:18:42 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:18:42 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:18:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:18:42 --> Model Class Initialized
+DEBUG - 2015-06-30 13:18:42 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:18:42 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:18:42 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:18:42 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:18:42 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:18:42 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:18:42 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:18:42 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:18:42 --> Final output sent to browser
+DEBUG - 2015-06-30 13:18:42 --> Total execution time: 0.1040
+INFO - 2015-06-30 13:19:57 --> Config Class Initialized
+INFO - 2015-06-30 13:19:57 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:19:57 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:19:57 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:19:57 --> URI Class Initialized
+INFO - 2015-06-30 13:19:57 --> Router Class Initialized
+INFO - 2015-06-30 13:19:57 --> Output Class Initialized
+INFO - 2015-06-30 13:19:57 --> Security Class Initialized
+DEBUG - 2015-06-30 13:19:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:19:57 --> Input Class Initialized
+INFO - 2015-06-30 13:19:57 --> Language Class Initialized
+INFO - 2015-06-30 13:19:57 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:19:57 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:19:57 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:19:57 --> Controller Class Initialized
+INFO - 2015-06-30 13:19:57 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:19:57 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:19:57 --> Model Class Initialized
+INFO - 2015-06-30 13:19:57 --> Model Class Initialized
+INFO - 2015-06-30 13:19:58 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:19:58 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:19:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:19:58 --> Model Class Initialized
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:19:58 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:19:58 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:19:58 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:19:58 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:19:58 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:19:58 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:19:58 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:19:58 --> Final output sent to browser
+DEBUG - 2015-06-30 13:19:58 --> Total execution time: 0.1690
+INFO - 2015-06-30 13:19:59 --> Config Class Initialized
+INFO - 2015-06-30 13:19:59 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:19:59 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:19:59 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:19:59 --> URI Class Initialized
+INFO - 2015-06-30 13:19:59 --> Router Class Initialized
+INFO - 2015-06-30 13:19:59 --> Output Class Initialized
+INFO - 2015-06-30 13:19:59 --> Security Class Initialized
+DEBUG - 2015-06-30 13:19:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:19:59 --> Input Class Initialized
+INFO - 2015-06-30 13:19:59 --> Language Class Initialized
+INFO - 2015-06-30 13:19:59 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:19:59 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:19:59 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:19:59 --> Controller Class Initialized
+INFO - 2015-06-30 13:19:59 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:19:59 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:19:59 --> Model Class Initialized
+INFO - 2015-06-30 13:19:59 --> Model Class Initialized
+INFO - 2015-06-30 13:19:59 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:19:59 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:19:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:19:59 --> Model Class Initialized
+DEBUG - 2015-06-30 13:19:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:19:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:19:59 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:19:59 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:19:59 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:19:59 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:19:59 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:19:59 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:19:59 --> Final output sent to browser
+DEBUG - 2015-06-30 13:19:59 --> Total execution time: 0.1170
+INFO - 2015-06-30 13:21:52 --> Config Class Initialized
+INFO - 2015-06-30 13:21:52 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:21:52 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:21:52 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:21:52 --> URI Class Initialized
+INFO - 2015-06-30 13:21:52 --> Router Class Initialized
+INFO - 2015-06-30 13:21:52 --> Output Class Initialized
+INFO - 2015-06-30 13:21:52 --> Security Class Initialized
+DEBUG - 2015-06-30 13:21:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:21:52 --> Input Class Initialized
+INFO - 2015-06-30 13:21:52 --> Language Class Initialized
+INFO - 2015-06-30 13:21:52 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:21:52 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:21:52 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:21:52 --> Controller Class Initialized
+INFO - 2015-06-30 13:21:52 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:21:52 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:21:52 --> Model Class Initialized
+INFO - 2015-06-30 13:21:52 --> Model Class Initialized
+INFO - 2015-06-30 13:21:52 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:21:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:21:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:21:53 --> Model Class Initialized
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:21:53 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:21:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:21:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:21:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:21:53 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:21:53 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:21:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:21:53 --> Final output sent to browser
+DEBUG - 2015-06-30 13:21:53 --> Total execution time: 0.1430
+INFO - 2015-06-30 13:22:08 --> Config Class Initialized
+INFO - 2015-06-30 13:22:08 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:22:08 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:22:08 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:22:08 --> URI Class Initialized
+INFO - 2015-06-30 13:22:08 --> Router Class Initialized
+INFO - 2015-06-30 13:22:08 --> Output Class Initialized
+INFO - 2015-06-30 13:22:08 --> Security Class Initialized
+DEBUG - 2015-06-30 13:22:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:22:08 --> Input Class Initialized
+INFO - 2015-06-30 13:22:08 --> Language Class Initialized
+INFO - 2015-06-30 13:22:08 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:22:08 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:22:08 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:22:08 --> Controller Class Initialized
+INFO - 2015-06-30 13:22:08 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:22:08 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:22:08 --> Model Class Initialized
+INFO - 2015-06-30 13:22:08 --> Model Class Initialized
+INFO - 2015-06-30 13:22:08 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:22:08 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:22:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:22:08 --> Model Class Initialized
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:22:08 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:08 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:08 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:22:08 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:22:08 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:22:08 --> Final output sent to browser
+DEBUG - 2015-06-30 13:22:08 --> Total execution time: 0.1550
+INFO - 2015-06-30 13:22:10 --> Config Class Initialized
+INFO - 2015-06-30 13:22:10 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:22:10 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:22:10 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:22:10 --> URI Class Initialized
+INFO - 2015-06-30 13:22:10 --> Router Class Initialized
+INFO - 2015-06-30 13:22:10 --> Output Class Initialized
+INFO - 2015-06-30 13:22:10 --> Security Class Initialized
+DEBUG - 2015-06-30 13:22:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:22:10 --> Input Class Initialized
+INFO - 2015-06-30 13:22:10 --> Language Class Initialized
+INFO - 2015-06-30 13:22:10 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:22:10 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:22:10 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:22:10 --> Controller Class Initialized
+INFO - 2015-06-30 13:22:10 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:22:10 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:22:10 --> Model Class Initialized
+INFO - 2015-06-30 13:22:10 --> Model Class Initialized
+INFO - 2015-06-30 13:22:10 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:22:11 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:22:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:22:11 --> Model Class Initialized
+DEBUG - 2015-06-30 13:22:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:11 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:22:11 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:22:11 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:11 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:22:11 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:22:11 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:22:11 --> Final output sent to browser
+DEBUG - 2015-06-30 13:22:11 --> Total execution time: 0.1260
+INFO - 2015-06-30 13:22:36 --> Config Class Initialized
+INFO - 2015-06-30 13:22:36 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:22:36 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:22:36 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:22:36 --> URI Class Initialized
+INFO - 2015-06-30 13:22:36 --> Router Class Initialized
+INFO - 2015-06-30 13:22:36 --> Output Class Initialized
+INFO - 2015-06-30 13:22:36 --> Security Class Initialized
+DEBUG - 2015-06-30 13:22:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:22:36 --> Input Class Initialized
+INFO - 2015-06-30 13:22:36 --> Language Class Initialized
+INFO - 2015-06-30 13:22:36 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:22:36 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:22:36 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:22:36 --> Controller Class Initialized
+INFO - 2015-06-30 13:22:36 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:22:36 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:22:36 --> Model Class Initialized
+INFO - 2015-06-30 13:22:36 --> Model Class Initialized
+INFO - 2015-06-30 13:22:36 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:22:36 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:22:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:22:36 --> Model Class Initialized
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:22:36 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:36 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:22:36 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:22:36 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:22:36 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:22:36 --> Final output sent to browser
+DEBUG - 2015-06-30 13:22:36 --> Total execution time: 0.1940
+INFO - 2015-06-30 13:22:38 --> Config Class Initialized
+INFO - 2015-06-30 13:22:38 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:22:38 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:22:38 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:22:38 --> URI Class Initialized
+INFO - 2015-06-30 13:22:38 --> Router Class Initialized
+INFO - 2015-06-30 13:22:38 --> Output Class Initialized
+INFO - 2015-06-30 13:22:38 --> Security Class Initialized
+DEBUG - 2015-06-30 13:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:22:38 --> Input Class Initialized
+INFO - 2015-06-30 13:22:38 --> Language Class Initialized
+INFO - 2015-06-30 13:22:38 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:22:38 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:22:38 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:22:38 --> Controller Class Initialized
+INFO - 2015-06-30 13:22:38 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:22:38 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:22:38 --> Model Class Initialized
+INFO - 2015-06-30 13:22:38 --> Model Class Initialized
+INFO - 2015-06-30 13:22:38 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:22:38 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:22:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:22:38 --> Model Class Initialized
+DEBUG - 2015-06-30 13:22:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:22:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:38 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:22:38 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:22:38 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:22:38 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:22:38 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:22:38 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:22:38 --> Final output sent to browser
+DEBUG - 2015-06-30 13:22:38 --> Total execution time: 0.1320
+INFO - 2015-06-30 13:23:47 --> Config Class Initialized
+INFO - 2015-06-30 13:23:47 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:23:47 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:23:47 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:23:47 --> URI Class Initialized
+INFO - 2015-06-30 13:23:47 --> Router Class Initialized
+INFO - 2015-06-30 13:23:47 --> Output Class Initialized
+INFO - 2015-06-30 13:23:47 --> Security Class Initialized
+DEBUG - 2015-06-30 13:23:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:23:47 --> Input Class Initialized
+INFO - 2015-06-30 13:23:47 --> Language Class Initialized
+INFO - 2015-06-30 13:23:47 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:23:47 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:23:47 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:23:47 --> Controller Class Initialized
+INFO - 2015-06-30 13:23:47 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:23:47 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:23:47 --> Model Class Initialized
+INFO - 2015-06-30 13:23:47 --> Model Class Initialized
+INFO - 2015-06-30 13:23:47 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:23:47 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:23:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:23:47 --> Model Class Initialized
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:23:47 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:23:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:23:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:23:47 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:23:47 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:23:47 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:23:47 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:23:47 --> Final output sent to browser
+DEBUG - 2015-06-30 13:23:47 --> Total execution time: 0.1920
+INFO - 2015-06-30 13:23:49 --> Config Class Initialized
+INFO - 2015-06-30 13:23:49 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:23:49 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:23:49 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:23:49 --> URI Class Initialized
+INFO - 2015-06-30 13:23:50 --> Router Class Initialized
+INFO - 2015-06-30 13:23:50 --> Output Class Initialized
+INFO - 2015-06-30 13:23:50 --> Security Class Initialized
+DEBUG - 2015-06-30 13:23:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:23:50 --> Input Class Initialized
+INFO - 2015-06-30 13:23:50 --> Language Class Initialized
+INFO - 2015-06-30 13:23:50 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:23:50 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:23:50 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:23:50 --> Controller Class Initialized
+INFO - 2015-06-30 13:23:50 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:23:50 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:23:50 --> Model Class Initialized
+INFO - 2015-06-30 13:23:50 --> Model Class Initialized
+INFO - 2015-06-30 13:23:50 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:23:50 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:23:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:23:50 --> Model Class Initialized
+DEBUG - 2015-06-30 13:23:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:23:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:23:50 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:23:50 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:23:50 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:23:50 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:23:50 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:23:50 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:23:50 --> Final output sent to browser
+DEBUG - 2015-06-30 13:23:50 --> Total execution time: 0.1400
+INFO - 2015-06-30 13:25:24 --> Config Class Initialized
+INFO - 2015-06-30 13:25:24 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:25:24 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:25:24 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:25:24 --> URI Class Initialized
+INFO - 2015-06-30 13:25:24 --> Router Class Initialized
+INFO - 2015-06-30 13:25:24 --> Output Class Initialized
+INFO - 2015-06-30 13:25:24 --> Security Class Initialized
+DEBUG - 2015-06-30 13:25:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:25:24 --> Input Class Initialized
+INFO - 2015-06-30 13:25:24 --> Language Class Initialized
+INFO - 2015-06-30 13:25:24 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:25:24 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:25:24 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:25:24 --> Controller Class Initialized
+INFO - 2015-06-30 13:25:24 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:25:24 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:25:24 --> Model Class Initialized
+INFO - 2015-06-30 13:25:24 --> Model Class Initialized
+INFO - 2015-06-30 13:25:24 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:25:24 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:25:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:25:25 --> Model Class Initialized
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:25:25 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:25 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:25 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:25:25 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:25:25 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:25:25 --> Final output sent to browser
+DEBUG - 2015-06-30 13:25:25 --> Total execution time: 0.2670
+INFO - 2015-06-30 13:25:26 --> Config Class Initialized
+INFO - 2015-06-30 13:25:26 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:25:26 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:25:26 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:25:26 --> URI Class Initialized
+INFO - 2015-06-30 13:25:26 --> Router Class Initialized
+INFO - 2015-06-30 13:25:26 --> Output Class Initialized
+INFO - 2015-06-30 13:25:26 --> Security Class Initialized
+DEBUG - 2015-06-30 13:25:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:25:26 --> Input Class Initialized
+INFO - 2015-06-30 13:25:26 --> Language Class Initialized
+INFO - 2015-06-30 13:25:26 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:25:26 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:25:26 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:25:26 --> Controller Class Initialized
+INFO - 2015-06-30 13:25:26 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:25:26 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:25:26 --> Model Class Initialized
+INFO - 2015-06-30 13:25:26 --> Model Class Initialized
+INFO - 2015-06-30 13:25:26 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:25:26 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:25:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:25:26 --> Model Class Initialized
+DEBUG - 2015-06-30 13:25:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:25:26 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:25:26 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:26 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:25:26 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:25:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:25:26 --> Final output sent to browser
+DEBUG - 2015-06-30 13:25:26 --> Total execution time: 0.1390
+INFO - 2015-06-30 13:25:43 --> Config Class Initialized
+INFO - 2015-06-30 13:25:43 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:25:43 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:25:43 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:25:43 --> URI Class Initialized
+INFO - 2015-06-30 13:25:43 --> Router Class Initialized
+INFO - 2015-06-30 13:25:43 --> Output Class Initialized
+INFO - 2015-06-30 13:25:43 --> Security Class Initialized
+DEBUG - 2015-06-30 13:25:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:25:43 --> Input Class Initialized
+INFO - 2015-06-30 13:25:43 --> Language Class Initialized
+INFO - 2015-06-30 13:25:43 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:25:43 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:25:43 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:25:43 --> Controller Class Initialized
+INFO - 2015-06-30 13:25:43 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:25:43 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:25:43 --> Model Class Initialized
+INFO - 2015-06-30 13:25:43 --> Model Class Initialized
+INFO - 2015-06-30 13:25:43 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:25:43 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:25:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:25:43 --> Model Class Initialized
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:25:43 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:43 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:25:43 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:25:43 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:25:43 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:25:43 --> Final output sent to browser
+DEBUG - 2015-06-30 13:25:43 --> Total execution time: 0.1560
+INFO - 2015-06-30 13:25:45 --> Config Class Initialized
+INFO - 2015-06-30 13:25:45 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:25:45 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:25:45 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:25:45 --> URI Class Initialized
+INFO - 2015-06-30 13:25:45 --> Router Class Initialized
+INFO - 2015-06-30 13:25:45 --> Output Class Initialized
+INFO - 2015-06-30 13:25:45 --> Security Class Initialized
+DEBUG - 2015-06-30 13:25:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:25:45 --> Input Class Initialized
+INFO - 2015-06-30 13:25:45 --> Language Class Initialized
+INFO - 2015-06-30 13:25:45 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:25:45 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:25:45 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:25:45 --> Controller Class Initialized
+INFO - 2015-06-30 13:25:45 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:25:45 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:25:45 --> Model Class Initialized
+INFO - 2015-06-30 13:25:45 --> Model Class Initialized
+INFO - 2015-06-30 13:25:45 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:25:45 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:25:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:25:45 --> Model Class Initialized
+DEBUG - 2015-06-30 13:25:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:25:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:45 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:25:45 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:25:45 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:25:45 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:25:45 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:25:45 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:25:45 --> Final output sent to browser
+DEBUG - 2015-06-30 13:25:45 --> Total execution time: 0.1380
+INFO - 2015-06-30 13:26:00 --> Config Class Initialized
+INFO - 2015-06-30 13:26:00 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:00 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:00 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:00 --> URI Class Initialized
+INFO - 2015-06-30 13:26:00 --> Router Class Initialized
+INFO - 2015-06-30 13:26:00 --> Output Class Initialized
+INFO - 2015-06-30 13:26:00 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:00 --> Input Class Initialized
+INFO - 2015-06-30 13:26:00 --> Language Class Initialized
+INFO - 2015-06-30 13:26:00 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:00 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:00 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:00 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:00 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:00 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:00 --> Model Class Initialized
+INFO - 2015-06-30 13:26:00 --> Model Class Initialized
+INFO - 2015-06-30 13:26:00 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:00 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:00 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:26:00 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:00 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:00 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:26:00 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:26:00 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:26:00 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:00 --> Total execution time: 0.1770
+INFO - 2015-06-30 13:26:02 --> Config Class Initialized
+INFO - 2015-06-30 13:26:02 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:02 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:02 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:02 --> URI Class Initialized
+INFO - 2015-06-30 13:26:02 --> Router Class Initialized
+INFO - 2015-06-30 13:26:02 --> Output Class Initialized
+INFO - 2015-06-30 13:26:02 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:02 --> Input Class Initialized
+INFO - 2015-06-30 13:26:02 --> Language Class Initialized
+INFO - 2015-06-30 13:26:02 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:02 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:02 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:02 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:02 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:02 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:02 --> Model Class Initialized
+INFO - 2015-06-30 13:26:02 --> Model Class Initialized
+INFO - 2015-06-30 13:26:02 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:02 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:02 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:02 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:02 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:02 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:02 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:26:02 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:26:02 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:26:02 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:02 --> Total execution time: 0.1320
+INFO - 2015-06-30 13:26:23 --> Config Class Initialized
+INFO - 2015-06-30 13:26:23 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:23 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:23 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:23 --> URI Class Initialized
+INFO - 2015-06-30 13:26:23 --> Router Class Initialized
+INFO - 2015-06-30 13:26:23 --> Output Class Initialized
+INFO - 2015-06-30 13:26:23 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:23 --> Input Class Initialized
+INFO - 2015-06-30 13:26:23 --> Language Class Initialized
+INFO - 2015-06-30 13:26:23 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:23 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:23 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:23 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:23 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:23 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:23 --> Model Class Initialized
+INFO - 2015-06-30 13:26:23 --> Model Class Initialized
+INFO - 2015-06-30 13:26:23 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:24 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:24 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:26:24 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:24 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:24 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:26:24 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:26:24 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:26:24 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:24 --> Total execution time: 0.1870
+INFO - 2015-06-30 13:26:25 --> Config Class Initialized
+INFO - 2015-06-30 13:26:25 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:25 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:25 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:25 --> URI Class Initialized
+INFO - 2015-06-30 13:26:25 --> Router Class Initialized
+INFO - 2015-06-30 13:26:25 --> Output Class Initialized
+INFO - 2015-06-30 13:26:25 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:25 --> Input Class Initialized
+INFO - 2015-06-30 13:26:25 --> Language Class Initialized
+INFO - 2015-06-30 13:26:25 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:25 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:25 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:25 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:25 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:25 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:25 --> Model Class Initialized
+INFO - 2015-06-30 13:26:25 --> Model Class Initialized
+INFO - 2015-06-30 13:26:25 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:26 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:26 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:26 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:26 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:26 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:26 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:26:26 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:26:26 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:26:26 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:26 --> Total execution time: 0.1200
+INFO - 2015-06-30 13:26:53 --> Config Class Initialized
+INFO - 2015-06-30 13:26:53 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:53 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:53 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:53 --> URI Class Initialized
+INFO - 2015-06-30 13:26:53 --> Router Class Initialized
+INFO - 2015-06-30 13:26:53 --> Output Class Initialized
+INFO - 2015-06-30 13:26:53 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:53 --> Input Class Initialized
+INFO - 2015-06-30 13:26:53 --> Language Class Initialized
+INFO - 2015-06-30 13:26:53 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:53 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:53 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:53 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:53 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:53 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:53 --> Model Class Initialized
+INFO - 2015-06-30 13:26:53 --> Model Class Initialized
+INFO - 2015-06-30 13:26:53 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:53 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:53 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:26:53 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:53 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:26:53 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:26:53 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:26:53 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:26:53 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:53 --> Total execution time: 0.1860
+INFO - 2015-06-30 13:26:55 --> Config Class Initialized
+INFO - 2015-06-30 13:26:55 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:26:55 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:26:55 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:26:55 --> URI Class Initialized
+INFO - 2015-06-30 13:26:55 --> Router Class Initialized
+INFO - 2015-06-30 13:26:55 --> Output Class Initialized
+INFO - 2015-06-30 13:26:55 --> Security Class Initialized
+DEBUG - 2015-06-30 13:26:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:26:55 --> Input Class Initialized
+INFO - 2015-06-30 13:26:55 --> Language Class Initialized
+INFO - 2015-06-30 13:26:55 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:26:55 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:26:55 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:26:55 --> Controller Class Initialized
+INFO - 2015-06-30 13:26:55 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:26:55 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:26:55 --> Model Class Initialized
+INFO - 2015-06-30 13:26:55 --> Model Class Initialized
+INFO - 2015-06-30 13:26:55 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:26:55 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:26:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:26:55 --> Model Class Initialized
+DEBUG - 2015-06-30 13:26:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:26:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:55 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:26:55 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:26:55 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:26:55 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:26:55 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:26:55 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:26:55 --> Final output sent to browser
+DEBUG - 2015-06-30 13:26:55 --> Total execution time: 0.1200
+INFO - 2015-06-30 13:29:20 --> Config Class Initialized
+INFO - 2015-06-30 13:29:20 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:29:20 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:29:20 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:29:20 --> URI Class Initialized
+INFO - 2015-06-30 13:29:20 --> Router Class Initialized
+INFO - 2015-06-30 13:29:20 --> Output Class Initialized
+INFO - 2015-06-30 13:29:20 --> Security Class Initialized
+DEBUG - 2015-06-30 13:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:29:20 --> Input Class Initialized
+INFO - 2015-06-30 13:29:20 --> Language Class Initialized
+INFO - 2015-06-30 13:29:20 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:29:20 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:29:20 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:29:20 --> Controller Class Initialized
+INFO - 2015-06-30 13:29:20 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:29:20 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:29:20 --> Model Class Initialized
+INFO - 2015-06-30 13:29:20 --> Model Class Initialized
+INFO - 2015-06-30 13:29:20 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:29:21 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:29:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:29:21 --> Model Class Initialized
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:29:21 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:29:21 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:29:21 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:29:21 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:29:21 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:29:21 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:29:21 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:29:21 --> Final output sent to browser
+DEBUG - 2015-06-30 13:29:21 --> Total execution time: 0.7980
+INFO - 2015-06-30 13:29:22 --> Config Class Initialized
+INFO - 2015-06-30 13:29:22 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:29:22 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:29:22 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:29:22 --> URI Class Initialized
+INFO - 2015-06-30 13:29:22 --> Router Class Initialized
+INFO - 2015-06-30 13:29:22 --> Output Class Initialized
+INFO - 2015-06-30 13:29:22 --> Security Class Initialized
+DEBUG - 2015-06-30 13:29:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:29:22 --> Input Class Initialized
+INFO - 2015-06-30 13:29:22 --> Language Class Initialized
+INFO - 2015-06-30 13:29:22 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:29:22 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:29:22 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:29:22 --> Controller Class Initialized
+INFO - 2015-06-30 13:29:22 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:29:22 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:29:22 --> Model Class Initialized
+INFO - 2015-06-30 13:29:22 --> Model Class Initialized
+INFO - 2015-06-30 13:29:22 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:29:23 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:29:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:29:23 --> Model Class Initialized
+DEBUG - 2015-06-30 13:29:23 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:29:23 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:29:23 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:29:23 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:29:23 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:29:23 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:29:23 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:29:23 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:29:23 --> Final output sent to browser
+DEBUG - 2015-06-30 13:29:23 --> Total execution time: 0.1720
+INFO - 2015-06-30 13:31:12 --> Config Class Initialized
+INFO - 2015-06-30 13:31:12 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:31:12 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:31:12 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:31:12 --> URI Class Initialized
+INFO - 2015-06-30 13:31:12 --> Router Class Initialized
+INFO - 2015-06-30 13:31:12 --> Output Class Initialized
+INFO - 2015-06-30 13:31:12 --> Security Class Initialized
+DEBUG - 2015-06-30 13:31:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:31:12 --> Input Class Initialized
+INFO - 2015-06-30 13:31:12 --> Language Class Initialized
+INFO - 2015-06-30 13:31:12 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:31:12 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:31:12 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:31:12 --> Controller Class Initialized
+INFO - 2015-06-30 13:31:12 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:31:12 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:31:12 --> Model Class Initialized
+INFO - 2015-06-30 13:31:12 --> Model Class Initialized
+INFO - 2015-06-30 13:31:12 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:31:12 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:31:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:31:12 --> Model Class Initialized
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:31:12 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:31:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:31:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:31:12 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:31:12 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:31:12 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:31:12 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:31:12 --> Final output sent to browser
+DEBUG - 2015-06-30 13:31:12 --> Total execution time: 0.2250
+INFO - 2015-06-30 13:31:14 --> Config Class Initialized
+INFO - 2015-06-30 13:31:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:31:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:31:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:31:14 --> URI Class Initialized
+INFO - 2015-06-30 13:31:14 --> Router Class Initialized
+INFO - 2015-06-30 13:31:14 --> Output Class Initialized
+INFO - 2015-06-30 13:31:14 --> Security Class Initialized
+DEBUG - 2015-06-30 13:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:31:14 --> Input Class Initialized
+INFO - 2015-06-30 13:31:14 --> Language Class Initialized
+INFO - 2015-06-30 13:31:14 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:31:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:31:14 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:31:14 --> Controller Class Initialized
+INFO - 2015-06-30 13:31:14 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:31:14 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:31:14 --> Model Class Initialized
+INFO - 2015-06-30 13:31:14 --> Model Class Initialized
+INFO - 2015-06-30 13:31:14 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:31:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:31:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:31:14 --> Model Class Initialized
+DEBUG - 2015-06-30 13:31:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:31:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:31:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:31:14 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:31:14 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:31:14 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:31:14 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:31:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:31:14 --> Final output sent to browser
+DEBUG - 2015-06-30 13:31:14 --> Total execution time: 0.1300
+INFO - 2015-06-30 13:32:14 --> Config Class Initialized
+INFO - 2015-06-30 13:32:14 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:32:14 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:32:14 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:32:14 --> URI Class Initialized
+INFO - 2015-06-30 13:32:14 --> Router Class Initialized
+INFO - 2015-06-30 13:32:14 --> Output Class Initialized
+INFO - 2015-06-30 13:32:14 --> Security Class Initialized
+DEBUG - 2015-06-30 13:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:32:14 --> Input Class Initialized
+INFO - 2015-06-30 13:32:14 --> Language Class Initialized
+INFO - 2015-06-30 13:32:14 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:32:14 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:32:14 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:32:14 --> Controller Class Initialized
+INFO - 2015-06-30 13:32:14 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:32:14 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:32:14 --> Model Class Initialized
+INFO - 2015-06-30 13:32:14 --> Model Class Initialized
+INFO - 2015-06-30 13:32:14 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:32:14 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:32:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:32:14 --> Model Class Initialized
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null and col_status_code not in('Destroyed','Expunging')
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is null and col_status_code in('Active','Inactive','Shutdowned','Stopped','Stopping','PowerOff','Migrating')
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code in('Error','Unknown','PowerReportMissing','PowerUnknown')
+DEBUG - 2015-06-30 13:32:14 --> select count(col_id) count from game_script where YEAR(col_date)=YEAR(NOW())
+DEBUG - 2015-06-30 13:32:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:32:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid!='Y' or d.col_check!=1 or d.col_status!=2
+        group by script_name) k
+DEBUG - 2015-06-30 13:32:14 --> select count(script_name) count
+        from(select a.col_user_id,d.col_name script_name,d.col_date
+        from vm a,script_template c,game_script d
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id
+        and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
+        and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
+        group by script_name) k
+DEBUG - 2015-06-30 13:32:14 --> select count(*) as num from user where col_role="user" or col_role="author"
+DEBUG - 2015-06-30 13:32:14 --> select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)
+INFO - 2015-06-30 13:32:14 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_index.php
+INFO - 2015-06-30 13:32:14 --> Final output sent to browser
+DEBUG - 2015-06-30 13:32:14 --> Total execution time: 0.1490
+INFO - 2015-06-30 13:32:17 --> Config Class Initialized
+INFO - 2015-06-30 13:32:17 --> Hooks Class Initialized
+DEBUG - 2015-06-30 13:32:17 --> UTF-8 Support Enabled
+INFO - 2015-06-30 13:32:17 --> Utf8 Class Initialized
+INFO - 2015-06-30 13:32:17 --> URI Class Initialized
+INFO - 2015-06-30 13:32:17 --> Router Class Initialized
+INFO - 2015-06-30 13:32:17 --> Output Class Initialized
+INFO - 2015-06-30 13:32:17 --> Security Class Initialized
+DEBUG - 2015-06-30 13:32:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-06-30 13:32:17 --> Input Class Initialized
+INFO - 2015-06-30 13:32:17 --> Language Class Initialized
+INFO - 2015-06-30 13:32:17 --> Loader Class Initialized
+DEBUG - 2015-06-30 13:32:17 --> Config file loaded: D:\soft\xampp\htdocs\manage\application\config/custom.php
+INFO - 2015-06-30 13:32:17 --> Helper loaded: url_helper
+INFO - 2015-06-30 13:32:17 --> Controller Class Initialized
+INFO - 2015-06-30 13:32:17 --> Helper loaded: form_helper
+INFO - 2015-06-30 13:32:17 --> Form Validation Class Initialized
+INFO - 2015-06-30 13:32:17 --> Model Class Initialized
+INFO - 2015-06-30 13:32:17 --> Model Class Initialized
+INFO - 2015-06-30 13:32:17 --> Database Driver Class Initialized
+INFO - 2015-06-30 13:32:17 --> Session: Class initialized using 'database' driver.
+DEBUG - 2015-06-30 13:32:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-06-30 13:32:17 --> Model Class Initialized
+DEBUG - 2015-06-30 13:32:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())
+DEBUG - 2015-06-30 13:32:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:32:17 --> select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='N'
+DEBUG - 2015-06-30 13:32:17 --> select count(col_id) count from ticket where WEEK(col_time)=WEEK(NOW())
+DEBUG - 2015-06-30 13:32:17 --> select count(col_id)/max(datediff(NOW(),col_time)) avg from ticket where YEAR(col_time)=YEAR(NOW()) and col_status='Y'
+DEBUG - 2015-06-30 13:32:17 --> select MONTH(col_time) mon,count(col_id) count ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
+        (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
+        from ticket where YEAR(col_time)=YEAR(NOW()) group by MONTH(col_time)
+DEBUG - 2015-06-30 13:32:17 --> select k.game_name,k.script_name,count(k.col_id) count from (select e.col_name game_name,d.col_name script_name,g.col_id,g.col_time
+        from vm a,script_template c,game_script d,game e,user f,ticket g 
+        where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id and a.col_user_id=f.col_id and f.col_id=g.col_user_id
+        and YEAR(g.col_time)=YEAR(NOW()) group by game_name,script_name) k group by k.game_name,k.script_name order by count(k.col_id) desc limit 10
+INFO - 2015-06-30 13:32:17 --> File loaded: D:\soft\xampp\htdocs\manage\application\views\report_ticket.php
+INFO - 2015-06-30 13:32:17 --> Final output sent to browser
+DEBUG - 2015-06-30 13:32:17 --> Total execution time: 0.1290

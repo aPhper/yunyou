@@ -5,8 +5,11 @@
 <title>无标题文档</title>
 <link href="<?php echo base_url('css/style.css') ?>" rel="stylesheet" type="text/css" />
 <link href="<?php echo base_url('css/select.css') ?>" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="<?php echo base_url('js/jquery.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('js/jquery.min.js') ?>"></script>
 <script type="text/javascript" src="<?php echo base_url('js/select-ui.min.js') ?>"></script>
+<script type='text/javascript' src='<?php echo base_url() ;?>js/highcharts.js'></script>
+<script type='text/javascript' src='<?php echo base_url() ;?>js/exporting.js'></script>
+<script type='text/javascript' src='<?php echo base_url() ;?>js/chart.js'></script>
 <script type="text/javascript">
 $(document).ready(function(e) {
     $(".select1").uedSelect({
@@ -18,6 +21,7 @@ $(document).ready(function(e) {
 	$(".select3").uedSelect({
 		width : 100
 	});
+      drawing();
 });
 </script>
 </head>
@@ -53,7 +57,7 @@ $(document).ready(function(e) {
             <input name="" type="submit" class="scbtn" value="查询"/>
           </li>
         </ul>
-        <div style="clear:both;"> <img src="../../images/zx.jpg" width="" height="253" /> </div>
+        <div style="clear:both;" id='container'>  </div>
         <table class="tablelist">
           <thead>
             <tr>
@@ -147,6 +151,14 @@ $(document).ready(function(e) {
   <!--mainright end--> 
   
 </div>
+<div>
+<input type='hidden' id='x' value='<?php echo $x?>' />
+<input type='hidden' id='y' value='<?php echo $y?>'  />
+<input type='hidden' id='title' value='工单统计图'/>
+<input  type='hidden' id='y_title' value='工单条数'/>
+<input type='hidden' id='series_name' value='工单统计'/>
+
+</div>
 </body>
 <script type="text/javascript">
 	setWidth();
@@ -162,3 +174,6 @@ $(document).ready(function(e) {
 	$('.tablelist tbody tr:odd').addClass('odd');
 	</script>
 </html>
+
+<?php
+

@@ -4,6 +4,7 @@ class Report_mdl extends CI_Model
 {
 
     //月工单数
+
     const month_tickets = "select MONTH(col_time) mon,count(col_id) count ,
         (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='Y') county ,
         (select count(col_status) from ticket where MONTH(col_time)=mon and col_status='N') countn
@@ -26,7 +27,7 @@ class Report_mdl extends CI_Model
         (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='Y') county ,
         (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='N') countn
         from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) group by DAYOFMONTH(col_time) order by col_time";
-    
+   
     //工单总量
     const tickets = 'select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())';
     
@@ -159,14 +160,64 @@ class Report_mdl extends CI_Model
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by game_name,script_name) k
         order by count(script_name) desc limit 10";
+
     
+
+    /**
+     * 活跃用户前十
+     * @var unknown
+     */
+    const user_top="select u.col_nickname as username,count(*) as num from user as u,login_log as ll where
+         u.col_id= ll.col_user_id and(col_role='user' or col_role='author') group by ll.col_user_id order 
+        by num desc limit 10";
+    /**
+     * 当前在线用户数
+     * @var unknown
+     */
+    const online_now="select count(*) as num from ci_sessions where timestamp between (unix_timestamp(now())-900) and unix_timestamp(now())";
+    /**
+     * 当天上线用户数
+     */
+    const online_now_day="select count(distinct(col_user_id)) as num from login_log where to_days(now())=to_days(col_timestamp)";
+    /**
+     * 每天在线用户数
+     * @var unknown
+     */
+    const online_day="select date(col_timestamp) as time, count(distinct(col_user_id)) as num from login_log group by date_format(col_timestamp,'%Y-%m-%d')";
+    /**
+     * 每个月的在线用户
+     */
+    const online_moth="select date_format(col_timestamp,'%Y%m') as time, count(distinct(col_user_id)) as num from login_log group by date_format(col_timestamp,'%Y%m')";
+    /**
+     * 每周在线用户数
+     * @var unknown
+     */
+    const online_week="select date_format(col_timestamp,'%Y%u') as time, count(distinct(col_user_id)) as num from login_log group by date_format(col_timestamp,'%Y%u')";
+    /**
+     * 总用户数
+     */
+    const total_user='select count(*) as num from user where col_role="user" or col_role="author"';
+    /**
+     * 日新增用户数
+     */
+    const new_user_day="select date_format(col_datetime,'%Y-%m-%d') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%m-%d')";
+    /**
+     * 周新增用户数
+     */
+    const new_user_week="select date_format(col_datetime,'%Y-%u') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
+    /**
+     * 月新增用户数
+     */
+    const new_user_moth="select date_format(col_datetime,'%Y-%u') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
+
     public function __construct()
     {
         parent::__construct();
         $this->load->database();
     }
 
-    
+
+
     /**
      * 
      */
@@ -227,7 +278,28 @@ class Report_mdl extends CI_Model
             $query = $this->db->query(self::hot_scripts);
         }else if($sql_name == 'script_top'){
             $query = $this->db->query(self::script_top);
+        }else if($sql_name == 'user_top'){
+            $query = $this->db->query(self::user_top);
+        }else if($sql_name == 'online_now'){
+            $query = $this->db->query(self::online_now);
+        }else if($sql_name == 'online_now_day'){
+            $query = $this->db->query(self::online_now_day);
+        }else if($sql_name == 'online_day'){
+            $query = $this->db->query(self::online_day);
+        }else if($sql_name == 'online_moth'){
+            $query = $this->db->query(self::online_moth);
+        }else if($sql_name == 'online_week'){
+            $query = $this->db->query(self::online_week);
+        }else if($sql_name == 'total_user'){
+            $query = $this->db->query(self::total_user);
+        }else if($sql_name == 'new_user_day'){
+            $query = $this->db->query(self::new_user_day);
+        }else if($sql_name == 'new_user_week'){
+            $query = $this->db->query(self::new_user_week);
+        }else if($sql_name == 'new_user_moth'){
+            $query = $this->db->query(self::new_user_moth);
         }
+            
         if ($query) {
             log_message('debug', (string)$this->db->last_query());
             $mess['data'] = $query->result_array();
