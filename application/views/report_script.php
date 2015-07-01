@@ -5,13 +5,8 @@
 <title>无标题文档</title>
 <link href="<?php echo base_url('css/style.css') ?>" rel="stylesheet" type="text/css" />
 <link href="<?php echo base_url('css/select.css') ?>" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="<?php echo base_url('js/jquery.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('js/jquery.js') ?>"></script>
 <script type="text/javascript" src="<?php echo base_url('js/select-ui.min.js') ?>"></script>
-<<<<<<< HEAD
-<script type='text/javascript' src='<?php echo base_url() ;?>js/highcharts.js'></script>
-<script type='text/javascript' src='<?php echo base_url() ;?>js/exporting.js'></script>
-<script type='text/javascript' src='<?php echo base_url() ;?>js/chart.js'></script>
-
 <script type="text/javascript">
 $(document).ready(function(e) {
     $(".select1").uedSelect({
@@ -38,10 +33,10 @@ $(document).ready(function(e) {
 <div class="mainbox">
   <div class="mainleft">
     <div class="leftinfo">
-      <div class="listtitle">工单统计</div>
+      <div class="listtitle">top脚本</div>
       <div class="rightinfo">
         <ul class="seachform">
-        <?php echo form_open(base_url('report/report_ticket'),'post'); ?>
+        <?php echo form_open(base_url('report/report_script'),'post'); ?>
           <li>
             <label>按时间段查看</label>
             <div class="vocation">
@@ -58,21 +53,19 @@ $(document).ready(function(e) {
             <input name="" type="submit" class="scbtn" value="查询"/>
           </li>
         </ul>
-        <div style="clear:both;" id='container'>  </div>
+        <div style="clear:both;"> <img src="../../images/zx.jpg" width="" height="253" /> </div>
         <table class="tablelist">
           <thead>
             <tr>
               <th width="60">序号<i class="sort"><img src="<?php echo base_url('images/px.gif') ?>" /></i></th>
               <th>日期</th>
-              <th>工单总量</th>
-              <th>已处理工单量</th>
-              <th>未处理工单量</th>
+              <th>脚本使用量</th>
               <th>操作</th>
             </tr>
           </thead>
           <tbody>
-          <?php if(!empty($ticket_records)){
-        foreach ($ticket_records as $key1 => $value1){ ?>
+          <?php if(!empty($script_records)){
+        foreach ($script_records as $key1 => $value1){ ?>
             <tr>
               <td><?php echo $key1+1 ?></td>
               <td><?php 
@@ -87,13 +80,11 @@ $(document).ready(function(e) {
               }    
                ?></td>
               <td><?php echo $value1['count'] ?></td>
-              <td><?php echo $value1['county'] ?></td>
-              <td><?php echo $value1['countn'] ?></td>
               <td><a href="">查看详情</a></td>
             </tr>
             <?php }}else { ?>
           <tr align="center">
-            <td colspan="6"><h3>暂时没有要查询的记录</h3></td>
+            <td colspan="4"><h3>暂时没有要查询的记录</h3></td>
           </tr>
           <?php } ?>            
           </tbody>
@@ -108,18 +99,16 @@ $(document).ready(function(e) {
   
   <div class="mainright">
     <div class="dflist">
-      <div class="listtitle">工单总统计</div>
+      <div class="listtitle">脚本总统计</div>
          <ul class="newlist">
-           <li><i>工单总量：</i><?php echo $tickets[0]['count'] ?></li>
-           <li><i>已处理工单量：</i><?php echo $handle_tickets[0]['count'] ?></li>
-           <li><i>未处理工单量：</i><?php echo $no_handle_tickets[0]['count'] ?></li>
-           <li><i>周内新增工单量：</i><?php echo $week_increase_tickets[0]['count'] ?></li>
-           <li><i>日平均处理量：</i><?php echo $avg_tickets[0]['avg'] ?></li>
-           <li><i>平均完成率：</i><?php echo $avg_complate ?></li>
+           <li><i>脚本总量：</i><?php echo $scripts[0]['count'] ?></li>
+            <li><i>已使用脚本数：</i><?php echo $use_scripts[0]['count'] ?></li>
+            <li><i>审核未通过的脚本数：</i><?php echo $no_pass_scripts[0]['count'] ?></li>
+            <li><i>热门脚本数：</i><?php echo $hot_scripts[0]['count'] ?></li>
          </ul>
     </div>
     <div class="dflist1">
-      <div class="listtitle">top工单脚本排行</div>
+      <div class="listtitle">热门脚本排行</div>
       <ul class="rightinfo">
         <table class="tablelist">
           <thead>
@@ -127,16 +116,16 @@ $(document).ready(function(e) {
               <th width="60">序号</th>
               <th>游戏名称</th>
               <th>脚本名称</th>
-              <th>工单数量</th>
+              <th>使用总数量</th>
             </tr>
           </thead>
           <tbody>
-          <?php if(!empty($tickets_top)){
-        foreach ($tickets_top as $key => $value){ ?>
+          <?php if(!empty($scripts_top)){
+        foreach ($scripts_top as $key => $value){ ?>
             <tr>
               <td><?php echo $key+1 ?></td>
               <td><?php echo $value['game_name'] ?></td>
-              <td><a href="javascript:void(0);"><?php echo $value['script_name'] ?></a></td>
+              <td><?php echo $value['script_name'] ?></td>
               <td><?php echo $value['count'] ?></td>
             </tr>
             <?php }}else { ?>
@@ -152,17 +141,8 @@ $(document).ready(function(e) {
   <!--mainright end--> 
   
 </div>
-<div>
-<input type='hidden' id='x' value='<?php echo $x?>' />
-<input type='hidden' id='y' value='<?php echo $y?>'  />
-<input type='hidden' id='title' value='工单统计图'/>
-<input  type='hidden' id='y_title' value='工单条数'/>
-<input type='hidden' id='series_name' value='工单统计'/>
-
-</div>
 </body>
 <script type="text/javascript">
-drawing();
 	setWidth();
 	$(window).resize(function(){
 		setWidth();	
@@ -176,6 +156,3 @@ drawing();
 	$('.tablelist tbody tr:odd').addClass('odd');
 	</script>
 </html>
-
-<?php
-

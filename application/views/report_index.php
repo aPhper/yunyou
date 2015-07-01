@@ -81,7 +81,7 @@ $(function () {
          </ul>
       </div>
       <div class="inforight">
-        <div class="listtitle"><a href="yye_xnj.html" class="more1">详情</a>虚拟机统计</div>
+        <div class="listtitle"><a href="<?php echo base_url('report/report_vm') ?>" class="more1">详情</a>虚拟机统计</div>
          <ul class="newlist">
            <li><i>虚拟机总数：</i><?php echo $vms[0]['count'] ?></li>
            <li><i>虚拟机使用量：</i><?php echo $use_vms[0]['count'] ?></li>
@@ -103,7 +103,7 @@ $(function () {
       </ul>
     </div>
     <div class="dflist1">
-      <div class="listtitle"><a href="yye_jb.html" class="more1">详情</a>top脚本</div>
+      <div class="listtitle"><a href="<?php echo base_url('report/report_script') ?>" class="more1">详情</a>top脚本</div>
       <ul class="newlist">
         <li><i>脚本总量：</i><?php echo $scripts[0]['count'] ?></li>
         <li><i>已使用脚本数：</i><?php echo $use_scripts[0]['count'] ?></li>
