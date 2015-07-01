@@ -149,13 +149,38 @@ class Report extends CI_Controller {
 	    
 	}
 	public function report_user(){
+	   $serch=$this->input->post('serch')?$this->input->post('serch'):1;
 	    //总用户数
 	    $this->_data['total_user']=$this->report_mdl->get_data('total_user');
 	    //当日上线用户
 	    $this->_data['online_now_day']=$this->report_mdl->get_data('online_now_day');
 	    //当前在线
 	    $this->_data['online_now']=$this->report_mdl->get_data('online_now');
+	    //用户活跃度排名
 	    $this->_data['user_top']=$this->report_mdl->get_data('user_top');
+
+	    if($serch =='1'){//月增加用户数
+	        $month_user=$this->report_mdl->get_data('month_user');
+	        $this->_data['x']=$this->handle($month_user,'x');
+	        $this->_data['y']=$this->handle($month_user,'y');
+	        $this->_data['user_records']=$month_user;
+	    }elseif ($serch =='2'){//周增加用户数
+	        $week_user=$this->report_mdl->get_data('week_user');
+	        $this->_data['x']=$this->handle($week_user,'x');
+	        $this->_data['y']=$this->handle($week_user,'y');
+	        $this->_data['user_records']=$week_user;
+	    }elseif ($serch == '3'){//最近一周增加用户
+	        $recent_week_user=$this->report_mdl->get_data('recent_week_user');
+	        $this->_data['x']=$this->handle($recent_week_user,'x');
+	        $this->_data['y']=$this->handle($recent_week_user,'y');
+	        $this->_data['user_records']=$recent_week_user;
+	    }elseif ($serch == '4'){//最近一月增加用户
+	        $recent_month_user=$this->report_mdl->get_data('recent_month_user');
+	        $this->_data['x']=$this->handle($recent_month_user,'x');
+	        $this->_data['y']=$this->handle($recent_month_user,'y');
+	        $this->_data['user_records']=$recent_month_user;
+	    }
+	    $this->_data['serch']=$serch;
 	    $this->load->view('report_user',$this->_data);
 
 	}

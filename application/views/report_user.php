@@ -38,26 +38,59 @@ $(document).ready(function(e) {
     <div class='leftinfo'>
       <div class='listtitle'>用户统计</div>
       <div class='rightinfo'>
-        <ul class='seachform'>
-        <?php echo form_open('report/report_user')?>
+         <ul class="seachform">
+        <?php echo form_open(base_url('report/report_user'),'post'); ?>
           <li>
             <label>按时间段查看</label>
-            <div class='vocation'>
-              <select class='select3'>
-                <option value='day'>天</option>
-                <option value='week'>周</option>
-                <option value='month' selected='selected'>月</option>
-                
+            <div class="vocation">
+              <select class="select3" name='serch'>
+                <option value='1' <?php echo ($serch == '1' ? 'selected="selected"':'') ?>>月</option>
+                <option value='2' <?php echo ($serch == '2' ? 'selected="selected"':'') ?>>周</option>
+                <option value='3' <?php echo ($serch == '3' ? 'selected="selected"':'') ?>>最近一周</option>
+                <option value='4' <?php echo ($serch == '4' ? 'selected="selected"':'') ?>>最近一月</option>
               </select>
             </div>
           </li>
           <li>
             <label>&nbsp;</label>
-            <input name='' type='button' class='scbtn' value='查询'/>
+            <input name="" type="submit" class="scbtn" value="查询"/>
           </li>
         </ul>
         <div style='clear:both;'id='container'></div>
-        
+        <table class="tablelist">
+          <thead>
+            <tr>
+              <th width="60">序号<i class="sort"><img src="<?php echo base_url('images/px.gif') ?>" /></i></th>
+              <th>日期</th>
+              <th>新增用户</th>
+            </tr>
+          </thead>
+          <tbody>
+          <?php if(!empty($user_records)){
+        foreach ($user_records as $key1 => $value1){ ?>
+            <tr>
+              <td><?php echo $key1+1 ?></td>
+              <td><?php 
+              if($serch =='1'){//月工单数
+                  echo $value1['mon'].'月';
+              }elseif ($serch =='2'){//周工单数
+                  echo $value1['mon'].'周';
+              }elseif ($serch == '3'){//最近一周工单
+                  echo '周'.$value1['mon'];
+              }elseif ($serch == '4'){
+                  echo $value1['mon'].'号';
+              }    
+               ?></td>
+              <td><?php echo $value1['count'] ?></td>
+              
+            </tr>
+            <?php }}else { ?>
+          <tr align="center">
+            <td colspan="6"><h3>暂时没有要查询的记录</h3></td>
+          </tr>
+          <?php } ?>            
+          </tbody>
+        </table>
       </div>
       <!--rightinfo end --> 
     </div>
@@ -103,7 +136,23 @@ $(document).ready(function(e) {
   <!--mainright end--> 
   
 </div>
-
+<div>
+<input type='hidden' id='x' value="<?php print_r($x);?>" />
+<input type='hidden' id='y' value="<?php print_r($y);?>"  />
+<input type='hidden' id='title' value='用户统计图'/>
+<input  type='hidden' id='y_title' value='用户条数'/>
+<input type='hidden' id='line_name'value='用户总量'/>
+<input type='hidden' id='series_name' value='用户统计'/>
+<input type='hidden' id='x_title' value='<?php if($serch =='1'){//月用户数
+                  echo $value1['mon'].'月';
+              }elseif ($serch =='2'){//周用户数
+                  echo $value1['mon'].'周';
+              }elseif ($serch == '3'){//最近一周用户
+                  echo '周'.$value1['mon'];
+              }elseif ($serch == '4'){
+                  echo $value1['mon'].'号';
+              } ?>'/>
+</div>
 </body>
 <script type='text/javascript' src='<?php echo base_url() ;?>js/chart.js'></script>
 <script type='text/javascript'>
@@ -115,6 +164,7 @@ $(document).ready(function(e) {
 		var width = ($('.leftinfos').width()-12)/2;
 		$('.infoleft,.inforight').width(width);
 	}
+	drawing();
 </script>
 <script type='text/javascript'>
 	$('.tablelist tbody tr:odd').addClass('odd');

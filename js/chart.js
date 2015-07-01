@@ -7,31 +7,23 @@
                             type: 'line'                         //指定图表的类型，默认是折线图（line）
                         },
                         title: {
-                            text: '表单统计'      //指定图表标题
+                            text: $('#title').val()      //指定图表标题
                         },
                         xAxis: {
+                        	title:{
+                        		text:$('#x_tytle').val()
+                        	},
                             categories: eval($('#x').val())   //指定x轴分组
                         },
                         yAxis: {
                             title: {
-                                text: 'asdf'                  //指定y轴的标题
+                                text: $('#y_title').val()             //指定y轴的标题
                             }
                         },
-                        series:{                               
-                                name: 'asdf',                          
-                                data: eval($('#y').val()) 
-                            },
-                        tooltip: {
-                            crosshairs: [{
-                                width: 1,
-                                color: 'green'
-                            }, {
-                                width: 1,
-                                color: 'green'
-                            }],
-                            pointFormat: '<span style="color:{series.color}">{series.name}</span>: ({point.y:,.0f} 个)<br/>',
-                            shared: true
-                        }
+                        series:[{                                 //指定数据列
+                            name: $('#line_name').val(),                          //数据列名
+                            data: eval($('#y').val())                    //数据
+                        }],
                 });
             });
         };

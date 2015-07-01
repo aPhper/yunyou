@@ -153,12 +153,21 @@ $(document).ready(function(e) {
   
 </div>
 <div>
-<input type='hidden' id='x' value='<?php echo $x?>' />
-<input type='hidden' id='y' value='<?php echo $y?>'  />
+<input type='hidden' id='x' value="<?php print_r($x);?>" />
+<input type='hidden' id='y' value="<?php print_r($y);?>"  />
 <input type='hidden' id='title' value='工单统计图'/>
 <input  type='hidden' id='y_title' value='工单条数'/>
+<input type='hidden' id='line_name'value='工单总量'/>
 <input type='hidden' id='series_name' value='工单统计'/>
-
+<input type='hidden' id='x_title' value='<?php if($serch =='1'){//月工单数
+                  echo $value1['mon'].'月';
+              }elseif ($serch =='2'){//周工单数
+                  echo $value1['mon'].'周';
+              }elseif ($serch == '3'){//最近一周工单
+                  echo '周'.$value1['mon'];
+              }elseif ($serch == '4'){
+                  echo $value1['mon'].'号';
+              } ?>'/>
 </div>
 </body>
 <script type="text/javascript">

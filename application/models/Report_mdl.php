@@ -20,13 +20,13 @@ class Report_mdl extends CI_Model
     const recent_week_tickets = "select WEEKDAY(col_time)+1 mon,count(col_id) count ,
         (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='Y') county ,
         (select count(col_status) from ticket where WEEKDAY(col_time)=mon-1 and col_status='N') countn
-         from ticket where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_time) group by WEEKDAY(col_time) order by col_time";
+         from ticket where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_time) and col_time<now() group by WEEKDAY(col_time) order by col_time";
     
     //最近一月工单
     const recent_month_tickets = "select DAYOFMONTH(col_time) mon,count(col_id) count ,
         (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='Y') county ,
         (select count(col_status) from ticket where DAYOFMONTH(col_time)=mon and col_status='N') countn
-        from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) group by DAYOFMONTH(col_time) order by col_time";
+        from ticket where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_time) and col_time<now() group by DAYOFMONTH(col_time)  order by col_time";
    
     //工单总量
     const tickets = 'select count(col_id) count from ticket where YEAR(col_time)=YEAR(NOW())';
@@ -160,8 +160,31 @@ class Report_mdl extends CI_Model
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2 and d.col_hot='Y'
         group by game_name,script_name) k
         order by count(script_name) desc limit 10";
-
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //月用户
     
+    const month_user = "select MONTH(col_datetime) mon,count(col_id) count 
+        
+        
+        from user where YEAR(col_datetime)=YEAR(NOW()) and (col_role='user' or col_role='author') group by MONTH(col_datetime)";
+    
+//     //周用户
+    const week_user = "select WEEK(col_datetime) mon,count(col_id) count 
+        
+        
+        from user where YEAR(col_datetime)=YEAR(NOW()) and (col_role='user' or col_role='author') group by WEEK(col_datetime)";
+    
+//     //最近一周用户
+    const recent_week_user = "select WEEKDAY(col_datetime)+1 mon,count(col_id) count 
+        
+        
+         from user where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_datetime) and (col_role='user' or col_role='author') and col_datetime<now() group by WEEKDAY(col_datetime) order by col_datetime";
+    
+//     //最近一月用户
+    const recent_month_user = "select DAYOFMONTH(col_datetime) mon,count(col_id) count 
+        
+        
+        from user where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_datetime) and (col_role='user' or col_role='author') and col_datetime<now() group by DAYOFMONTH(col_datetime) order by col_datetime";
 
     /**
      * 活跃用户前十
@@ -200,15 +223,15 @@ class Report_mdl extends CI_Model
     /**
      * 日新增用户数
      */
-    const new_user_day="select date_format(col_datetime,'%Y-%m-%d') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%m-%d')";
+    const new_user_day="select date_format(col_datetime,'%Y-%m-%d') as mon, count(*) as count from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%m-%d')";
     /**
      * 周新增用户数
      */
-    const new_user_week="select date_format(col_datetime,'%Y-%u') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
+    const new_user_week="select date_format(col_datetime,'%Y-%u') as mon, count(*) as conut from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
     /**
      * 月新增用户数
      */
-    const new_user_moth="select date_format(col_datetime,'%Y-%u') as time, count(*) as num from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
+    const new_user_moth="select date_format(col_datetime,'%Y-%u') as mon, count(*) as conut from user where col_role='user' or col_role='author' group by date_format(col_datetime,'%Y-%u')";
 
     public function __construct()
     {
@@ -298,6 +321,14 @@ class Report_mdl extends CI_Model
             $query = $this->db->query(self::new_user_week);
         }else if($sql_name == 'new_user_moth'){
             $query = $this->db->query(self::new_user_moth);
+        }else if($sql_name == 'month_user'){
+            $query = $this->db->query(self::month_user);
+        }else if($sql_name == 'week_user'){
+            $query = $this->db->query(self::week_user);
+        }else if($sql_name == 'recent_week_user'){
+            $query = $this->db->query(self::recent_week_user);
+        }else if($sql_name == 'recent_month_user'){
+            $query = $this->db->query(self::recent_month_user);
         }
             
         if ($query) {
