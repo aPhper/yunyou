@@ -54,13 +54,13 @@ class Report_mdl extends CI_Model
     const month_vms = 'select MONTH(col_begin) mon,count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null group by MONTH(col_begin)';
     
     //周虚拟机使用数
-    const week_vms = 'select WEEK(col_begin) wee,count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null group by WEEK(col_begin)';
+    const week_vms = 'select WEEK(col_begin) mon,count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_end is not null group by WEEK(col_begin)';
     
     //最近一周虚拟机使用数
-    const recent_week_vms = 'select WEEKDAY(col_begin)+1 wee,count(col_id) count from vm where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_begin) and col_end is not null group by WEEKDAY(col_begin) order by col_begin';
+    const recent_week_vms = 'select WEEKDAY(col_begin)+1 mon,count(col_id) count from vm where DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= date(col_begin) and col_end is not null group by WEEKDAY(col_begin) order by col_begin';
     
     //最近一月虚拟机使用数
-    const recent_month_vms = 'select DAYOFMONTH(col_begin) dd,count(col_id) count from vm where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_begin) and col_end is not null group by DAYOFMONTH(col_begin) order by col_begin';
+    const recent_month_vms = 'select DAYOFMONTH(col_begin) mon,count(col_id) count from vm where DATE_SUB(CURDATE(), INTERVAL 1 MONTH) <= date(col_begin) and col_end is not null group by DAYOFMONTH(col_begin) order by col_begin';
     
     //虚拟机总数
     const vms = "select count(col_id) count from vm where YEAR(col_begin)=YEAR(NOW()) and col_status_code not in('Destroyed','Expunging')";
@@ -86,10 +86,10 @@ class Report_mdl extends CI_Model
         and YEAR(d.col_date)=YEAR(NOW()) and a.col_end is not null 
         and d.col_valid='Y' and d.col_check=1 and d.col_status=2
         group by script_name) k
-        group by MONTH(col_date) order by MONTH(col_date";
+        group by MONTH(col_date) order by MONTH(col_date)";
     
     //周脚本使用数
-    const week_scripts = "select WEEK(col_date) wee,count(script_name) count
+    const week_scripts = "select WEEK(col_date) mon,count(script_name) count
         from(select a.col_user_id,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id
@@ -151,7 +151,7 @@ class Report_mdl extends CI_Model
         group by script_name) k";
     
     //热门脚本排行
-    const script_top = "select game_name,script_name,count(script_name) count
+    const scripts_top = "select game_name,script_name,count(script_name) count
         from(select a.col_user_id,e.col_name game_name,d.col_name script_name,d.col_date
         from vm a,script_template c,game_script d,game e
         where a.col_template_id=c.col_template and c.col_script_id=d.col_id and d.col_game_id=e.col_id
@@ -213,6 +213,8 @@ class Report_mdl extends CI_Model
             $query = $this->db->query(self::vms_top);
         }else if($sql_name == 'month_scripts'){
             $query = $this->db->query(self::month_scripts);
+        }else if($sql_name == 'week_scripts'){
+            $query = $this->db->query(self::week_scripts);
         }else if($sql_name == 'recent_week_scripts'){
             $query = $this->db->query(self::recent_week_scripts);
         }else if($sql_name == 'recent_month_scripts'){
@@ -225,8 +227,8 @@ class Report_mdl extends CI_Model
             $query = $this->db->query(self::no_pass_scripts);
         }else if($sql_name == 'hot_scripts'){
             $query = $this->db->query(self::hot_scripts);
-        }else if($sql_name == 'script_top'){
-            $query = $this->db->query(self::script_top);
+        }else if($sql_name == 'scripts_top'){
+            $query = $this->db->query(self::scripts_top);
         }
         if ($query) {
             log_message('debug', (string)$this->db->last_query());

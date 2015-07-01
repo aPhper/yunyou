@@ -7,10 +7,6 @@
 <link href="<?php echo base_url('css/select.css') ?>" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="<?php echo base_url('js/jquery.js') ?>"></script>
 <script type="text/javascript" src="<?php echo base_url('js/select-ui.min.js') ?>"></script>
-<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
-  <script type="text/javascript" src="http://cdn.hcharts.cn/highcharts/highcharts.js"></script>
-  <script type="text/javascript" src="http://cdn.hcharts.cn/highcharts/exporting.js"></script>
-  
 <script type="text/javascript">
 $(document).ready(function(e) {
     $(".select1").uedSelect({
@@ -22,51 +18,6 @@ $(document).ready(function(e) {
 	$(".select3").uedSelect({
 		width : 100
 	});
-	$('#container').highcharts({
-        title: {
-            text: 'Monthly Average Temperature',
-            x: -20 //center
-        },
-        subtitle: {
-            text: 'Source: WorldClimate.com',
-            x: -20
-        },
-        xAxis: {
-            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun','Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-        },
-        yAxis: {
-            title: {
-                text: 'Temperature (°C)'
-            },
-            plotLines: [{
-                value: 0,
-                width: 1,
-                color: '#808080'
-            }]
-        },
-        tooltip: {
-            valueSuffix: '°C'
-        },
-        legend: {
-            layout: 'vertical',
-            align: 'right',
-            verticalAlign: 'middle',
-            borderWidth: 0
-        },
-        series: [{
-            name: 'Tokyo',
-            data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
-        }, {
-            name: 'New York',
-            data: [-0.2, 0.8, 5.7, 11.3, 17.0, 22.0, 24.8, 24.1, 20.1, 14.1, 8.6, 2.5]
-        }, {
-            name: 'Berlin',
-            data: [-0.9, 0.6, 3.5, 8.4, 13.5, 17.0, 18.6, 17.9, 14.3, 9.0, 3.9, 1.0]
-        }, {
-            name: 'London',
-            data: [3.9, 4.2, 5.7, 8.5, 11.9, 15.2, 17.0, 16.6, 14.2, 10.3, 6.6, 4.8]
-        }]
-    });
 });
 </script>
 </head>
@@ -82,10 +33,10 @@ $(document).ready(function(e) {
 <div class="mainbox">
   <div class="mainleft">
     <div class="leftinfo">
-      <div class="listtitle">工单统计</div>
+      <div class="listtitle">top脚本</div>
       <div class="rightinfo">
         <ul class="seachform">
-        <?php echo form_open(base_url('report/report_ticket'),'post'); ?>
+        <?php echo form_open(base_url('report/report_script'),'post'); ?>
           <li>
             <label>按时间段查看</label>
             <div class="vocation">
@@ -102,21 +53,19 @@ $(document).ready(function(e) {
             <input name="" type="submit" class="scbtn" value="查询"/>
           </li>
         </ul>
-        <div style="clear:both;" id='container'>  </div>
+        <div style="clear:both;"> <img src="../../images/zx.jpg" width="" height="253" /> </div>
         <table class="tablelist">
           <thead>
             <tr>
               <th width="60">序号<i class="sort"><img src="<?php echo base_url('images/px.gif') ?>" /></i></th>
               <th>日期</th>
-              <th>工单总量</th>
-              <th>已处理工单量</th>
-              <th>未处理工单量</th>
+              <th>脚本使用量</th>
               <th>操作</th>
             </tr>
           </thead>
           <tbody>
-          <?php if(!empty($ticket_records)){
-        foreach ($ticket_records as $key1 => $value1){ ?>
+          <?php if(!empty($script_records)){
+        foreach ($script_records as $key1 => $value1){ ?>
             <tr>
               <td><?php echo $key1+1 ?></td>
               <td><?php 
@@ -131,13 +80,11 @@ $(document).ready(function(e) {
               }    
                ?></td>
               <td><?php echo $value1['count'] ?></td>
-              <td><?php echo $value1['county'] ?></td>
-              <td><?php echo $value1['countn'] ?></td>
               <td><a href="">查看详情</a></td>
             </tr>
             <?php }}else { ?>
           <tr align="center">
-            <td colspan="6"><h3>暂时没有要查询的记录</h3></td>
+            <td colspan="4"><h3>暂时没有要查询的记录</h3></td>
           </tr>
           <?php } ?>            
           </tbody>
@@ -152,18 +99,16 @@ $(document).ready(function(e) {
   
   <div class="mainright">
     <div class="dflist">
-      <div class="listtitle">工单总统计</div>
+      <div class="listtitle">脚本总统计</div>
          <ul class="newlist">
-           <li><i>工单总量：</i><?php echo $tickets[0]['count'] ?></li>
-           <li><i>已处理工单量：</i><?php echo $handle_tickets[0]['count'] ?></li>
-           <li><i>未处理工单量：</i><?php echo $no_handle_tickets[0]['count'] ?></li>
-           <li><i>周内新增工单量：</i><?php echo $week_increase_tickets[0]['count'] ?></li>
-           <li><i>日平均处理量：</i><?php echo $avg_tickets[0]['avg'] ?></li>
-           <li><i>平均完成率：</i><?php echo $avg_complate ?></li>
+           <li><i>脚本总量：</i><?php echo $scripts[0]['count'] ?></li>
+            <li><i>已使用脚本数：</i><?php echo $use_scripts[0]['count'] ?></li>
+            <li><i>审核未通过的脚本数：</i><?php echo $no_pass_scripts[0]['count'] ?></li>
+            <li><i>热门脚本数：</i><?php echo $hot_scripts[0]['count'] ?></li>
          </ul>
     </div>
     <div class="dflist1">
-      <div class="listtitle">top工单脚本排行</div>
+      <div class="listtitle">热门脚本排行</div>
       <ul class="rightinfo">
         <table class="tablelist">
           <thead>
@@ -171,16 +116,16 @@ $(document).ready(function(e) {
               <th width="60">序号</th>
               <th>游戏名称</th>
               <th>脚本名称</th>
-              <th>工单数量</th>
+              <th>使用总数量</th>
             </tr>
           </thead>
           <tbody>
-          <?php if(!empty($tickets_top)){
-        foreach ($tickets_top as $key => $value){ ?>
+          <?php if(!empty($scripts_top)){
+        foreach ($scripts_top as $key => $value){ ?>
             <tr>
               <td><?php echo $key+1 ?></td>
               <td><?php echo $value['game_name'] ?></td>
-              <td><a href="javascript:void(0);"><?php echo $value['script_name'] ?></a></td>
+              <td><?php echo $value['script_name'] ?></td>
               <td><?php echo $value['count'] ?></td>
             </tr>
             <?php }}else { ?>
