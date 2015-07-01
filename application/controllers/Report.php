@@ -127,7 +127,108 @@ class Report extends CI_Controller {
 	    }
 	}
 
-
+	
+	public function report_vm()
+	{
+	    if ($this->auth->hasLogin()) {
+	         
+	        $serch=$this->input->post('serch', TRUE);
+	        if(empty($serch)){
+	            $serch='1';
+	        }
+	        //虚拟机总数
+	        $this->_data['vms']=$this->report_mdl->get_data('vms');
+	        //虚拟机使用量
+	        $this->_data['use_vms']=$this->report_mdl->get_data('use_vms');
+	        //虚拟机闲置量
+	        $this->_data['no_used_vms']=$this->report_mdl->get_data('no_used_vms');
+	        //虚拟机故障率：
+	        $this->_data['error_vms']=$this->report_mdl->get_data('error_vms');
+	        
+	        if($serch =='1'){//月虚拟机使用数
+	            $month_vms=$this->report_mdl->get_data('month_vms');
+	            $this->_data['x']=$this->handle($month_vms,'x');
+	            $this->_data['y']=$this->handle($month_vms,'y');
+	            $this->_data['vm_records']=$month_vms;
+	        }elseif ($serch =='2'){//周虚拟机使用数
+	            $week_vms=$this->report_mdl->get_data('week_vms');
+	            $this->_data['x']=$this->handle($week_vms,'x');
+	            $this->_data['y']=$this->handle($week_vms,'y');
+	            $this->_data['vm_records']=$week_vms;
+	        }elseif ($serch == '3'){//最近一周虚拟机使用数
+	            $recent_week_vms=$this->report_mdl->get_data('recent_week_vms');
+	            $this->_data['x']=$this->handle($recent_week_vms,'x');
+	            $this->_data['y']=$this->handle($recent_week_vms,'y');
+	            $this->_data['vm_records']=$recent_week_vms;
+	        }elseif ($serch == '4'){//最近一月虚拟机使用数
+	            $recent_month_vms=$this->report_mdl->get_data('recent_month_vms');
+	            $this->_data['x']=$this->handle($recent_month_vms,'x');
+	            $this->_data['y']=$this->handle($recent_month_vms,'y');
+	            $this->_data['vm_records']=$recent_month_vms;
+	        }
+	        //top工单脚本排行
+	        $this->_data['vms_top']=$this->report_mdl->get_data('vms_top');
+	         
+	        $this->_data['serch']=$serch;
+	        $this->load->view('report_vm',$this->_data);
+	    }else{
+	        $this->information=$this->config->item('user_login_tips');
+	        $this->_data['error_string'] = $this->information['nologin_sessionout'];
+	        $this->load->view('login',$this->_data);
+	    }
+	}
+	
+	public function report_script()
+	{
+	    if ($this->auth->hasLogin()) {
+	
+	        $serch=$this->input->post('serch', TRUE);
+	        if(empty($serch)){
+	            $serch='1';
+	        }
+	        
+	        //脚本总量
+	        $this->_data['scripts']=$this->report_mdl->get_data('scripts');
+	        //已使用脚本数
+	        $this->_data['use_scripts']=$this->report_mdl->get_data('use_scripts');
+	        //审核未通过的脚本数
+	        $this->_data['no_pass_scripts']=$this->report_mdl->get_data('no_pass_scripts');
+	        //热门脚本数
+	        $this->_data['hot_scripts']=$this->report_mdl->get_data('hot_scripts');
+	         
+	        if($serch =='1'){//月使用脚本数、
+	            $month_scripts=$this->report_mdl->get_data('month_scripts');
+	            $this->_data['x']=$this->handle($month_scripts,'x');
+	            $this->_data['y']=$this->handle($month_scripts,'y');
+	            $this->_data['script_records']=$month_scripts;
+	        }elseif ($serch =='2'){//周脚本使用数
+	            $week_scripts=$this->report_mdl->get_data('week_scripts');
+	            $this->_data['x']=$this->handle($week_scripts,'x');
+	            $this->_data['y']=$this->handle($week_scripts,'y');
+	            $this->_data['script_records']=$week_scripts;
+	        }elseif ($serch == '3'){//最近一周工单
+	            $recent_week_scripts=$this->report_mdl->get_data('recent_week_scripts');
+	            $this->_data['x']=$this->handle($recent_week_scripts,'x');
+	            $this->_data['y']=$this->handle($recent_week_scripts,'y');
+	            $this->_data['script_records']=$recent_week_scripts;
+	        }elseif ($serch == '4'){//最近一月工单
+	            $recent_month_scripts=$this->report_mdl->get_data('recent_month_scripts');
+	            $this->_data['x']=$this->handle($recent_month_scripts,'x');
+	            $this->_data['y']=$this->handle($recent_month_scripts,'y');
+	            $this->_data['script_records']=$recent_month_scripts;
+	        }
+	        //top工单脚本排行
+	        $this->_data['scripts_top']=$this->report_mdl->get_data('scripts_top');
+	
+	        $this->_data['serch']=$serch;
+	        $this->load->view('report_script',$this->_data);
+	    }else{
+	        $this->information=$this->config->item('user_login_tips');
+	        $this->_data['error_string'] = $this->information['nologin_sessionout'];
+	        $this->load->view('login',$this->_data);
+	    }
+	}
+	
 	public function handle($array,$h){
 	    $arr=array();
 	    if($h == 'x'){
@@ -144,9 +245,6 @@ class Report extends CI_Controller {
 	        }
 	    }
 	    return json_encode($arr);
-	}
-	public function handleMonth($array){
-	    
 	}
 	public function report_user(){
 	   $serch=$this->input->post('serch')?$this->input->post('serch'):1;
